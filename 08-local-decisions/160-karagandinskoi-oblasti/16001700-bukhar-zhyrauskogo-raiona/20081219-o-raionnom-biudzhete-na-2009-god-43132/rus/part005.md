@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43132/rus/19.12.2008
+source: https://zan.gov.kz/client/#!/doc/43132/rus/01.02.2009
 ---
 
 ## Расходы районного бюджета по сельским округам и поселкам на 2009 год

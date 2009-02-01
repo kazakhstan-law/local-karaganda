@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43132/kaz/19.12.2008
+source: https://zan.gov.kz/client/#!/doc/43132/kaz/01.02.2009
 ---
 
 ## 2009 жылға арналған аудандық бюджеттің селолық округтер мен кенттерінің шығыстары
