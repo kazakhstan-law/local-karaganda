@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
+source: https://zan.gov.kz/client/#!/doc/43252/kaz/12.03.2009
 ---
 
 # 2009 жылға арналған аудандық бюджет туралы
@@ -8,7 +8,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 
 1. 2009 жылға арналған бюджет № 1 қосымшасына сәйкес келесі көлемдерде бекітілсін:
 
-   1) кірістер - 2796529 мың теңге, оның ішінде:
+   1) кірістер - 2813575 мың теңге, оның ішінде:
 
       салық түсімдері - 664006 мың теңге;
 
@@ -16,15 +16,17 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 
       негізгі капиталды сатудан түсетін түсімдер - 4297 мың теңге;
 
-      ресми трансферттерден түсетін түсімдер - 2126261 мың теңге;
+      ресми трансферттерден түсетін түсімдер - 2122461 мың теңге;
 
-   2) шығындар - 2796529 мың теңге;
+   2) шығындар - 2813575 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0 мың теңге, оның ішінде;
 
       бюджеттік кредиттер – 0 мың теңге;
 
       бюджеттік кредиттерді өтеу – 0 мың теңге;
+
+   3-1) бюджет қаражаты қалдықтарының қозғалысы 20846 мың тенге, оның ішінде, бюджет қаражатының бос қалдықтары 20846 мың тенге;
 
    4) қаржылық активтермен операция бойынша сальдо – 0 мың теңге, оның ішінде;
 
@@ -41,6 +43,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
       қарыздарды өтеу – 0 мың теңге;
 
       бюджет қаржаттарының пайдаланылған қалдықтары – 0 мың теңге;
+
+      > *Ескерту. 1-тармаққа өзгерту енгізілді - Қарағанды облысы Шет аудандық мәслихатының 2009.03.12 N 12/158 (2009.01.01 бастап қолданысқа енеді) шешімімен.*
 
 2. 2009 жылға арналған аудандық бюджетке кірістерді бөлу нормативтері келесі мөлшерде бекітілсін:
 
@@ -80,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 
     Соттардың шешімдері бойынша міндеттемелерді орындауға арналған ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органның резерві 40785 мың теңге.
 
-18. Аудандық бюджеттен қаржыланатын ауыл (село) кент әкімдіктерінің бағдарламалар бойынша шығыстары мөлшері № 1 қосымшаға сәйкес аықталсын.
+18. Аудандық бюджеттен қаржыланатын ауыл (село) кент әкімдіктерінің бағдарламалар бойынша шығыстары мөлшері № 1 қосымшаға сәйкес анықталсын.
 
 19. Осы шешім 2009 жылдың 1 қаңтарынан бастап қолданысқа енеді.
 
@@ -97,33 +101,22 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 
 ## 2009 жылға арналған аудандық бюджет
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Шет аудандық мәслихатының 2009.03.12 N 12/158 (2009.01.01 бастап қолданысқа енеді) шешімімен.*
+
 <table>
 <tr>
-<td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы (мың теңге)</td>
+<td colspan="4">Санаты</td>
+<td rowspan="4">Атауы</td>
+<td rowspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="4">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ерекшелiгi</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атауы</td>
-<td></td>
+<td colspan="4">Ерекшелiгi</td>
 </tr>
 <tr>
 <th>1</th>
@@ -131,31 +124,31 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th>6</th>
+<th></th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1. Түсiмдер</td>
-<td>2796529</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>1. Түсiмдер</th>
+<th>2813575</th>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кiрiстер</td>
-<td>670268</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Кiрiстер</th>
+<th>670268</th>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Салықтық түсімдер</td>
-<td>664006</td>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Салықтық түсімдер</th>
+<th>664006</th>
 </tr>
 <tr>
 <td></td>
@@ -290,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>7</td>
-<td>Ауыл шаруашылығы мақсатындағы жерлерге заңды тұлғалардан, жеке кәсіпкерлерден, жеке нотариустар мен адвокаттардан алынатын жер салығы</td>
+<td>Ауыл шаруашылығы мақсатындағы жерлерге заңды тұлғалардан, жеке кәсіпкерлерден, жеке нотариустар мен адвокаттардан алынатын жер</td>
 <td>12</td>
 </tr>
 <tr>
@@ -458,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>20</td>
-<td>Жергiлiктi маңызы бар және елдi мекендердегi жалпы пайдаланудағы автомобиль жолдарының бөлу жолағында сыртқы (көрнекi) жарнамаларды орналастырганы үшiн алынатын төлем</td>
+<td>Жергiлiктi маңызы бар және елдi мекендердегi жалпы пайдаланудағы автомобиль жолдарының бөлу жолағында сыртқы (көрнекi) жарнамаларды орналастырғаны үшiн алынатын төлем</td>
 <td>80</td>
 </tr>
 <tr>
@@ -514,7 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>8</td>
-<td>Тұрғылықты жерiн тiркегенi үшiн алынатын мемлекеттiк баж</td>
+<td>Тұрғылықты жерiн тiркегенi үшiн алынатын мемлекетiк баж</td>
 <td>595</td>
 </tr>
 <tr>
@@ -542,12 +535,12 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>38</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Салықтық емес түсiмдер</td>
-<td>1965</td>
+<th>2</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Салықтық емес түсiмдер</th>
+<th>1965</th>
 </tr>
 <tr>
 <td></td>
@@ -654,12 +647,12 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>545</td>
 </tr>
 <tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Негізгі капиталды сатудан түсетін түсімдер</td>
-<td>4297</td>
+<th>3</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Негізгі капиталды сатудан түсетін түсімдер</th>
+<th>4297</th>
 </tr>
 <tr>
 <td></td>
@@ -686,20 +679,20 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>4297</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ресми трансферттердің түсімдері</td>
-<td>2126261</td>
+<th>4</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Ресми трансферттердің түсімдері</th>
+<th>2122461</th>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
 <td></td>
-<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>2126261</td>
+<td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн</td>
+<td>2122461</td>
 </tr>
 <tr>
 <td></td>
@@ -707,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>2</td>
 <td></td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>2126261</td>
+<td>2122461</td>
 </tr>
 <tr>
 <td></td>
@@ -715,7 +708,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td>1</td>
 <td>Ағымдағы нысаналы трансферттер</td>
-<td>293589</td>
+<td>78380</td>
 </tr>
 <tr>
 <td></td>
@@ -723,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td>2</td>
 <td>Нысаналы даму трансферттері</td>
-<td>482698</td>
+<td>478898</td>
 </tr>
 <tr>
 <td></td>
@@ -734,12 +727,20 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>1349974</td>
 </tr>
 <tr>
-<td>8</td>
 <td></td>
 <td></td>
 <td></td>
-<td>Бюджет қаражаты қалдықтарының қозғалысы</td>
-<td>0</td>
+<td>4</td>
+<td>Аудандық (қалалық) бюджеттерден облыстық бюджеттің ысырабын өтеуге арналған трансферттер түсімдері</td>
+<td>215209</td>
+</tr>
+<tr>
+<th>8</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Бюджет қаражаты қалдықтарының қозғалысы</th>
+<th>20846</th>
 </tr>
 <tr>
 <td></td>
@@ -747,7 +748,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Бюджет қаражаты қалдықтары</td>
-<td>0</td>
+<td>20846</td>
 </tr>
 <tr>
 <td></td>
@@ -755,7 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>1</td>
 <td></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td>0</td>
+<td>20846</td>
 </tr>
 <tr>
 <td></td>
@@ -763,7 +764,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td>01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
-<td></td>
+<td>20846</td>
 </tr>
 <tr>
 <td></td>
@@ -789,80 +790,70 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td rowspan="5">(мың теңге)</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="5"></td>
 <td colspan="6">Кіші функция</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="5">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="3">Кіші бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td>Атауы</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>II. Шығыстар</td>
-<td>2796529</td>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>II. Шығыстар</th>
+<th>2813575</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Шығындар</th>
+<th>2813575</th>
+</tr>
+<tr>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Жалпы сипаттағы мемлекеттiк қызметтер</th>
+<th>200687</th>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығындар</td>
-<td>2796529</td>
-</tr>
-<tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>200122</td>
-</tr>
-<tr>
-<td>1</td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>177272</td>
+<td>177837</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>112</td>
 <td></td>
 <td></td>
@@ -871,9 +862,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>11657</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>112</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -881,29 +872,29 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>11657</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td>40302</td>
+<td>40867</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету</td>
-<td>39652</td>
+<td>40217</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td></td>
@@ -911,8 +902,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>650</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -921,9 +912,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>125313</td>
 </tr>
 <tr>
-<td>1</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -941,8 +932,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>12510</td>
 </tr>
 <tr>
-<td>1</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -951,9 +942,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>12510</td>
 </tr>
 <tr>
-<td>1</td>
-<td>02</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -961,19 +952,19 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>10424</td>
 </tr>
 <tr>
-<td>1</td>
-<td>02</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
-<td>000</td>
+<td></td>
 <td></td>
 <td>Салық салу мақсатында мүлікті бағалауды жүргізу</td>
 <td>436</td>
 </tr>
 <tr>
-<td>1</td>
-<td>02</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td></td>
@@ -981,7 +972,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>1650</td>
 </tr>
 <tr>
-<td>1</td>
+<td></td>
 <td>05</td>
 <td></td>
 <td></td>
@@ -991,8 +982,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>10340</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
+<td></td>
+<td></td>
 <td>453</td>
 <td></td>
 <td></td>
@@ -1001,9 +992,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>10340</td>
 </tr>
 <tr>
-<td>1</td>
-<td>05</td>
-<td>453</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -1011,44 +1002,14 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>10340</td>
 </tr>
 <tr>
-<td></td>
-<td>09</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы өзге де мемлекеттiк қызметтер</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>122</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>008</td>
-<td></td>
-<td></td>
-<td>Мемлекеттік қызметшілерді компьютерлік сауаттылыққа оқыту</td>
-<td>0</td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қорғаныс</td>
-<td>3426</td>
+<th>2</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Қорғаныс</th>
+<th>3576</th>
 </tr>
 <tr>
 <td></td>
@@ -1058,37 +1019,37 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Әскери мұқтаждар</td>
-<td>3426</td>
+<td>3576</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>122</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td>3426</td>
+<td>3576</td>
 </tr>
 <tr>
-<td>2</td>
-<td>01</td>
-<td>122</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td></td>
 <td>Жалпыға бірдей әскери міндетті атқару шеңберіндегі іс-шаралар</td>
-<td>3426</td>
+<td>3576</td>
 </tr>
 <tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
-<td>500</td>
+<th>3</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</th>
+<th>500</th>
 </tr>
 <tr>
 <td></td>
@@ -1101,8 +1062,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>500</td>
 </tr>
 <tr>
-<td>3</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1111,9 +1072,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>500</td>
 </tr>
 <tr>
-<td>3</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>021</td>
 <td></td>
 <td></td>
@@ -1121,14 +1082,14 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>500</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бiлiм беру</td>
-<td>1579777</td>
+<th>4</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Бiлiм беру</th>
+<th>1539314</th>
 </tr>
 <tr>
 <td></td>
@@ -1138,7 +1099,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>56458</td>
+<td>56657</td>
 </tr>
 <tr>
 <td></td>
@@ -1161,38 +1122,38 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 </tr>
 <tr>
-<td>4</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>464</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
-<td>56458</td>
+<td>56657</td>
 </tr>
 <tr>
-<td>4</td>
-<td>01</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td></td>
-<td>Мектепке дейінгі тәрбие ұйымдарының қызметін қамтамасыз ету</td>
-<td>56458</td>
+<td>Мектепке дейінгі тәрбие ұйымдарынің қызметін қамтамасыз ету</td>
+<td>56657</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жалпы бастауыш, жалпы негізгі, жалпы орта бiлiм беру</td>
-<td>1496500</td>
+<td>1455838</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1201,9 +1162,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>2087</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td></td>
@@ -1211,34 +1172,34 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>2087</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>464</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
-<td>1480273</td>
+<td>1438491</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td></td>
 <td>Жалпы білім беру</td>
-<td>1454481</td>
+<td>1412469</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td></td>
 <td>Балалар мен жас өспірімдер үшін қосымша білім беру</td>
-<td>13077</td>
+<td>13307</td>
 </tr>
 <tr>
 <td></td>
@@ -1258,7 +1219,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім беру бөлімі</td>
-<td>14140</td>
+<td>15260</td>
 </tr>
 <tr>
 <td></td>
@@ -1268,10 +1229,10 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Кәсіптік оқытуды ұйымдастыру</td>
-<td>14140</td>
+<td>15260</td>
 </tr>
 <tr>
-<td>4</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1281,8 +1242,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>26819</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>464</td>
 <td></td>
 <td></td>
@@ -1291,9 +1252,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>26819</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -1311,9 +1272,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>5347</td>
 </tr>
 <tr>
-<td>4</td>
-<td>02</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td></td>
@@ -1321,9 +1282,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>13330</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>464</td>
+<td></td>
+<td></td>
+<td></td>
 <td>116</td>
 <td></td>
 <td></td>
@@ -1331,8 +1292,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -1341,9 +1302,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
-<td>09</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td></td>
@@ -1351,28 +1312,28 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>149605</td>
+<th>6</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</th>
+<th>160559</th>
 </tr>
 <tr>
-<td>6</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>137592</td>
+<td>147808</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
@@ -1381,9 +1342,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>5977</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td></td>
@@ -1391,19 +1352,19 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>5977</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>131615</td>
+<td>141831</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td></td>
@@ -1411,9 +1372,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>40943</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td></td>
@@ -1421,9 +1382,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>6917</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td></td>
@@ -1431,9 +1392,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>35344</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td></td>
@@ -1441,19 +1402,19 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>2453</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td></td>
 <td>Жергілікті өкілетті органдардың шешімі бойынша азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>18308</td>
+<td>27156</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td></td>
@@ -1461,9 +1422,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>0</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td></td>
@@ -1471,9 +1432,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>208</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>016</td>
 <td></td>
 <td></td>
@@ -1481,39 +1442,39 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>26496</td>
 </tr>
 <tr>
-<td>6</td>
-<td>02</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>017</td>
 <td></td>
 <td></td>
 <td>Мүгедектерді оңалту жеке бағдарламасына сәйкес, мұқтаж мүгедектерді міндетті гигиеналық құралдармен қамтамасыз етуге, және ымдау тілі мамандарының, жеке көмекшілердің қызмет көрсету</td>
-<td>946</td>
+<td>2314</td>
 </tr>
 <tr>
-<td>6</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td>12013</td>
+<td>12751</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>451</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>12013</td>
+<td>12751</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -1521,38 +1482,38 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>11064</td>
 </tr>
 <tr>
-<td>6</td>
-<td>09</td>
-<td>451</td>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td></td>
 <td></td>
 <td>Жәрдемақыларды және басқа да әлеуметтік төлемдерді есептеу, төлеу мен жеткізу бойынша қызметтерге ақы төлеу</td>
-<td>949</td>
+<td>1687</td>
 </tr>
 <tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>600338</td>
+<th>7</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Тұрғын үй-коммуналдық шаруашылық</th>
+<th>638151</th>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>35500</td>
+<td>33638</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -1561,89 +1522,89 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>4500</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td></td>
-<td>Азаматтардың жекелеген санаттарын тұрғын үймен қамтамасыз ету</td>
+<td>Азматтардың жекелген санаттарын тұрғын үймен қамтамасыз ету</td>
 <td>4500</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>31000</td>
+<td>29138</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td></td>
 <td>Тұрғын үй салу</td>
-<td>22000</td>
+<td>25138</td>
 </tr>
 <tr>
-<td>7</td>
-<td>01</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td></td>
-<td>Инженерлік коммуникациялық инфрақұрылымды дамыту және жайластыру</td>
-<td>9000</td>
+<td>Инженерлік коммуниациялық инфрақұрылымды дамыту және жайластыру</td>
+<td>4000</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>511620</td>
+<td>536773</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>2000</td>
+<td>3453</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>014</td>
 <td></td>
 <td></td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>2000</td>
+<td>3453</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>509620</td>
+<td>533320</td>
 </tr>
 <tr>
-<td>7</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>005</td>
 <td></td>
 <td></td>
@@ -1658,42 +1619,42 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Сумен жабдықтау жүйесін дамыту</td>
-<td>459567</td>
+<td>483267</td>
 </tr>
 <tr>
-<td>7</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>53218</td>
+<td>67740</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>53218</td>
+<td>67740</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>008</td>
 <td></td>
 <td></td>
 <td>Елді мекендерде көшелерді жарықтандыру</td>
-<td>8117</td>
+<td>10017</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>009</td>
 <td></td>
 <td></td>
@@ -1701,9 +1662,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>3000</td>
 </tr>
 <tr>
-<td>7</td>
-<td>03</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>010</td>
 <td></td>
 <td></td>
@@ -1718,51 +1679,51 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>41988</td>
+<td>54610</td>
 </tr>
 <tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>136593</td>
+<th>8</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Мәдениет, спорт, туризм және ақпараттық кеңістiк</th>
+<th>141260</th>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>82469</td>
+<td>87136</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>77886</td>
+<td>82553</td>
 </tr>
 <tr>
-<td>8</td>
-<td>01</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td></td>
 <td>Мәдени-демалыс жұмысын қолдау</td>
-<td>77886</td>
+<td>82553</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>465</td>
 <td></td>
 <td></td>
@@ -1781,9 +1742,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>300</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td></td>
@@ -1791,9 +1752,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>2624</td>
 </tr>
 <tr>
-<td>8</td>
-<td>02</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td>007</td>
 <td></td>
 <td></td>
@@ -1801,7 +1762,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>1659</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
@@ -1811,8 +1772,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>37844</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>455</td>
 <td></td>
 <td></td>
@@ -1821,9 +1782,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>30519</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>006</td>
 <td></td>
 <td></td>
@@ -1831,8 +1792,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>30519</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -1841,9 +1802,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>7325</td>
 </tr>
 <tr>
-<td>8</td>
-<td>03</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>002</td>
 <td></td>
 <td></td>
@@ -1851,7 +1812,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>7325</td>
 </tr>
 <tr>
-<td>8</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -1871,9 +1832,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>4690</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>455</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -1891,8 +1852,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>1159</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>456</td>
 <td></td>
 <td></td>
@@ -1901,9 +1862,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>6697</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -1911,9 +1872,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>6197</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>456</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td></td>
@@ -1921,8 +1882,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>500</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>465</td>
 <td></td>
 <td></td>
@@ -1931,9 +1892,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>4893</td>
 </tr>
 <tr>
-<td>8</td>
-<td>09</td>
-<td>465</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -1951,49 +1912,49 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>624</td>
 </tr>
 <tr>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>27430</td>
+<th>10</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</th>
+<th>12430</th>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>21180</td>
+<td>6180</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>462</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылық бөлімі</td>
-<td>16180</td>
+<td>6180</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
-<td>462</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы бөлімінің қызметін қамтамасыз ету</td>
-<td>15930</td>
+<td>5930</td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
-<td>462</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td></td>
@@ -2001,9 +1962,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 </tr>
 <tr>
-<td>10</td>
-<td>01</td>
-<td>462</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td></td>
@@ -2018,7 +1979,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>5000</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -2028,10 +1989,10 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы объектілерін дамыту</td>
-<td>5000</td>
+<td>0</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -2041,8 +2002,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>6250</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
+<td></td>
+<td></td>
 <td>463</td>
 <td></td>
 <td></td>
@@ -2051,9 +2012,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>6250</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -2061,9 +2022,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>5250</td>
 </tr>
 <tr>
-<td>10</td>
-<td>06</td>
-<td>463</td>
+<td></td>
+<td></td>
+<td></td>
 <td>004</td>
 <td></td>
 <td></td>
@@ -2081,28 +2042,28 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>1000</td>
 </tr>
 <tr>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Өнеркәсіп, сәулет, қала құрылысы және құрылыс</td>
-<td>16101</td>
+<th>11</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</th>
+<th>14201</th>
 </tr>
 <tr>
-<td>11</td>
+<td></td>
 <td>02</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>16101</td>
+<td>14201</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>467</td>
 <td></td>
 <td></td>
@@ -2111,9 +2072,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>3959</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
-<td>467</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -2121,19 +2082,19 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>3959</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
+<td></td>
+<td></td>
 <td>468</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) сәулет және қала құрылысы бөлімі</td>
-<td>12142</td>
+<td>10242</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -2141,58 +2102,58 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>4142</td>
 </tr>
 <tr>
-<td>11</td>
-<td>02</td>
-<td>468</td>
+<td></td>
+<td></td>
+<td></td>
 <td>003</td>
 <td></td>
 <td></td>
 <td>Елді мекендер құрылысының бас жоспарларынын әзірлеу</td>
-<td>8000</td>
+<td>6100</td>
 </tr>
 <tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көлiк және коммуникация</td>
-<td>31929</td>
+<th>12</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Көлiк және коммуникация</th>
+<th>51929</th>
 </tr>
 <tr>
-<td>12</td>
+<td></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>31929</td>
+<td>51929</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>123</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>23862</td>
+<td>43862</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
-<td>123</td>
+<td></td>
+<td></td>
+<td></td>
 <td>013</td>
 <td></td>
 <td></td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда (селоларда), ауылдық (селолық) округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>23862</td>
+<td>43862</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -2201,9 +2162,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>8067</td>
 </tr>
 <tr>
-<td>12</td>
-<td>01</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>023</td>
 <td></td>
 <td></td>
@@ -2211,44 +2172,44 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>8067</td>
 </tr>
 <tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Басқалар</td>
-<td>50708</td>
+<th>13</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Басқалар</th>
+<th>50966</th>
 </tr>
 <tr>
-<td>13</td>
+<td></td>
 <td>03</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Кәсiпкерлiк қызметтi қолдау және бәсекелестікті қорғау</td>
-<td>5204</td>
+<td>5462</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
+<td></td>
+<td></td>
 <td>469</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік бөлімі</td>
-<td>5204</td>
+<td>5462</td>
 </tr>
 <tr>
-<td>13</td>
-<td>03</td>
-<td>469</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
 <td>Кәсіпкерлік бөлімі қызметін қамтамасыз ету</td>
-<td>5204</td>
+<td>5462</td>
 </tr>
 <tr>
 <td></td>
@@ -2257,11 +2218,11 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>003</td>
 <td></td>
 <td></td>
-<td>Қәсіпкерлік қызметін қолдау</td>
+<td>Кәсіпкерлік қызметін қолдау</td>
 <td>0</td>
 </tr>
 <tr>
-<td>13</td>
+<td></td>
 <td>09</td>
 <td></td>
 <td></td>
@@ -2271,8 +2232,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>45504</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>452</td>
 <td></td>
 <td></td>
@@ -2281,19 +2242,19 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>40785</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>012</td>
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td></td>
+<td>40785</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
-<td>452</td>
+<td></td>
+<td></td>
+<td></td>
 <td>014</td>
 <td></td>
 <td></td>
@@ -2301,8 +2262,8 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
+<td></td>
+<td></td>
 <td>458</td>
 <td></td>
 <td></td>
@@ -2311,9 +2272,9 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td>4719</td>
 </tr>
 <tr>
-<td>13</td>
-<td>09</td>
-<td>458</td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td></td>
 <td></td>
@@ -2331,14 +2292,14 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 </tr>
 <tr>
-<td>15</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ресми трансферттер</td>
-<td>0</td>
+<th>15</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Ресми трансферттер</th>
+<th>2</th>
 </tr>
 <tr>
 <td></td>
@@ -2348,7 +2309,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Ресми трансферттер</td>
-<td>0</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
@@ -2358,7 +2319,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>0</td>
+<td>2</td>
 </tr>
 <tr>
 <td></td>
@@ -2368,7 +2329,7 @@ source: https://zan.gov.kz/client/#!/doc/43252/kaz/25.12.2008
 <td></td>
 <td></td>
 <td>Нысаналы трансферттерді қайтару</td>
-<td></td>
+<td>2</td>
 </tr>
 </table>
 
