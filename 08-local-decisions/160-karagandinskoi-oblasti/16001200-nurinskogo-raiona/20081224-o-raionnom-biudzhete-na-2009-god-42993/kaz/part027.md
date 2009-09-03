@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/42993/kaz/29.07.2009
+source: https://zan.gov.kz/client/#!/doc/42993/kaz/03.09.2009
 ---
 
 ## Ткенекты селолық әкімінің аппаратының 2009 жылғы бюджеті

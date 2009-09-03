@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/42993/rus/29.07.2009
+source: https://zan.gov.kz/client/#!/doc/42993/rus/03.09.2009
 ---
 
 ## Бюджет 2009 года Аппарата акима села Ткенекты
