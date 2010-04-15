@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49462/kaz/23.02.2010
+source: https://zan.gov.kz/client/#!/doc/49462/kaz/15.04.2010
 ---
 
 ## Қала, кент, селолық (ауылдық) округтердің 2012 жылға арналған бюджеттік
