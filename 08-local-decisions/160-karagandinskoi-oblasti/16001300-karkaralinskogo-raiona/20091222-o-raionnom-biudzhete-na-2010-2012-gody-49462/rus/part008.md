@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49462/rus/10.09.2010
+source: https://zan.gov.kz/client/#!/doc/49462/rus/02.11.2010
 ---
 
 ## Бюджетные программы города, поселка, сельских (аульных) округов на 2012 год
