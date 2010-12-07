@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49660/kaz/01.12.2010
+source: https://zan.gov.kz/client/#!/doc/49660/kaz/07.12.2010
 ---
 
 ## 2010 жылға арналған Долинка кентінде іске асырылатын бюджеттік бағдарламалар бойынша шығындар

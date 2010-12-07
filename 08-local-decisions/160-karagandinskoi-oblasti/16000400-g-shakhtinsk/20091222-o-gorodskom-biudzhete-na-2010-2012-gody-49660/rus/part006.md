@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49660/rus/01.12.2010
+source: https://zan.gov.kz/client/#!/doc/49660/rus/07.12.2010
 ---
 
 ## Расходы по бюджетным программам, реализуемые в поселке Шахан на 2010 год
