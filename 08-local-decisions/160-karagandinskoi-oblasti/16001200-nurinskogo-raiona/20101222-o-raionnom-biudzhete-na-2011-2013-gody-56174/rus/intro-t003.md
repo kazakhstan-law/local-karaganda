@@ -1,12 +1,12 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/56174/rus/29.03.2011
 ---
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма в (тыс. тенге)</td>
+<td rowspan="4">проект</td>
 </tr>
 <tr>
 <td></td>
@@ -24,11 +24,12 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td></td>
+<td>4</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -67,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td></td>
 <td></td>
 <td>13</td>
-<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>1039</td>
 </tr>
 </table>
@@ -75,7 +76,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма в (тыс. тенге)</td>
+<td rowspan="5">проект</td>
 </tr>
 <tr>
 <td></td>
@@ -100,12 +101,12 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>7</td>
 </tr>
 <tr>
 <td></td>
@@ -123,20 +124,12 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступление от продажи финансовых активов государства</td>
-<td>0</td>
-</tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма в (тыс. тенге)</td>
+<td rowspan="4">проект</td>
 </tr>
 <tr>
 <td></td>
@@ -154,11 +147,12 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td></td>
+<td>4</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -166,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-12314</td>
+<td>-131960</td>
 </tr>
 <tr>
 <td></td>
@@ -174,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>12314</td>
+<td>131960</td>
 </tr>
 <tr>
 <td></td>
@@ -182,7 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td></td>
 <td></td>
 <td>Поступление займов</td>
-<td>13353</td>
+<td>121136</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +206,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>452</td>
 <td>Отдел финансов района (города областного значения)</td>
 <td>1039</td>
 </tr>
@@ -230,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.12.2010
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td>0</td>
+<td>11863</td>
 </tr>
 </table>
 

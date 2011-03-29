@@ -1,12 +1,12 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.12.2010
+source: https://zan.gov.kz/client/#!/doc/56174/kaz/29.03.2011
 ---
 
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="5">сома (мың теңге)</td>
+<td rowspan="6"></td>
 </tr>
 <tr>
 <td></td>
@@ -36,7 +36,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.12.2010
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -83,7 +82,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.12.2010
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="5">сома (мың теңге)</td>
+<td rowspan="5"></td>
 </tr>
 <tr>
 <td></td>
@@ -137,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.12.2010
 <td></td>
 <td></td>
 <td>V. Бюджеттің дефициті (профициті)</td>
-<td>-12314</td>
+<td>-131960</td>
 </tr>
 <tr>
 <td></td>
@@ -145,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.12.2010
 <td></td>
 <td></td>
 <td>VI. Дефицитті қаржыландыру (профицитті пайдалану)</td>
-<td>12314</td>
+<td>-131960</td>
 </tr>
 <tr>
 <td></td>
@@ -153,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.12.2010
 <td></td>
 <td></td>
 <td>қарыздар түсімдері</td>
-<td>13353</td>
+<td>121136</td>
 </tr>
 <tr>
 <td></td>
@@ -193,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.12.2010
 <td></td>
 <td></td>
 <td>бюджет қаражаттарының пайдаланылған қалдықтары</td>
-<td>0</td>
+<td>11863</td>
 </tr>
 </table>
 
