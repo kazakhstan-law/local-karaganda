@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56890/kaz/18.03.2011
+source: https://zan.gov.kz/client/#!/doc/56890/kaz/03.06.2011
 ---
 
 ## Кент және ауылдық (селолық) округ әкімдері аппараттарының 2011 жылға арналған бюджеттері
