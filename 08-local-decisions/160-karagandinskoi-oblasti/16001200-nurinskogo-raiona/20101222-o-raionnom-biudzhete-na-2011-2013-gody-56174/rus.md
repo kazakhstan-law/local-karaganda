@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56174/rus/29.03.2011
+source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 ---
 
 ## Части документа
@@ -11,10 +11,10 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/29.03.2011
 | Часть | Название |
 |---|---|
 | [`intro`](rus/intro.md) | О районном бюджете на 2011-2013 годы |
+| [`intro-t001`](rus/intro-t001.md) | таблица 1 |
 | [`intro-t002`](rus/intro-t002.md) | таблица 2 |
 | [`intro-t003`](rus/intro-t003.md) | таблица 3 |
 | [`intro-t004`](rus/intro-t004.md) | таблица 4 |
 | [`intro-t005`](rus/intro-t005.md) | таблица 5 |
-| [`intro-t006`](rus/intro-t006.md) | таблица 6 |
-| [`intro-part009`](rus/intro-part009.md) | intro-part009 |
+| [`intro-part008`](rus/intro-part008.md) | intro-part008 |
 | [`part001`](rus/part001.md) | Целевые текущие трансферты и бюджетные кредиты из республиканского бюджета на 2011 год |

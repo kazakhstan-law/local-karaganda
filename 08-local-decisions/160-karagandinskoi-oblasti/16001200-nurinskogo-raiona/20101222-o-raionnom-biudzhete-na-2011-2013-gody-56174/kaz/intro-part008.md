@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56174/kaz/29.03.2011
+source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 ---
 
 <table>
@@ -112,7 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/29.03.2011
 <td></td>
 <td></td>
 <td></td>
-<td>IV. Қаржылық активтермен операция бойынша сальдо</td>
+<td>IV. Қаржылық активтерімен операция бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>

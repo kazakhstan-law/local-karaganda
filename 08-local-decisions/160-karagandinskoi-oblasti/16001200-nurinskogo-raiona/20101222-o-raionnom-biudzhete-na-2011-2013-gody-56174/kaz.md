@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56174/kaz/29.03.2011
+source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 ---
 
 ## Части документа
@@ -11,10 +11,10 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/29.03.2011
 | Часть | Название |
 |---|---|
 | [`intro`](kaz/intro.md) | 2011-2013 жылдарға арналған аудандық бюджет туралы |
+| [`intro-t001`](kaz/intro-t001.md) | таблица 1 |
 | [`intro-t002`](kaz/intro-t002.md) | таблица 2 |
 | [`intro-t003`](kaz/intro-t003.md) | таблица 3 |
 | [`intro-t004`](kaz/intro-t004.md) | таблица 4 |
 | [`intro-t005`](kaz/intro-t005.md) | таблица 5 |
-| [`intro-t006`](kaz/intro-t006.md) | таблица 6 |
-| [`intro-part009`](kaz/intro-part009.md) | intro-part009 |
+| [`intro-part008`](kaz/intro-part008.md) | intro-part008 |
 | [`part001`](kaz/part001.md) | 2011 жылға арналған республикалық бюджеттен ағымдағы нысаналы трансферттер және бюджеттік кредиттер |
