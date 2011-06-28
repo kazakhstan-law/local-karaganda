@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56296/rus/30.03.2011
+source: https://zan.gov.kz/client/#!/doc/56296/rus/28.06.2011
 ---
 
 # О городском бюджете на 2011-2013 годы
