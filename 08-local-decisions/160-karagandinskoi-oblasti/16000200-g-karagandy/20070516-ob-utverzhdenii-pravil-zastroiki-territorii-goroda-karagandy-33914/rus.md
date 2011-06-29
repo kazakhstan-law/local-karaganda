@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/33914/rus/08.12.2010
+source: https://zan.gov.kz/client/#!/doc/33914/rus/29.06.2011
 ---
 
 # Об утверждении Правил застройки территории города Караганды
