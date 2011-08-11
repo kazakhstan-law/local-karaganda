@@ -1,30 +1,29 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
+source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 ---
 
 <table>
 <tr>
-<td colspan="5">Санаты</td>
+<td colspan="4">Санаты</td>
 <td rowspan="5">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Сыныбы</td>
+<td colspan="3">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Ішкі сыныбы</td>
+<td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -36,10 +35,8 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th>6</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -50,14 +47,12 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <td>5</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>1039</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
+<td>01</td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>1039</td>
@@ -66,15 +61,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <td></td>
 <td></td>
 <td>1</td>
-<td></td>
-<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
-<td>1039</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>13</td>
 <td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>1039</td>
 </tr>
@@ -82,26 +68,25 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 
 <table>
 <tr>
-<td colspan="5">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
 <td rowspan="5">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Кіші функция</td>
+<td colspan="3">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,29 +98,22 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <th>3</th>
 <th>4</th>
 <th>5</th>
-<th>6</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>IV. Қаржылық активтерімен операция бойынша сальдо</td>
+<td>IV. Қаржылық активтермен операция бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>қаржы активтерін сатып алу</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -146,23 +124,23 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>VI. Дефицитті қаржыландыру (профицитті пайдалану)</td>
 <td>131960</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>қарыздар түсімдері</td>
+<td>Қарыздар түсімдері</td>
 <td>121136</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарыздарды өтеу</td>
 <td>1039</td>
 </tr>
@@ -170,12 +148,10 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарыздарды өтеу</td>
 <td>1039</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,7 +162,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>1039</td>
 </tr>
@@ -194,8 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>бюджет қаражаттарының пайдаланылған қалдықтары</td>
+<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
 <td>11863</td>
 </tr>
 </table>
@@ -717,7 +691,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/22.06.2011
 <td></td>
 <td></td>
 <td>09</td>
-<td>Жергіліктік бюджетке түсетін салықтық емес басқа да түсімдер</td>
+<td>Жергілікті бюджетке түсетін салықтық емес басқа да түсімдер</td>
 <td>535</td>
 </tr>
 <tr>

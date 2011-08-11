@@ -1,12 +1,12 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
+source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 ---
 
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тыс. тенге)</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -18,19 +18,11 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 <td colspan="3">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th>4</th>
+<th colspan="2">4</th>
 <th>5</th>
-<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -59,16 +51,8 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
-<td></td>
-<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>1039</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>13</td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>1039</td>
 </tr>
@@ -77,7 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тыс. тенге)</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -92,22 +76,15 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
+<td colspan="2">Наименование</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
+<th></th>
 <th>4</th>
 <th>5</th>
-<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -125,6 +102,28 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Категория</td>
+<td rowspan="4">Сумма в (тыс. тенге)</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Наименование</td>
+</tr>
 <tr>
 <td></td>
 <td></td>
@@ -133,9 +132,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 <td>V. Дефицит (профицит) бюджета</td>
 <td>-131960</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td></td>
 <td></td>
@@ -172,7 +168,15 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/22.06.2011
 <td></td>
 <td></td>
 <td></td>
-<td>452</td>
+<td></td>
+<td>Погашение займов</td>
+<td>1039</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>Отдел финансов района (города областного значения)</td>
 <td>1039</td>
 </tr>
