@@ -1,25 +1,25 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
+source: https://zan.gov.kz/client/#!/doc/56171/rus/12.08.2011
 ---
 
 ## Бюджетные программы города, поселка, сельских (аульных) округов на 2011 год
 
-> *Сноска. Приложение 6 в редакции решения Каркаралинского районного маслихата Карагандинской области от 29.06.2011 N 36/358 (вводится в действие с 01.01.2011).*
+> *Сноска. Приложение 6 в редакции решения Каркаралинского районного маслихата Карагандинской области от 12.08.2011 N 37/364 (вводится в действие с 01.01.2011).*
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Всего</td>
+<td rowspan="5">Всего</td>
 <td colspan="4">в том числе:</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
-<td rowspan="3">город Каркаралинск</td>
-<td rowspan="3">поселок Карагайлы</td>
-<td rowspan="3">Егиндыбулакский с/о</td>
-<td rowspan="3">Абайский с/о</td>
+<td rowspan="4">город Каркаралинск</td>
+<td rowspan="4">поселок Карагайлы</td>
+<td rowspan="4">Егиндыбулакский с/о</td>
+<td rowspan="4">Абайский с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -38,11 +38,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -98,8 +93,8 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>272040</td>
-<td>40675</td>
+<td>272940</td>
+<td>41575</td>
 <td>19499</td>
 <td>19627</td>
 <td>7894</td>
@@ -110,8 +105,8 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственных органов</td>
-<td>4888</td>
-<td>1019</td>
+<td>3988</td>
+<td>119</td>
 <td>104</td>
 <td>135</td>
 <td>165</td>
@@ -332,11 +327,11 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
-<td rowspan="3">с/о К. Аманжолова</td>
-<td rowspan="3">с/о Н. Абдирова</td>
-<td rowspan="3">Балкантауский с/о</td>
-<td rowspan="3">Бахтинский с/о</td>
-<td rowspan="3">Бесобинский с/о</td>
+<td rowspan="4">с/о К. Аманжолова</td>
+<td rowspan="4">с/о Н. Абдирова</td>
+<td rowspan="4">Балкантауский с/о</td>
+<td rowspan="4">Бахтинский с/о</td>
+<td rowspan="4">Бесобинский с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -355,11 +350,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -649,11 +639,11 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
-<td rowspan="3">Жанатоганский с/о</td>
-<td rowspan="3">Инталинский с/о</td>
-<td rowspan="3">Каракольский с/о</td>
-<td rowspan="3">Кайнарбулакский с/о</td>
-<td rowspan="3">Киргизский с/о</td>
+<td rowspan="4">Жанатоганский с/о</td>
+<td rowspan="4">Инталинский с/о</td>
+<td rowspan="4">Каракольский с/о</td>
+<td rowspan="4">Кайнарбулакский с/о</td>
+<td rowspan="4">Киргизский с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -672,11 +662,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -966,11 +951,11 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
-<td rowspan="3">Кояндинский с/о</td>
-<td rowspan="3">Каршигалинский с/о</td>
-<td rowspan="3">а/о М. Мамраева</td>
-<td rowspan="3">Мадийский с/о</td>
-<td rowspan="3">а/о Н. Нурмакова</td>
+<td rowspan="4">Кояндинский с/о</td>
+<td rowspan="4">Каршигалинский с/о</td>
+<td rowspan="4">а/о М. Мамраева</td>
+<td rowspan="4">Мадийский с/о</td>
+<td rowspan="4">а/о Н. Нурмакова</td>
 </tr>
 <tr>
 <td></td>
@@ -989,11 +974,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1283,12 +1263,12 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
-<td rowspan="3">а/о Таттимбета</td>
-<td rowspan="3">Тегисшильдикский с/о</td>
-<td rowspan="3">Темиршинский с/о</td>
-<td rowspan="3">Томарский с/о</td>
-<td rowspan="3">Шарыктинский с/о</td>
-<td rowspan="3">Угарский с/о</td>
+<td rowspan="4">а/о Таттимбета</td>
+<td rowspan="4">Тегисшильдикский с/о</td>
+<td rowspan="4">Темиршинский с/о</td>
+<td rowspan="4">Томарский с/о</td>
+<td rowspan="4">Шарыктинский с/о</td>
+<td rowspan="4">Угарский с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -1307,12 +1287,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/rus/29.06.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>

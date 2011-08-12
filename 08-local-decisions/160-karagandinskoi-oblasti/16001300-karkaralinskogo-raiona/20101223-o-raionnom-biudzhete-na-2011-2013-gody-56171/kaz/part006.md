@@ -1,25 +1,25 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
+source: https://zan.gov.kz/client/#!/doc/56171/kaz/12.08.2011
 ---
 
 ## Қала, кент, селолық (ауылдық) округтердің 2011 жылға арналған бюджеттік бағдарламалары
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Қарағанды облысы Қарқаралы аудандық мәслихатының 2011.06.29 N 36/358 (2011.01.01 бастап қолданысқа енеді) шешімімен.*
+> *Ескерту. 6-қосымша жаңа редакцияда - Қарағанды облысы Қарқаралы аудандық мәслихатының 2011.08.12 N 37/364 (2011.01.01 бастап қолданысқа енеді) шешімімен.*
 
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
-<td rowspan="4">Барлығы</td>
+<td rowspan="5">Барлығы</td>
 <td colspan="4">оның ішінде:</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td rowspan="3">Қарқаралы қаласы</td>
-<td rowspan="3">Қарағайлы кенті</td>
-<td rowspan="3">Егіндібұлақ с/о</td>
-<td rowspan="3">Абай с/о</td>
+<td rowspan="4">Қарқаралы қаласы</td>
+<td rowspan="4">Қарағайлы кенті</td>
+<td rowspan="4">Егіндібұлақ с/о</td>
+<td rowspan="4">Абай с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -38,11 +38,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -98,8 +93,8 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл (село), ауылдық (селолық) округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>272040</td>
-<td>40675</td>
+<td>272940</td>
+<td>41575</td>
 <td>19499</td>
 <td>19627</td>
 <td>7894</td>
@@ -110,8 +105,8 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органдардың күрделі шығыстары</td>
-<td>4888</td>
-<td>1019</td>
+<td>3988</td>
+<td>119</td>
 <td>104</td>
 <td>135</td>
 <td>165</td>
@@ -332,11 +327,11 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td rowspan="3">Қ. Аманжолов с/о</td>
-<td rowspan="3">Нұркен Әбдіров с/о</td>
-<td rowspan="3">Балқантау с/о</td>
-<td rowspan="3">Бақты с/о</td>
-<td rowspan="3">Бесоба с/о</td>
+<td rowspan="4">Қ. Аманжолов с/о</td>
+<td rowspan="4">Нұркен Әбдіров с/о</td>
+<td rowspan="4">Балқантау с/о</td>
+<td rowspan="4">Бақты с/о</td>
+<td rowspan="4">Бесоба с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -355,11 +350,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -649,11 +639,11 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td rowspan="3">Жанатоған с/о</td>
-<td rowspan="3">Ынталы с/о</td>
-<td rowspan="3">Қаракөл с/о</td>
-<td rowspan="3">Қайнарбұлақ с/о</td>
-<td rowspan="3">Қырғыз с/о</td>
+<td rowspan="4">Жанатоған с/о</td>
+<td rowspan="4">Ынталы с/о</td>
+<td rowspan="4">Қаракөл с/о</td>
+<td rowspan="4">Қайнарбұлақ с/о</td>
+<td rowspan="4">Қырғыз с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -672,11 +662,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -966,11 +951,11 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td rowspan="3">Қоянды с/о</td>
-<td rowspan="3">Қаршығалы с/о</td>
-<td rowspan="3">М. Мамыраев а/о</td>
-<td rowspan="3">Мади с/о</td>
-<td rowspan="3">Н. Нұрмақов а/о</td>
+<td rowspan="4">Қоянды с/о</td>
+<td rowspan="4">Қаршығалы с/о</td>
+<td rowspan="4">М. Мамыраев а/о</td>
+<td rowspan="4">Мади с/о</td>
+<td rowspan="4">Н. Нұрмақов а/о</td>
 </tr>
 <tr>
 <td></td>
@@ -989,11 +974,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1283,12 +1263,12 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <tr>
 <td></td>
 <td colspan="4">Кіші функция</td>
-<td rowspan="3">Тәттімбет а/о</td>
-<td rowspan="3">Тегісшілдік с/о</td>
-<td rowspan="3">Темірші с/о</td>
-<td rowspan="3">Томар с/о</td>
-<td rowspan="3">Шарықты с/о</td>
-<td rowspan="3">Угар с/о</td>
+<td rowspan="4">Тәттімбет а/о</td>
+<td rowspan="4">Тегісшілдік с/о</td>
+<td rowspan="4">Темірші с/о</td>
+<td rowspan="4">Томар с/о</td>
+<td rowspan="4">Шарықты с/о</td>
+<td rowspan="4">Угар с/о</td>
 </tr>
 <tr>
 <td></td>
@@ -1307,12 +1287,6 @@ source: https://zan.gov.kz/client/#!/doc/56171/kaz/29.06.2011
 <td></td>
 <td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
