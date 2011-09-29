@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
+source: https://zan.gov.kz/client/#!/doc/56119/rus/29.09.2011
 ---
 
 ## Областной бюджет на 2012 год
@@ -1957,7 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма (тыс. тенге)</td>
+<td rowspan="4">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -1973,7 +1973,6 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -2068,7 +2067,7 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма (тыс. тенге)</td>
+<td rowspan="4">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -2084,7 +2083,6 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -4095,7 +4093,7 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="3">Сумма (тыс. тенге)</td>
+<td rowspan="4">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4111,7 +4109,6 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -4153,7 +4150,7 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="4">Сумма (тыс. тенге)</td>
+<td rowspan="5">Сумма (тыс. тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4176,7 +4173,6 @@ source: https://zan.gov.kz/client/#!/doc/56119/rus/29.07.2011
 <td></td>
 <td></td>
 <td>Наименование</td>
-<td></td>
 </tr>
 <tr>
 <th>1</th>
