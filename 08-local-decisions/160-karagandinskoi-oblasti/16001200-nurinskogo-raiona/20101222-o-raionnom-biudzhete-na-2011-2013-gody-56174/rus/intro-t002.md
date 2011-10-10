@@ -1,31 +1,36 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
+source: https://zan.gov.kz/client/#!/doc/56174/rus/10.10.2011
 ---
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
-<td rowspan="3">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th colspan="2">4</th>
+<th>4</th>
 <th>5</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -36,7 +41,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 <td>5</td>
 <td></td>
 <td></td>
-<td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>1039</td>
 </tr>
@@ -44,12 +48,10 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 <td></td>
 <td>01</td>
 <td></td>
-<td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>1039</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -60,34 +62,32 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="4">Функциональная группа</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="3">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="2">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Наименование</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
-<th></th>
 <th>4</th>
 <th>5</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -98,7 +98,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
@@ -106,26 +105,25 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма в (тыс. тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="3">Подкласс</td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Наименование</td>
+<td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -136,12 +134,10 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td>131960</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,6 +148,12 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 <td></td>
 <td></td>
 <td></td>
+<td>Погашение займов</td>
+<td>1039</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td>Погашение займов</td>
 <td>1039</td>
@@ -160,20 +162,10 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Погашение займов</td>
 <td>1039</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>1039</td>
-</tr>
-<tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -184,12 +176,10 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/11.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
 <td>1039</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

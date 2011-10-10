@@ -1,12 +1,12 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
+source: https://zan.gov.kz/client/#!/doc/56174/kaz/10.10.2011
 ---
 
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="5">Сома (мың теңге)</td>
+<td rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -16,12 +16,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 <td></td>
 <td></td>
 <td colspan="2">Ішкі сыныбы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -52,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 </tr>
 <tr>
 <td></td>
-<td>01</td>
+<td>1</td>
 <td></td>
 <td>Бюджеттік кредиттерді өтеу</td>
 <td>1039</td>
@@ -69,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 <table>
 <tr>
 <td colspan="4">Функционалдық топ</td>
-<td rowspan="5">Сома (мың теңге)</td>
+<td rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -79,12 +73,6 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 <td></td>
 <td></td>
 <td colspan="2">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -103,7 +91,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td>IV. Қаржылық активтермен операция бойынша сальдо</td>
+<td>IV. Қаржылық активтерімен операция бойынша сальдо</td>
 <td>0</td>
 </tr>
 <tr>
@@ -112,6 +100,35 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 <td></td>
 <td>қаржы активтерін сатып алу</td>
 <td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ</td>
+<td rowspan="4">Сома (мың теңге)</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -127,15 +144,19 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 <td>VI. Дефицитті қаржыландыру (профицитті пайдалану)</td>
 <td>131960</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарыздар түсімдері</td>
 <td>121136</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Қарыздарды өтеу</td>
+<td>1039</td>
 </tr>
 <tr>
 <td></td>
@@ -169,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/kaz/11.08.2011
 <td></td>
 <td></td>
 <td></td>
-<td>Бюджет қаражаттарының пайдаланылатын қалдықтары</td>
+<td>Бюджет қаражаттарының пайдаланылған қалдықтары</td>
 <td>11863</td>
 </tr>
 </table>
