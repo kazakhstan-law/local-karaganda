@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56466/rus/21.09.2011
+source: https://zan.gov.kz/client/#!/doc/56466/rus/12.10.2011
 ---
 
 ## Перечень бюджетных программ развития городского бюджета на 2011 год
