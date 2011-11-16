@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56174/rus/10.10.2011
+source: https://zan.gov.kz/client/#!/doc/56174/rus/16.11.2011
 ---
 
 <table>
@@ -55,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/10.10.2011
 <td></td>
 <td></td>
 <td>1</td>
-<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
 <td>1039</td>
 </tr>
 </table>
@@ -63,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/10.10.2011
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="6">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -77,8 +77,19 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/10.10.2011
 <tr>
 <td></td>
 <td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td></td>
 <td>Наименование</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <th>1</th>
@@ -124,60 +135,67 @@ source: https://zan.gov.kz/client/#!/doc/56174/rus/10.10.2011
 <td>Наименование</td>
 </tr>
 <tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-131960</td>
+<td>-28119</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>131960</td>
+<td>28119</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Поступление займов</td>
-<td>121136</td>
+<td>125543</td>
 </tr>
 <tr>
-<td></td>
+<td>16</td>
 <td></td>
 <td></td>
 <td>Погашение займов</td>
-<td>1039</td>
+<td>109287</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td>1</td>
 <td></td>
 <td>Погашение займов</td>
-<td>1039</td>
+<td>109287</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>Погашение займов</td>
-<td>1039</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td>452</td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>1039</td>
+<td>109287</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>1039</td>
+<td>108841</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Возврат неиспользованных бюджетных кредитов, выданных из местного бюджета</td>
+<td>446</td>
 </tr>
 <tr>
 <td></td>
