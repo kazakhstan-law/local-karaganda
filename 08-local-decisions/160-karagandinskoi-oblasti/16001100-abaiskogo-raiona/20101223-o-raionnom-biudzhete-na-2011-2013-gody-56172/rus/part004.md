@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56172/rus/10.11.2011
+source: https://zan.gov.kz/client/#!/doc/56172/rus/05.12.2011
 ---
 
 ## Целевые трансферты и бюджетные кредиты на 2011 год

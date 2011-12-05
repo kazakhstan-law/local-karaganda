@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56172/kaz/10.11.2011
+source: https://zan.gov.kz/client/#!/doc/56172/kaz/05.12.2011
 ---
 
 ## 2011 жылға арналған нысаналы трансферттер және бюджеттік кредиттер
