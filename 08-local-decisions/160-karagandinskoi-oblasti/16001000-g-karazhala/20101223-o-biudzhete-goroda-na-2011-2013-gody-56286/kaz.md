@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56286/kaz/02.12.2011
+source: https://zan.gov.kz/client/#!/doc/56286/kaz/01.01.2012
 ---
 
 # 2011-2013 жылдарға арналған қала бюджетi туралы
