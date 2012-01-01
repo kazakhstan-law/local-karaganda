@@ -1,5 +1,5 @@
 ---
-version_id: '56286_145445'
+version_id: AI56286_12
 act_code: '56286'
 language: kaz
 title: 2011-2013 жылдарға арналған қала бюджетi туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '160010000002'
 approval_date: 2010-12-23
-version_date: 2011-12-02
+version_date: 2012-01-01
 registry_number: '56286'
-caused_by:
-  code: '61928'
-  title: Қаражал қалалық мәслихатының 2010 жылғы 23 желтоқсандағы ХХХIV сессиясының № 300 "2011-2013 жылдарға арналған қала бюджеті туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/61928/kaz
-source: https://zan.gov.kz/client/#!/doc/56286/kaz/02.12.2011
+source: https://zan.gov.kz/client/#!/doc/56286/kaz
 ---
 
 # 2011-2013 жылдарға арналған қала бюджетi туралы

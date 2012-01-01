@@ -1,5 +1,5 @@
 ---
-version_id: '56286_145446'
+version_id: AI56286_13
 act_code: '56286'
 language: rus
 title: О бюджете города на 2011-2013 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '160010000002'
 approval_date: 2010-12-23
-version_date: 2011-12-02
+version_date: 2012-01-01
 registry_number: '56286'
-caused_by:
-  code: '61928'
-  title: О внесении изменений в решение ХХХIV сессии Каражалского городского маслихата от 23 декабря 2010 года № 300 "О бюджете города на 2011-2013 годы"
-  link: https://zan.gov.kz/client/#!/doc/61928/rus
-source: https://zan.gov.kz/client/#!/doc/56286/rus/02.12.2011
+source: https://zan.gov.kz/client/#!/doc/56286/rus
 ---
 
 # О бюджете города на 2011-2013 годы
