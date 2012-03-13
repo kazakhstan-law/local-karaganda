@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/59292/rus/23.05.2011
+source: https://zan.gov.kz/client/#!/doc/59292/rus/13.03.2012
 ---
 
 # Об утверждении Правил благоустройства Осакаровского района
