@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62383/rus/11.04.2012
+source: https://zan.gov.kz/client/#!/doc/62383/rus/09.06.2012
 ---
 
 ## Расходы районного бюджета по сельским округам и поселкам на 2012 год
