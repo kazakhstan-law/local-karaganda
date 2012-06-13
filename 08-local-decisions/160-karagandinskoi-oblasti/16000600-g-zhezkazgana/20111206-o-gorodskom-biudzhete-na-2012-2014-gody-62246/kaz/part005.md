@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62246/kaz/10.04.2012
+source: https://zan.gov.kz/client/#!/doc/62246/kaz/13.06.2012
 ---
 
 ## 2012 жылға арналған селолық әкімдер аппараттарының шығындары
