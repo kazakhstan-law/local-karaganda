@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62556/rus/18.07.2012
+source: https://zan.gov.kz/client/#!/doc/62556/rus/15.08.2012
 ---
 
 ## Перечень бюджетных программ развития городского бюджета на 2012 год
