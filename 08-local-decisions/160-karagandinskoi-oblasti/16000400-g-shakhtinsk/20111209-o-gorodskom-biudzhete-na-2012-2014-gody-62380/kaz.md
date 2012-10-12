@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62380/kaz/14.08.2012
+source: https://zan.gov.kz/client/#!/doc/62380/kaz/12.10.2012
 ---
 
 # 2012-2014 жылдарға арналған қалалық бюджет туралы
