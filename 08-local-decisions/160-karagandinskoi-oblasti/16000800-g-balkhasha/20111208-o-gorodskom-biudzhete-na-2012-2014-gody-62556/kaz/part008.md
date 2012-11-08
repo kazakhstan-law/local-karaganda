@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62556/kaz/08.10.2012
+source: https://zan.gov.kz/client/#!/doc/62556/kaz/08.11.2012
 ---
 
 ## 2012 жылға арналған қалалық бюджеттің дамудың бюджеттік бағдарламаларының тізбесі
