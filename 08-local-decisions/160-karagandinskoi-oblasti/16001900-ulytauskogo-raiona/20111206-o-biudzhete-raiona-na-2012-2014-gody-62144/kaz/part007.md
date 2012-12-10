@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62144/kaz/15.11.2012
+source: https://zan.gov.kz/client/#!/doc/62144/kaz/10.12.2012
 ---
 
 ## 2011 жылға арналған аудандық бюджеттің бюджеттік бағдарламаларының әкімшілерінің тізбелері
