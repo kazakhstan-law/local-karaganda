@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62247/rus/26.11.2012
+source: https://zan.gov.kz/client/#!/doc/62247/rus/10.12.2012
 ---
 
 ## Расходы по аппаратам акимов поселков, аулов (сел), аульных (сельских) округов района на 2012 год
