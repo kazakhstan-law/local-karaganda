@@ -1,5 +1,5 @@
 ---
-version_id: '69623_156732'
+version_id: '69623_157494'
 act_code: '69623'
 language: kaz
 title: 2013-2015 жылдарға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '160011000002'
 approval_date: 2012-12-12
-version_date: 2012-12-12
+version_date: 2013-02-13
 registry_number: '69623'
-source: https://zan.gov.kz/client/#!/doc/69623/kaz/12.12.2012
+caused_by:
+  code: '71386'
+  title: Абай ауданы мәслихатының 13 сессиясының 2012 жылғы 12 желтоқсандағы "2013-2015 жылдарға арналған аудандық бюджет туралы" № 13/117 шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/71386/kaz
+source: https://zan.gov.kz/client/#!/doc/69623/kaz/13.02.2013
 ---
 
 # 2013-2015 жылдарға арналған аудандық бюджет туралы
