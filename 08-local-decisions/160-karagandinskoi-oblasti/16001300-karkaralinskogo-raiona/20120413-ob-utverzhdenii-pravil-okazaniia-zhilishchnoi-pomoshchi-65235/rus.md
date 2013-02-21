@@ -1,5 +1,5 @@
 ---
-version_id: AI65235_1
+version_id: '65235_385201'
 act_code: '65235'
 language: rus
 title: Об утверждении Правил оказания жилищной помощи
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160013000002'
 approval_date: 2012-04-13
-version_date: 2012-04-13
+version_date: 2013-02-21
 registry_number: '65235'
-source: https://zan.gov.kz/client/#!/doc/65235/rus/13.04.2012
+caused_by:
+  code: '71626'
+  title: О внесении изменений и дополнений в решение IV сессии Каркаралинского районного маслихата от 13 апреля 2012 года № 4/36 "Об утверждении Правил предоставления жилищной помощи"
+  link: https://zan.gov.kz/client/#!/doc/71626/rus
+source: https://zan.gov.kz/client/#!/doc/65235/rus/21.02.2013
 ---
 
 # Об утверждении Правил оказания жилищной помощи

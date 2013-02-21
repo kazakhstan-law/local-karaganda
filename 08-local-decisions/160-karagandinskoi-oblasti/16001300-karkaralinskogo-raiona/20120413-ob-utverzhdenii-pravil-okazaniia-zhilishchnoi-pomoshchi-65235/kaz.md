@@ -1,5 +1,5 @@
 ---
-version_id: AI65235_0
+version_id: '65235_385200'
 act_code: '65235'
 language: kaz
 title: Тұрғын үй көмегін көрсету Қағидасын бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160013000002'
 approval_date: 2012-04-13
-version_date: 2012-04-13
+version_date: 2013-02-21
 registry_number: '65235'
-source: https://zan.gov.kz/client/#!/doc/65235/kaz/13.04.2012
+caused_by:
+  code: '71626'
+  title: Қарқаралы аудандық мәслихаттың IV сессиясының 2012 жылғы 13 сәуірдегі № 4/36 "Тұрғын үй көмегін көрсету Қағидасын бекіту туралы" шешіміне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/71626/kaz
+source: https://zan.gov.kz/client/#!/doc/65235/kaz/21.02.2013
 ---
 
 # Тұрғын үй көмегін көрсету Қағидасын бекіту туралы
