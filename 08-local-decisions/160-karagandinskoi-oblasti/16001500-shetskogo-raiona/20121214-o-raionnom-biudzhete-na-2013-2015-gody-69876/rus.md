@@ -1,5 +1,5 @@
 ---
-version_id: '69876_157353'
+version_id: '69876_158286'
 act_code: '69876'
 language: rus
 title: О районном бюджете на 2013-2015 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '160015000002'
 approval_date: 2012-12-14
-version_date: 2012-12-14
+version_date: 2013-03-19
 registry_number: '69876'
-source: https://zan.gov.kz/client/#!/doc/69876/rus/14.12.2012
+caused_by:
+  code: '72012'
+  title: О внесении изменений в решение 10 сессии районного маслихата от 14 декабря 2012 года № 10/89 "О районном бюджете на 2013-2015 годы"
+  link: https://zan.gov.kz/client/#!/doc/72012/rus
+source: https://zan.gov.kz/client/#!/doc/69876/rus/19.03.2013
 ---
 
 # О районном бюджете на 2013-2015 годы
