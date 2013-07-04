@@ -1,5 +1,5 @@
 ---
-version_id: '69876_158285'
+version_id: '69876_159854'
 act_code: '69876'
 language: kaz
 title: 2013-2015 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160015000002'
 approval_date: 2012-12-14
-version_date: 2013-03-19
+version_date: 2013-07-04
 registry_number: '69876'
 caused_by:
-  code: '72012'
+  code: '73773'
   title: Аудандық мәслихаттың 2012 жылғы 14 желтоқсандағы 10 сессиясының "2013-2015 жылдарға арналған аудандық бюджет туралы" № 10/89 шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/72012/kaz
-source: https://zan.gov.kz/client/#!/doc/69876/kaz/19.03.2013
+  link: https://zan.gov.kz/client/#!/doc/73773/kaz
+source: https://zan.gov.kz/client/#!/doc/69876/kaz/04.07.2013
 ---
 
 # 2013-2015 жылдарға арналған аудандық бюджет туралы
