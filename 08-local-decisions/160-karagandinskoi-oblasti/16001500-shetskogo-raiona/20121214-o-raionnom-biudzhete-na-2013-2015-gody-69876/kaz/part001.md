@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69876/kaz/19.03.2013
+source: https://zan.gov.kz/client/#!/doc/69876/kaz/04.07.2013
 ---
 
 > *Аудандық мәслихаттың*  
