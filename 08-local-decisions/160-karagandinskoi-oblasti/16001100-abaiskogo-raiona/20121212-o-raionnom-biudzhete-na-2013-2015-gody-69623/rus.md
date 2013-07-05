@@ -1,5 +1,5 @@
 ---
-version_id: '69623_157848'
+version_id: '69623_158062'
 act_code: '69623'
 language: rus
 title: О районном бюджете на 2013-2015 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160011000002'
 approval_date: 2012-12-12
-version_date: 2013-03-26
+version_date: 2013-07-05
 registry_number: '69623'
 caused_by:
-  code: '71950'
+  code: '73410'
   title: О внесении изменений в решение 13 сессии Абайского районного маслихата от 12 декабря 2012 года № 13/117 "О районном бюджете на 2013-2015 годы"
-  link: https://zan.gov.kz/client/#!/doc/71950/rus
-source: https://zan.gov.kz/client/#!/doc/69623/rus/26.03.2013
+  link: https://zan.gov.kz/client/#!/doc/73410/rus
+source: https://zan.gov.kz/client/#!/doc/69623/rus/05.07.2013
 ---
 
 # О районном бюджете на 2013-2015 годы
