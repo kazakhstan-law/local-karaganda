@@ -1,5 +1,5 @@
 ---
-version_id: '69674_156794'
+version_id: '69674_157747'
 act_code: '69674'
 language: rus
 title: О районном бюджете на 2013-2015 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160016000002'
 approval_date: 2012-12-13
-version_date: 2013-03-20
+version_date: 2013-07-11
 registry_number: '69674'
 caused_by:
   code: '71940'
   title: О внесении изменений в решение XIII сессии Жанааркинского районного маслихата от 13 декабря 2012 года № 13/80 "О районном бюджете на 2013-2015 годы"
   link: https://zan.gov.kz/client/#!/doc/71940/rus
-source: https://zan.gov.kz/client/#!/doc/69674/rus/20.03.2013
+source: https://zan.gov.kz/client/#!/doc/69674/rus/11.07.2013
 ---
 
 # О районном бюджете на 2013-2015 годы
