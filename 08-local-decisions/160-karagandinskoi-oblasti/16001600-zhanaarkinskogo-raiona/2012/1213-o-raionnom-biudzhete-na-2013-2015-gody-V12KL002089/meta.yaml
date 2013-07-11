@@ -24,12 +24,19 @@ versions:
   cause:
     code: '71940'
     key: V13KL002285
+- date: 2013-07-11
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '71940'
+    key: V13KL002285
 version_date:
-  kaz: 2013-03-20
-  rus: 2013-03-20
+  kaz: 2013-07-11
+  rus: 2013-07-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/69674/kaz/20.03.2013
-  rus: https://zan.gov.kz/client/#!/doc/69674/rus/20.03.2013
+  kaz: https://zan.gov.kz/client/#!/doc/69674/kaz/11.07.2013
+  rus: https://zan.gov.kz/client/#!/doc/69674/rus/11.07.2013
 caused_by:
   code: '71940'
   key: V13KL002285
