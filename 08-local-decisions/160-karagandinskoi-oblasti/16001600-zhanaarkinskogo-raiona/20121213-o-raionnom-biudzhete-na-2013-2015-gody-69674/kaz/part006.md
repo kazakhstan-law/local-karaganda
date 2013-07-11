@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69674/kaz/20.03.2013
+source: https://zan.gov.kz/client/#!/doc/69674/kaz/11.07.2013
 ---
 
 > *Жаңаарқа аудандық мәслихатының*  
