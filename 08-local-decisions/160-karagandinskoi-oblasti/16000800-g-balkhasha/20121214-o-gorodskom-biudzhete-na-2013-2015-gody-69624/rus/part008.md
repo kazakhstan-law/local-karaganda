@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69624/rus/05.07.2013
+source: https://zan.gov.kz/client/#!/doc/69624/rus/14.08.2013
 ---
 
 ## Перечень бюджетных программ развития городского бюджета на 2013 год
