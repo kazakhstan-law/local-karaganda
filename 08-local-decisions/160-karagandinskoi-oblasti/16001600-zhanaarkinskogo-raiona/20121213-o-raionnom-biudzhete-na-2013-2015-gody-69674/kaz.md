@@ -1,5 +1,5 @@
 ---
-version_id: '69674_157746'
+version_id: '69674_158467'
 act_code: '69674'
 language: kaz
 title: 2013-2015 жылдарға арналған аудандық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160016000002'
 approval_date: 2012-12-13
-version_date: 2013-07-11
+version_date: 2013-10-07
 registry_number: '69674'
 caused_by:
-  code: '71940'
+  code: '74848'
   title: Жаңаарқа аудандық мәслихатының XIIІ сессиясының 2012 жылғы 13 желтоқсандағы № 13/80 "2013-2015 жылдарға арналған аудандық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/71940/kaz
-source: https://zan.gov.kz/client/#!/doc/69674/kaz/11.07.2013
+  link: https://zan.gov.kz/client/#!/doc/74848/kaz
+source: https://zan.gov.kz/client/#!/doc/69674/kaz/07.10.2013
 ---
 
 # 2013-2015 жылдарға арналған аудандық бюджет туралы
