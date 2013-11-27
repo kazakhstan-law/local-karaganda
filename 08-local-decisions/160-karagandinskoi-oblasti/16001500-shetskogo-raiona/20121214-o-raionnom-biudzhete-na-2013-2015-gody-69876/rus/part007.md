@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69876/rus/27.09.2013
+source: https://zan.gov.kz/client/#!/doc/69876/rus/27.11.2013
 ---
 
 ## Бюджет на 2013 года аппаратов акимов поселков, аульных (сельских) округов
