@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
+source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 ---
 
 ## 2013 жылға арналған бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Жезқазған қалалық мәслихатының 15.11.2013 N 19/166 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Жезқазған қалалық мәслихатының 03.12.2013 N 20/173 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>6208934</td>
+<td>6209161</td>
 </tr>
 <tr>
 <td>1</td>
@@ -235,21 +235,21 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>1196086</td>
+<td>1196313</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1196086</td>
+<td>1196313</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>1196086</td>
+<td>1196313</td>
 </tr>
 </table>
 
@@ -263,7 +263,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
@@ -292,8 +293,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td></td>
-<td>II.Шығындар</td>
-<td>6800376</td>
+<td>II. Шығындар</td>
+<td>6800603</td>
 </tr>
 <tr>
 <td>01</td>
@@ -485,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Қорғаныс</td>
-<td>7366</td>
+<td>6901</td>
 </tr>
 <tr>
 <td></td>
@@ -517,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Төтенше жағдайлар жөніндегі жұмыстарды ұйымдастыру</td>
-<td>1858</td>
+<td>1393</td>
 </tr>
 <tr>
 <td></td>
@@ -525,15 +526,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td>122</td>
 <td></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td>1858</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>006</td>
-<td>Аудан (облыстық маңызы бар қала) ауқымындағы төтенше жағдайлардың алдын алу және оларды жою</td>
-<td>465</td>
+<td>1393</td>
 </tr>
 <tr>
 <td></td>
@@ -1253,7 +1246,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>96272</td>
+<td>96499</td>
 </tr>
 <tr>
 <td></td>
@@ -1261,7 +1254,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Ауыл шаруашылығы</td>
-<td>37488</td>
+<td>37715</td>
 </tr>
 <tr>
 <td></td>
@@ -1285,7 +1278,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td>474</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы және ветеринария бөлімі</td>
-<td>37046</td>
+<td>37273</td>
 </tr>
 <tr>
 <td></td>
@@ -1325,7 +1318,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td>011</td>
 <td>Жануарлардың энзоотиялық аурулары бойынша ветеринариялық іс-шараларды жүргізу</td>
-<td>1302</td>
+<td>1529</td>
 </tr>
 <tr>
 <td></td>
@@ -1413,7 +1406,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>20994</td>
+<td>21178</td>
 </tr>
 <tr>
 <td></td>
@@ -1421,7 +1414,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td>20994</td>
+<td>21178</td>
 </tr>
 <tr>
 <td></td>
@@ -1429,7 +1422,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>16909</td>
+<td>17093</td>
 </tr>
 <tr>
 <td></td>
@@ -1437,7 +1430,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td>001</td>
 <td>Жергілікті деңгейде құрылыс саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>16909</td>
+<td>17093</td>
 </tr>
 <tr>
 <td></td>
@@ -1461,7 +1454,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Көлік және коммуникация</td>
-<td>355190</td>
+<td>351560</td>
 </tr>
 <tr>
 <td></td>
@@ -1469,7 +1462,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Автомобиль көлігі</td>
-<td>344302</td>
+<td>340672</td>
 </tr>
 <tr>
 <td></td>
@@ -1493,7 +1486,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>342578</td>
+<td>338948</td>
 </tr>
 <tr>
 <td></td>
@@ -1501,7 +1494,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td>023</td>
 <td>Автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>342578</td>
+<td>338948</td>
 </tr>
 <tr>
 <td></td>
@@ -1533,7 +1526,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>650714</td>
+<td>654625</td>
 </tr>
 <tr>
 <td></td>
@@ -1565,7 +1558,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>649474</td>
+<td>653385</td>
 </tr>
 <tr>
 <td></td>
@@ -1653,7 +1646,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>35184</td>
+<td>39095</td>
 </tr>
 <tr>
 <td></td>
@@ -1661,7 +1654,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td></td>
 <td>085</td>
 <td>Моноқалаларды дамытудың 2012 - 2020 жылдарға арналған бағдарламасы шеңберінде бюджеттік инвестициялық жобаларды іске асыру</td>
-<td>35184</td>
+<td>39095</td>
 </tr>
 <tr>
 <td></td>
@@ -1819,15 +1812,15 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Атауы</td>
+<td colspan="2">Атауы</td>
 </tr>
 <tr>
 <th>1</th>
@@ -1881,7 +1874,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
@@ -1965,7 +1959,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="4">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Ішкі сыныбы</td>
 </tr>
 <tr>
@@ -2003,7 +1998,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
@@ -2055,7 +2051,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
@@ -2090,7 +2087,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
@@ -2134,7 +2132,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/15.11.2013
 <td colspan="3">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
