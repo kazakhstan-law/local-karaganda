@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69482/rus/14.11.2013
+source: https://zan.gov.kz/client/#!/doc/69482/rus/06.12.2013
 ---
 
 ## Перечень распределяемых бюджетных программ в составе городского бюджета на 2013 год
