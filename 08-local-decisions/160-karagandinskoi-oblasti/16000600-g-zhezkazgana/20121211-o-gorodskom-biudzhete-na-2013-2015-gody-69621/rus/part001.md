@@ -1,11 +1,16 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
+source: https://zan.gov.kz/client/#!/doc/69621/rus/13.12.2013
 ---
 
-## Бюджет на 2013 год
+> *Приложение 1*  
+> *к решению ХІ сессии*  
+> *Жезказганского городского маслихата*  
+> *от 11 декабря 2012 года № 11/91*
 
-> *Сноска. Приложение 1 в редакции решения Жезказганского городского маслихата Карагандинской области от 03.12.2013 N 20/173 (вводится в действие с 01.01.2013).*
+# Бюджет на 2013 год
+
+> *Сноска. Приложение 1 в редакции решения Жезказганского городского маслихата Карагандинской области от 13.12.2013 № 21/179 (вводится в действие с 01.01.2013).*
 
 <table>
 <tr>
@@ -28,18 +33,18 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>6209161</td>
+<td>6206317</td>
 </tr>
 <tr>
 <td>1</td>
@@ -235,21 +240,21 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>1196313</td>
+<td>1193469</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>1196313</td>
+<td>1193469</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>1196313</td>
+<td>1193469</td>
 </tr>
 </table>
 
@@ -281,12 +286,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -294,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>6800603</td>
+<td>6797759</td>
 </tr>
 <tr>
 <td>01</td>
@@ -574,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td></td>
 <td></td>
 <td>Образование</td>
-<td>2446836</td>
+<td>2443992</td>
 </tr>
 <tr>
 <td></td>
@@ -606,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td></td>
 <td></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>2056772</td>
+<td>2054272</td>
 </tr>
 <tr>
 <td></td>
@@ -614,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>471</td>
 <td></td>
 <td>Отдел образования, физической культуры и спорта района (города областного значения)</td>
-<td>2056772</td>
+<td>2054272</td>
 </tr>
 <tr>
 <td></td>
@@ -622,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td></td>
 <td>004</td>
 <td>Общеобразовательное обучение</td>
-<td>1920188</td>
+<td>1917688</td>
 </tr>
 <tr>
 <td></td>
@@ -638,7 +643,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td></td>
 <td></td>
 <td>Прочие услуги в области образования</td>
-<td>165348</td>
+<td>165004</td>
 </tr>
 <tr>
 <td></td>
@@ -646,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>471</td>
 <td></td>
 <td>Отдел образования, физической культуры и спорта района (города областного значения)</td>
-<td>165348</td>
+<td>165004</td>
 </tr>
 <tr>
 <td></td>
@@ -662,7 +667,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td></td>
 <td>020</td>
 <td>Ежемесячная выплата денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
-<td>28057</td>
+<td>27713</td>
 </tr>
 <tr>
 <td></td>
@@ -1077,7 +1082,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>2</td>
 <td></td>
 <td></td>
-<td>Cпорт</td>
+<td>Спорт</td>
 <td>45017</td>
 </tr>
 <tr>
@@ -1805,7 +1810,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <table>
 <tr>
 <td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1828,8 +1833,8 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>2</td>
 <td>3</td>
 <td>4</td>
-<td>4</td>
 <td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1893,12 +1898,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1972,12 +1977,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2017,12 +2022,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2063,11 +2068,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2106,12 +2111,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2144,11 +2149,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2162,9 +2167,9 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 > *Приложение 2*  
 > *к решению ХІ сессии*  
 > *Жезказганского городского маслихата*  
-> *от 11 декабря 2012 года N 11/91*
+> *от 11 декабря 2012 года № 11/91*
 
-## Бюджет на 2014 год
+# Бюджет на 2014 год
 
 <table>
 <tr>
@@ -2187,11 +2192,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2419,12 +2424,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3602,12 +3607,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3671,12 +3676,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3750,12 +3755,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3795,12 +3800,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3842,11 +3847,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3885,12 +3890,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3924,11 +3929,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3938,8 +3943,3 @@ source: https://zan.gov.kz/client/#!/doc/69621/rus/03.12.2013
 <td>0</td>
 </tr>
 </table>
-
-> *Приложение 3*  
-> *к решению ХІ сессии*  
-> *Жезказганского городского маслихата*  
-> *от 11 декабря 2012 года N 11/91*

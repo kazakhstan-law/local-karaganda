@@ -1,11 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
+source: https://zan.gov.kz/client/#!/doc/69621/kaz/13.12.2013
 ---
 
-## 2013 жылға арналған бюджет
+> *Жезқазған қалалық мәслихатының*  
+> *2012 жылғы 11 желтоқсандағы*  
+> *XI cессиясының № 11/91 шешіміне*  
+> *1 қосымша*
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Жезқазған қалалық мәслихатының 03.12.2013 N 20/173 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
+# 2013 жылға арналған бюджет
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Жезқазған қалалық мәслихатының 13.12.2013 № 21/179 (01.01.2013 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -28,18 +33,18 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>6209161</td>
+<td>6206317</td>
 </tr>
 <tr>
 <td>1</td>
@@ -235,21 +240,21 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>1196313</td>
+<td>1193469</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>1196313</td>
+<td>1193469</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>1196313</td>
+<td>1193469</td>
 </tr>
 </table>
 
@@ -281,12 +286,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -294,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>6800603</td>
+<td>6797759</td>
 </tr>
 <tr>
 <td>01</td>
@@ -574,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td></td>
 <td>Білім беру</td>
-<td>2446836</td>
+<td>2443992</td>
 </tr>
 <tr>
 <td></td>
@@ -606,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>2056772</td>
+<td>2054272</td>
 </tr>
 <tr>
 <td></td>
@@ -614,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>471</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім, дене шынықтыру және спорт бөлімі</td>
-<td>2056772</td>
+<td>2054272</td>
 </tr>
 <tr>
 <td></td>
@@ -622,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td>004</td>
 <td>Жалпы білім беру</td>
-<td>1920188</td>
+<td>1917688</td>
 </tr>
 <tr>
 <td></td>
@@ -638,7 +643,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td></td>
 <td>Білім беру саласындағы өзге де қызметтер</td>
-<td>165348</td>
+<td>165004</td>
 </tr>
 <tr>
 <td></td>
@@ -646,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>471</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім, дене шынықтыру және спорт бөлімі</td>
-<td>165348</td>
+<td>165004</td>
 </tr>
 <tr>
 <td></td>
@@ -662,7 +667,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td>020</td>
 <td>Жетім баланы (жетім балаларды) және ата-аналарының қамқорынсыз қалған баланы (балаларды) күтіп-ұстауға асыраушыларына ай сайынғы ақшалай қаражат төлемдері</td>
-<td>28057</td>
+<td>27713</td>
 </tr>
 <tr>
 <td></td>
@@ -901,7 +906,7 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td>479</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй инспекциясы бөлімі</td>
+<td>Ауданың (облыстық маңызы бар қаланың) тұрғын үй инспекциясы бөлімі</td>
 <td>11028</td>
 </tr>
 <tr>
@@ -1820,15 +1825,16 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Атауы</td>
+<td></td>
+<td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1892,12 +1898,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1971,12 +1977,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2016,12 +2022,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2062,11 +2068,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2105,12 +2111,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -2143,11 +2149,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2160,10 +2166,10 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 
 > *Жезқазған қалалық мәслихатының*  
 > *2012 жылғы 11 желтоқсандағы*  
-> *XI cессиясының N 11/91 шешіміне*  
+> *XI cессиясының № 11/91 шешіміне*  
 > *2 қосымша*
 
-## 2014 жылға арналған бюджет
+# 2014 жылға арналған бюджет
 
 <table>
 <tr>
@@ -2186,11 +2192,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2418,12 +2424,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3601,12 +3607,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3670,12 +3676,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3749,12 +3755,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3794,12 +3800,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3840,11 +3846,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3883,12 +3889,12 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -3921,11 +3927,11 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -3935,8 +3941,3 @@ source: https://zan.gov.kz/client/#!/doc/69621/kaz/03.12.2013
 <td>0</td>
 </tr>
 </table>
-
-> *Жезқазған қалалық мәслихатының*  
-> *2012 жылғы 11 желтоқсандағы*  
-> *XI cессиясының N 11/91 шешіміне*  
-> *3 қосымша*
