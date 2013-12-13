@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/69625/kaz/28.11.2013
+source: https://zan.gov.kz/client/#!/doc/69625/kaz/13.12.2013
 ---
 
 # 2013-2015 жылдарға арналған аудандық бюджет туралы
