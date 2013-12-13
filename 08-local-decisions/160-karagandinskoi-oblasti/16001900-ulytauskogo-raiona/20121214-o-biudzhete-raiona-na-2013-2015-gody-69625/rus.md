@@ -1,5 +1,5 @@
 ---
-version_id: '69625_158632'
+version_id: '69625_158851'
 act_code: '69625'
 language: rus
 title: О бюджете района на 2013-2015 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160019000002'
 approval_date: 2012-12-14
-version_date: 2013-11-28
+version_date: 2013-12-13
 registry_number: '69625'
 caused_by:
-  code: '75801'
-  title: О внесении изменений и дополнения в решение ІХ сессии Улытауского районного маслихата от 14 декабря 2012 года № 69 "О бюджете района на 2013-2015 годы"
-  link: https://zan.gov.kz/client/#!/doc/75801/rus
-source: https://zan.gov.kz/client/#!/doc/69625/rus/28.11.2013
+  code: '76158'
+  title: О внесении изменений в решение ІХ сессии Улытауского районного маслихата от 14 декабря 2012 года № 69 "О бюджете района на 2013-2015 годы"
+  link: https://zan.gov.kz/client/#!/doc/76158/rus
+source: https://zan.gov.kz/client/#!/doc/69625/rus
 ---
 
 # О бюджете района на 2013-2015 годы
