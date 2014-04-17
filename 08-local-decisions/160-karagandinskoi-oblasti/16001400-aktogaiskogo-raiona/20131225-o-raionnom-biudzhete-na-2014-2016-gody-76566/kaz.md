@@ -1,5 +1,5 @@
 ---
-version_id: '76566_156916'
+version_id: '76566_162200'
 act_code: '76566'
 language: kaz
 title: 2014-2016 жылдарға арналған аудандық бюджет туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '160014000002'
 approval_date: 2013-12-25
-version_date: 2013-12-25
+version_date: 2014-04-17
 registry_number: '76566'
-source: https://zan.gov.kz/client/#!/doc/76566/kaz/25.12.2013
+caused_by:
+  code: '79153'
+  title: Ақтоғай аудандық мәслихатының 2013 жылғы 25 желтоқсандағы 20 сессиясының "2014-2016 жылдарға арналған аудандық бюджет туралы" № 179 шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/79153/kaz
+source: https://zan.gov.kz/client/#!/doc/76566/kaz/17.04.2014
 ---
 
 # 2014-2016 жылдарға арналған аудандық бюджет туралы
