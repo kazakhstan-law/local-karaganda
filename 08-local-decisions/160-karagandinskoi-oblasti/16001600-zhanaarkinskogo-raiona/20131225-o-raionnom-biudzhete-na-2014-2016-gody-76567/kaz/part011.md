@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76567/kaz/17.04.2014
+source: https://zan.gov.kz/client/#!/doc/76567/kaz/10.06.2014
 ---
 
 ## 2014 жылға елді мекендердің санитариясын қамтамасыз ету
