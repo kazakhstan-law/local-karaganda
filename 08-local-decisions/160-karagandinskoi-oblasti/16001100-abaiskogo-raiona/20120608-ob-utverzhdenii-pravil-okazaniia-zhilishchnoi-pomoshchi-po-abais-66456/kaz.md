@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/66456/kaz/20.06.2013
+source: https://zan.gov.kz/client/#!/doc/66456/kaz/12.06.2014
 ---
 
 # Абай ауданы бойынша тұрғын үй көмегін көрсету Ережесін бекіту туралы

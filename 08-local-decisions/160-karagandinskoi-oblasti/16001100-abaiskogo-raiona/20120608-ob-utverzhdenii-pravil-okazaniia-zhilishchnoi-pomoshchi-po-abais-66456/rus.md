@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/66456/rus/20.06.2013
+source: https://zan.gov.kz/client/#!/doc/66456/rus/12.06.2014
 ---
 
 # Об утверждении Правил оказания жилищной помощи по Абайскому району
