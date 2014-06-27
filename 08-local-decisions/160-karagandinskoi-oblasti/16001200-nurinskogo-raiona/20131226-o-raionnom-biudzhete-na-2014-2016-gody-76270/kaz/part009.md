@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76270/kaz/17.04.2014
+source: https://zan.gov.kz/client/#!/doc/76270/kaz/27.06.2014
 ---
 
 ## Шубаркөл кентінің әкімі аппаратының 2014 жылғы бюджеті
