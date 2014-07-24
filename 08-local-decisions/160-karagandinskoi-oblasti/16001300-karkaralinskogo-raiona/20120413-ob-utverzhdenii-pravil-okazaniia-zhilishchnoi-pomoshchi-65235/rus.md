@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/65235/rus/21.02.2013
+source: https://zan.gov.kz/client/#!/doc/65235/rus/24.07.2014
 ---
 
 # Об утверждении Правил оказания жилищной помощи
