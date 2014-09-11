@@ -1,5 +1,5 @@
 ---
-version_id: '66456_155727'
+version_id: '66456_155959'
 act_code: '66456'
 language: rus
 title: Об утверждении Правил оказания жилищной помощи по Абайскому району
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '160011000002'
 approval_date: 2012-06-08
-version_date: 2014-06-12
+version_date: 2014-09-11
 registry_number: '66456'
 caused_by:
-  code: '81135'
+  code: '83597'
   title: О внесении изменения в решение 6 сессии Абайского районного маслихата от 8 июня 2012 года № 6/59 "Об утверждении Правил оказания жилищной помощи по Абайскому району"
-  link: https://zan.gov.kz/client/#!/doc/81135/rus
-source: https://zan.gov.kz/client/#!/doc/66456/rus/12.06.2014
+  link: https://zan.gov.kz/client/#!/doc/83597/rus
+source: https://zan.gov.kz/client/#!/doc/66456/rus/11.09.2014
 ---
 
 # Об утверждении Правил оказания жилищной помощи по Абайскому району

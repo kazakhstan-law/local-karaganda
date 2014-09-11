@@ -1,5 +1,5 @@
 ---
-version_id: '66456_155726'
+version_id: '66456_155958'
 act_code: '66456'
 language: kaz
 title: Абай ауданы бойынша тұрғын үй көмегін көрсету Ережесін бекіту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '160011000002'
 approval_date: 2012-06-08
-version_date: 2014-06-12
+version_date: 2014-09-11
 registry_number: '66456'
 caused_by:
-  code: '81135'
+  code: '83597'
   title: Абай аудандық мәслихатының 6 сессиясының 2012 жылғы 8 маусымдағы № 6/59 "Абай ауданы бойынша тұрғын үй көмегін көрсету Ережесін бекіту туралы" шешіміне өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/81135/kaz
-source: https://zan.gov.kz/client/#!/doc/66456/kaz/12.06.2014
+  link: https://zan.gov.kz/client/#!/doc/83597/kaz
+source: https://zan.gov.kz/client/#!/doc/66456/kaz/11.09.2014
 ---
 
 # Абай ауданы бойынша тұрғын үй көмегін көрсету Ережесін бекіту туралы
