@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76711/rus/06.08.2014
+source: https://zan.gov.kz/client/#!/doc/76711/rus/15.10.2014
 ---
 
 ## Перечень бюджетных программ развития городского бюджета на 2014 год
