@@ -1,5 +1,5 @@
 ---
-version_id: AI79149_1
+version_id: AI79149_3
 act_code: '79149'
 language: rus
 title: Об утверждении Регламента Сатпаевского городского маслихата
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '160007000002'
 approval_date: 2014-03-31
-version_date: 2014-03-31
+version_date: 2014-11-07
 registry_number: '79149'
-source: https://zan.gov.kz/client/#!/doc/79149/rus/31.03.2014
+source: https://zan.gov.kz/client/#!/doc/79149/rus/07.11.2014
 ---
 
 # Об утверждении Регламента Сатпаевского городского маслихата
