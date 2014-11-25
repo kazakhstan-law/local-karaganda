@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76566/kaz/10.09.2014
+source: https://zan.gov.kz/client/#!/doc/76566/kaz/25.11.2014
 ---
 
 > *Ақтоғай аудандық мәслихатының*  
