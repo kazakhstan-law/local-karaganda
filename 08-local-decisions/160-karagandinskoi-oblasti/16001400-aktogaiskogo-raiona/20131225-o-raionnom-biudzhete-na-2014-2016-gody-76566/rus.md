@@ -1,5 +1,5 @@
 ---
-version_id: '76566_162278'
+version_id: '76566_162290'
 act_code: '76566'
 language: rus
 title: О районном бюджете на 2014-2016 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160014000002'
 approval_date: 2013-12-25
-version_date: 2014-11-25
+version_date: 2014-12-18
 registry_number: '76566'
 caused_by:
-  code: '84833'
+  code: '85238'
   title: О внесении изменений в решение 20 сессии Актогайского районного маслихата от 25 декабря 2013 года № 179 "О районном бюджете на 2014-2016 годы"
-  link: https://zan.gov.kz/client/#!/doc/84833/rus
-source: https://zan.gov.kz/client/#!/doc/76566/rus/25.11.2014
+  link: https://zan.gov.kz/client/#!/doc/85238/rus
+source: https://zan.gov.kz/client/#!/doc/76566/rus
 ---
 
 # О районном бюджете на 2014-2016 годы
