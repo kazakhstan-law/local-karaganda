@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78091/rus/25.02.2014
+source: https://zan.gov.kz/client/#!/doc/78091/rus/23.12.2014
 ---
 
 # Об утверждении регламента Приозерского городского маслихата
