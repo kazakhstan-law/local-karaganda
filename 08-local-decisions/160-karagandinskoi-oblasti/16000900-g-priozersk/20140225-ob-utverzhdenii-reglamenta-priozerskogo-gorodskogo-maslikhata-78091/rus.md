@@ -1,5 +1,5 @@
 ---
-version_id: '78091_277754'
+version_id: '78091_392908'
 act_code: '78091'
 language: rus
 title: Об утверждении регламента Приозерского городского маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160009000002'
 approval_date: 2014-02-25
-version_date: 2014-02-25
+version_date: 2014-12-23
 registry_number: '78091'
-source: https://zan.gov.kz/client/#!/doc/78091/rus/25.02.2014
+caused_by:
+  code: '86445'
+  title: О внесении изменений в некоторые нормативные правовые акты Приозерского городского маслихата
+  link: https://zan.gov.kz/client/#!/doc/86445/rus
+source: https://zan.gov.kz/client/#!/doc/78091/rus/23.12.2014
 ---
 
 # Об утверждении регламента Приозерского городского маслихата
