@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
+source: https://zan.gov.kz/client/#!/doc/86441/kaz/29.04.2015
 ---
 
 > *Бұқар жырау*  
@@ -10,6 +10,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 > *6 қосымша*
 
 # 2015 жылға арналған ауылдық округтар мен кенттер бойынша аудандық бюджет шығындары
+
+> *Ескерту. 6-қосымша жаңа редакцияда - Қарағанды облысы Бұқар жырау аудандық мәслихатының 29.04.2015 N 4 (01.01.2015 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -21,7 +23,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Ботақара кенті
@@ -29,31 +31,25 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <td></td>
@@ -61,8 +57,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>545 350</td>
-<td>67 165</td>
+<td>560 085</td>
+<td>73 104</td>
 </tr>
 <tr>
 <td>01</td>
@@ -70,8 +66,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>358 778</td>
-<td>18 673</td>
+<td>345 161</td>
+<td>18 557</td>
 </tr>
 <tr>
 <td></td>
@@ -79,8 +75,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>358 778</td>
-<td>18 673</td>
+<td>345 161</td>
+<td>18 557</td>
 </tr>
 <tr>
 <td></td>
@@ -88,8 +84,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>358 778</td>
-<td>18 673</td>
+<td>345 161</td>
+<td>18 557</td>
 </tr>
 <tr>
 <td></td>
@@ -97,8 +93,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>358 778</td>
-<td>18 673</td>
+<td>345 161</td>
+<td>18 557</td>
 </tr>
 <tr>
 <td>04</td>
@@ -106,8 +102,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>22 918</td>
-<td>2 612</td>
+<td>23 327</td>
+<td>2 863</td>
 </tr>
 <tr>
 <td></td>
@@ -115,8 +111,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>22 918</td>
-<td>2 612</td>
+<td>23 327</td>
+<td>2 863</td>
 </tr>
 <tr>
 <td></td>
@@ -124,8 +120,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>22 918</td>
-<td>2 612</td>
+<td>23 327</td>
+<td>2 863</td>
 </tr>
 <tr>
 <td></td>
@@ -133,8 +129,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>22 918</td>
-<td>2 612</td>
+<td>23 327</td>
+<td>2 863</td>
 </tr>
 <tr>
 <td>07</td>
@@ -142,8 +138,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>78 636</td>
-<td>34 252</td>
+<td>102 457</td>
+<td>37 056</td>
 </tr>
 <tr>
 <td></td>
@@ -151,8 +147,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>10 695</td>
-<td>5 107</td>
+<td>21 918</td>
+<td>7 604</td>
 </tr>
 <tr>
 <td></td>
@@ -160,8 +156,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>10 695</td>
-<td>5 107</td>
+<td>21 918</td>
+<td>7 604</td>
 </tr>
 <tr>
 <td></td>
@@ -169,8 +165,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>10 695</td>
-<td>5 107</td>
+<td>21 918</td>
+<td>7 604</td>
 </tr>
 <tr>
 <td></td>
@@ -178,8 +174,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>67 941</td>
-<td>29 145</td>
+<td>80 539</td>
+<td>29 452</td>
 </tr>
 <tr>
 <td></td>
@@ -187,8 +183,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>67 941</td>
-<td>29 145</td>
+<td>80 539</td>
+<td>29 452</td>
 </tr>
 <tr>
 <td></td>
@@ -196,8 +192,17 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>52 499</td>
+<td>57 236</td>
 <td>15 230</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>2 407</td>
+<td>307</td>
 </tr>
 <tr>
 <td></td>
@@ -205,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>15 442</td>
+<td>20 896</td>
 <td>13 915</td>
 </tr>
 <tr>
@@ -214,8 +219,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>27 070</td>
-<td>5 866</td>
+<td>31 192</td>
+<td>8 866</td>
 </tr>
 <tr>
 <td></td>
@@ -223,8 +228,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>27 070</td>
-<td>5 866</td>
+<td>31 192</td>
+<td>8 866</td>
 </tr>
 <tr>
 <td></td>
@@ -232,8 +237,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>27 070</td>
-<td>5 866</td>
+<td>31 192</td>
+<td>8 866</td>
 </tr>
 <tr>
 <td></td>
@@ -241,8 +246,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>27 070</td>
-<td>5 866</td>
+<td>31 192</td>
+<td>8 866</td>
 </tr>
 <tr>
 <td>13</td>
@@ -282,13 +287,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Ғабиден Мұстафин кенті
@@ -300,20 +307,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -332,8 +333,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>25 588</td>
-<td>18 182</td>
+<td>29 685</td>
+<td>18 802</td>
 </tr>
 <tr>
 <td>01</td>
@@ -341,8 +342,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>16 891</td>
-<td>13 016</td>
+<td>16 318</td>
+<td>12 536</td>
 </tr>
 <tr>
 <td></td>
@@ -350,8 +351,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>16 891</td>
-<td>13 016</td>
+<td>16 318</td>
+<td>12 536</td>
 </tr>
 <tr>
 <td></td>
@@ -359,8 +360,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>16 891</td>
-<td>13 016</td>
+<td>16 318</td>
+<td>12 536</td>
 </tr>
 <tr>
 <td></td>
@@ -368,8 +369,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>16 891</td>
-<td>13 016</td>
+<td>16 318</td>
+<td>12 536</td>
 </tr>
 <tr>
 <td>04</td>
@@ -377,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>1 920</td>
+<td>1 893</td>
 <td></td>
 </tr>
 <tr>
@@ -386,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1 920</td>
+<td>1 893</td>
 <td></td>
 </tr>
 <tr>
@@ -395,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1 920</td>
+<td>1 893</td>
 <td></td>
 </tr>
 <tr>
@@ -404,7 +405,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>1 920</td>
+<td>1 893</td>
 <td></td>
 </tr>
 <tr>
@@ -413,8 +414,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2 144</td>
-<td>449</td>
+<td>6 841</td>
+<td>1 549</td>
 </tr>
 <tr>
 <td></td>
@@ -449,8 +450,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>2 144</td>
-<td>449</td>
+<td>6 841</td>
+<td>1 549</td>
 </tr>
 <tr>
 <td></td>
@@ -458,8 +459,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>2 144</td>
-<td>449</td>
+<td>6 841</td>
+<td>1 549</td>
 </tr>
 <tr>
 <td></td>
@@ -467,8 +468,17 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1 904</td>
-<td>449</td>
+<td>2 301</td>
+<td>1 249</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>300</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -476,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>240</td>
+<td>4 240</td>
 <td></td>
 </tr>
 <tr>
@@ -553,13 +563,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Ақтөбе ауылдық округі
@@ -571,20 +583,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -603,8 +609,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>9 754</td>
-<td>10 000</td>
+<td>10 565</td>
+<td>9 705</td>
 </tr>
 <tr>
 <td>01</td>
@@ -612,8 +618,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>8 382</td>
-<td>9 145</td>
+<td>8 735</td>
+<td>8 650</td>
 </tr>
 <tr>
 <td></td>
@@ -621,8 +627,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>8 382</td>
-<td>9 145</td>
+<td>8 735</td>
+<td>8 650</td>
 </tr>
 <tr>
 <td></td>
@@ -630,8 +636,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>8 382</td>
-<td>9 145</td>
+<td>8 735</td>
+<td>8 650</td>
 </tr>
 <tr>
 <td></td>
@@ -639,8 +645,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>8 382</td>
-<td>9 145</td>
+<td>8 735</td>
+<td>8 650</td>
 </tr>
 <tr>
 <td>04</td>
@@ -745,6 +751,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td></td>
@@ -756,8 +771,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td></td>
-<td>428</td>
+<td>458</td>
+<td>628</td>
 </tr>
 <tr>
 <td></td>
@@ -765,8 +780,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td></td>
-<td>428</td>
+<td>458</td>
+<td>628</td>
 </tr>
 <tr>
 <td></td>
@@ -774,8 +789,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td></td>
-<td>428</td>
+<td>458</td>
+<td>628</td>
 </tr>
 <tr>
 <td></td>
@@ -783,8 +798,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td></td>
-<td>428</td>
+<td>458</td>
+<td>628</td>
 </tr>
 <tr>
 <td>13</td>
@@ -824,13 +839,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Ақбел ауылдық округі
@@ -842,20 +859,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -874,8 +885,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>12 245</td>
-<td>11 881</td>
+<td>11 792</td>
+<td>12 699</td>
 </tr>
 <tr>
 <td>01</td>
@@ -883,8 +894,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>9 823</td>
-<td>9 982</td>
+<td>9 306</td>
+<td>10 575</td>
 </tr>
 <tr>
 <td></td>
@@ -892,8 +903,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>9 823</td>
-<td>9 982</td>
+<td>9 306</td>
+<td>10 575</td>
 </tr>
 <tr>
 <td></td>
@@ -901,8 +912,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>9 823</td>
-<td>9 982</td>
+<td>9 306</td>
+<td>10 575</td>
 </tr>
 <tr>
 <td></td>
@@ -910,8 +921,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>9 823</td>
-<td>9 982</td>
+<td>9 306</td>
+<td>10 575</td>
 </tr>
 <tr>
 <td>04</td>
@@ -956,7 +967,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 <td>1 038</td>
-<td>472</td>
+<td>697</td>
 </tr>
 <tr>
 <td></td>
@@ -965,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Коммуналдық шаруашылық</td>
 <td></td>
-<td>57</td>
+<td>282</td>
 </tr>
 <tr>
 <td></td>
@@ -974,7 +985,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td></td>
-<td>57</td>
+<td>282</td>
 </tr>
 <tr>
 <td></td>
@@ -983,7 +994,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
 <td></td>
-<td>57</td>
+<td>282</td>
 </tr>
 <tr>
 <td></td>
@@ -1016,6 +1027,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td></td>
@@ -1027,7 +1047,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>600</td>
+<td>664</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1036,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>600</td>
+<td>664</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1045,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>600</td>
+<td>664</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1054,7 +1074,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>600</td>
+<td>664</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1095,13 +1115,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Қызылқайың ауылдық
@@ -1113,20 +1135,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -1145,8 +1161,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>18 983</td>
-<td>13 182</td>
+<td>18 623</td>
+<td>12 290</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1154,8 +1170,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11 414</td>
-<td>10 572</td>
+<td>10 874</td>
+<td>9 630</td>
 </tr>
 <tr>
 <td></td>
@@ -1163,8 +1179,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>11 414</td>
-<td>10 572</td>
+<td>10 874</td>
+<td>9 630</td>
 </tr>
 <tr>
 <td></td>
@@ -1172,8 +1188,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>11 414</td>
-<td>10 572</td>
+<td>10 874</td>
+<td>9 630</td>
 </tr>
 <tr>
 <td></td>
@@ -1181,8 +1197,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11 414</td>
-<td>10 572</td>
+<td>10 874</td>
+<td>9 630</td>
 </tr>
 <tr>
 <td>04</td>
@@ -1226,8 +1242,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>3 565</td>
-<td>1 466</td>
+<td>3 745</td>
+<td>1 516</td>
 </tr>
 <tr>
 <td></td>
@@ -1262,8 +1278,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>1 850</td>
-<td>816</td>
+<td>2 030</td>
+<td>866</td>
 </tr>
 <tr>
 <td></td>
@@ -1271,8 +1287,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1 850</td>
-<td>816</td>
+<td>2 030</td>
+<td>866</td>
 </tr>
 <tr>
 <td></td>
@@ -1280,8 +1296,17 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>1 350</td>
+<td>1 530</td>
 <td>716</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1290,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td>500</td>
-<td>100</td>
+<td>150</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1366,13 +1391,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Бұқар жырау ауылдық
@@ -1384,20 +1411,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -1416,8 +1437,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>11 388</td>
-<td>12 987</td>
+<td>10 233</td>
+<td>12 578</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1425,8 +1446,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>9 612</td>
-<td>10 095</td>
+<td>8 365</td>
+<td>9 538</td>
 </tr>
 <tr>
 <td></td>
@@ -1434,8 +1455,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>9 612</td>
-<td>10 095</td>
+<td>8 365</td>
+<td>9 538</td>
 </tr>
 <tr>
 <td></td>
@@ -1443,8 +1464,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>9 612</td>
-<td>10 095</td>
+<td>8 365</td>
+<td>9 538</td>
 </tr>
 <tr>
 <td></td>
@@ -1452,8 +1473,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>9 612</td>
-<td>10 095</td>
+<td>8 365</td>
+<td>9 538</td>
 </tr>
 <tr>
 <td>04</td>
@@ -1461,8 +1482,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>772</td>
-<td>1 274</td>
+<td>748</td>
+<td>1 242</td>
 </tr>
 <tr>
 <td></td>
@@ -1470,8 +1491,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>772</td>
-<td>1 274</td>
+<td>748</td>
+<td>1 242</td>
 </tr>
 <tr>
 <td></td>
@@ -1479,8 +1500,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>772</td>
-<td>1 274</td>
+<td>748</td>
+<td>1 242</td>
 </tr>
 <tr>
 <td></td>
@@ -1488,8 +1509,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>772</td>
-<td>1 274</td>
+<td>748</td>
+<td>1 242</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1497,8 +1518,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>199</td>
-<td>407</td>
+<td>315</td>
+<td>587</td>
 </tr>
 <tr>
 <td></td>
@@ -1533,8 +1554,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td></td>
-<td>219</td>
+<td>116</td>
+<td>399</td>
 </tr>
 <tr>
 <td></td>
@@ -1542,8 +1563,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td></td>
-<td>219</td>
+<td>116</td>
+<td>399</td>
 </tr>
 <tr>
 <td></td>
@@ -1551,8 +1572,17 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>116</td>
+<td>399</td>
+</tr>
+<tr>
 <td></td>
-<td>219</td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1637,13 +1667,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Дубовка ауылдық
@@ -1655,20 +1687,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -1687,8 +1713,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>20 630</td>
-<td>22 396</td>
+<td>24 271</td>
+<td>23 368</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1696,8 +1722,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>13 948</td>
-<td>13 638</td>
+<td>13 486</td>
+<td>12 410</td>
 </tr>
 <tr>
 <td></td>
@@ -1705,8 +1731,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>13 948</td>
-<td>13 638</td>
+<td>13 486</td>
+<td>12 410</td>
 </tr>
 <tr>
 <td></td>
@@ -1714,8 +1740,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>13 948</td>
-<td>13 638</td>
+<td>13 486</td>
+<td>12 410</td>
 </tr>
 <tr>
 <td></td>
@@ -1723,8 +1749,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>13 948</td>
-<td>13 638</td>
+<td>13 486</td>
+<td>12 410</td>
 </tr>
 <tr>
 <td>04</td>
@@ -1733,7 +1759,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Бiлiм беру</td>
 <td></td>
-<td>1 206</td>
+<td>1 169</td>
 </tr>
 <tr>
 <td></td>
@@ -1742,7 +1768,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
 <td></td>
-<td>1 206</td>
+<td>1 169</td>
 </tr>
 <tr>
 <td></td>
@@ -1751,7 +1777,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td></td>
-<td>1 206</td>
+<td>1 169</td>
 </tr>
 <tr>
 <td></td>
@@ -1760,7 +1786,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 <td></td>
-<td>1 206</td>
+<td>1 169</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1768,8 +1794,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2 150</td>
-<td>2 456</td>
+<td>6 253</td>
+<td>4 693</td>
 </tr>
 <tr>
 <td></td>
@@ -1777,8 +1803,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td></td>
-<td>166</td>
+<td>4 003</td>
+<td>1 895</td>
 </tr>
 <tr>
 <td></td>
@@ -1786,8 +1812,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td></td>
-<td>166</td>
+<td>4 003</td>
+<td>1 895</td>
 </tr>
 <tr>
 <td></td>
@@ -1795,8 +1821,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td></td>
-<td>166</td>
+<td>4 003</td>
+<td>1 895</td>
 </tr>
 <tr>
 <td></td>
@@ -1804,8 +1830,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>2 150</td>
-<td>2 290</td>
+<td>2 250</td>
+<td>2 798</td>
 </tr>
 <tr>
 <td></td>
@@ -1813,8 +1839,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>2 150</td>
-<td>2 290</td>
+<td>2 250</td>
+<td>2 798</td>
 </tr>
 <tr>
 <td></td>
@@ -1829,10 +1855,19 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td>300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>150</td>
-<td></td>
+<td>250</td>
+<td>208</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1908,13 +1943,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Қаражар ауылды
@@ -1926,20 +1963,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -1958,8 +1989,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>16 156</td>
-<td>12 609</td>
+<td>16 241</td>
+<td>12 689</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1967,8 +1998,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11 679</td>
-<td>10 290</td>
+<td>11 504</td>
+<td>10 255</td>
 </tr>
 <tr>
 <td></td>
@@ -1976,8 +2007,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>11 679</td>
-<td>10 290</td>
+<td>11 504</td>
+<td>10 255</td>
 </tr>
 <tr>
 <td></td>
@@ -1985,8 +2016,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>11 679</td>
-<td>10 290</td>
+<td>11 504</td>
+<td>10 255</td>
 </tr>
 <tr>
 <td></td>
@@ -1994,8 +2025,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11 679</td>
-<td>10 290</td>
+<td>11 504</td>
+<td>10 255</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2039,8 +2070,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1 100</td>
-<td>1 012</td>
+<td>1 360</td>
+<td>1 127</td>
 </tr>
 <tr>
 <td></td>
@@ -2048,8 +2079,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>800</td>
-<td>58</td>
+<td>1 000</td>
+<td>116</td>
 </tr>
 <tr>
 <td></td>
@@ -2057,8 +2088,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>800</td>
-<td>58</td>
+<td>1 000</td>
+<td>116</td>
 </tr>
 <tr>
 <td></td>
@@ -2066,8 +2097,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>800</td>
-<td>58</td>
+<td>1 000</td>
+<td>116</td>
 </tr>
 <tr>
 <td></td>
@@ -2075,8 +2106,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>300</td>
-<td>954</td>
+<td>360</td>
+<td>1 011</td>
 </tr>
 <tr>
 <td></td>
@@ -2084,8 +2115,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>300</td>
-<td>954</td>
+<td>360</td>
+<td>1 011</td>
 </tr>
 <tr>
 <td></td>
@@ -2100,10 +2131,19 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td></td>
-<td></td>
+<td>60</td>
+<td>57</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2179,13 +2219,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Көкпекті ауылдық
@@ -2197,20 +2239,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -2229,8 +2265,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>23 099</td>
-<td>16 862</td>
+<td>24 544</td>
+<td>17 174</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2238,8 +2274,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>13 457</td>
-<td>12 388</td>
+<td>13 232</td>
+<td>12 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2247,8 +2283,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>13 457</td>
-<td>12 388</td>
+<td>13 232</td>
+<td>12 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2256,8 +2292,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>13 457</td>
-<td>12 388</td>
+<td>13 232</td>
+<td>12 400</td>
 </tr>
 <tr>
 <td></td>
@@ -2265,8 +2301,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>13 457</td>
-<td>12 388</td>
+<td>13 232</td>
+<td>12 400</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2310,8 +2346,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4 354</td>
-<td>974</td>
+<td>6 024</td>
+<td>1 274</td>
 </tr>
 <tr>
 <td></td>
@@ -2319,7 +2355,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td></td>
+<td>633</td>
 <td></td>
 </tr>
 <tr>
@@ -2328,7 +2364,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td></td>
+<td>633</td>
 <td></td>
 </tr>
 <tr>
@@ -2337,7 +2373,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td></td>
+<td>633</td>
 <td></td>
 </tr>
 <tr>
@@ -2346,8 +2382,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>4 354</td>
-<td>974</td>
+<td>5 391</td>
+<td>1 274</td>
 </tr>
 <tr>
 <td></td>
@@ -2355,8 +2391,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>4 354</td>
-<td>974</td>
+<td>5 391</td>
+<td>1 274</td>
 </tr>
 <tr>
 <td></td>
@@ -2364,8 +2400,17 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>3 884</td>
+<td>4 621</td>
 <td>974</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>300</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -2450,13 +2495,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Молодецкое ауылы
@@ -2468,20 +2515,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -2500,8 +2541,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>12 307</td>
-<td>15 527</td>
+<td>11 929</td>
+<td>15 123</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2509,8 +2550,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>9 746</td>
-<td>11 505</td>
+<td>9 368</td>
+<td>11 079</td>
 </tr>
 <tr>
 <td></td>
@@ -2518,8 +2559,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>9 746</td>
-<td>11 505</td>
+<td>9 368</td>
+<td>11 079</td>
 </tr>
 <tr>
 <td></td>
@@ -2527,8 +2568,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>9 746</td>
-<td>11 505</td>
+<td>9 368</td>
+<td>11 079</td>
 </tr>
 <tr>
 <td></td>
@@ -2536,8 +2577,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>9 746</td>
-<td>11 505</td>
+<td>9 368</td>
+<td>11 079</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2582,7 +2623,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 <td>962</td>
-<td>261</td>
+<td>283</td>
 </tr>
 <tr>
 <td></td>
@@ -2618,7 +2659,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
 <td>962</td>
-<td>261</td>
+<td>283</td>
 </tr>
 <tr>
 <td></td>
@@ -2627,7 +2668,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>962</td>
-<td>261</td>
+<td>283</td>
 </tr>
 <tr>
 <td></td>
@@ -2642,10 +2683,19 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td></td>
-<td></td>
+<td>22</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2721,13 +2771,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Жаңаөзен ауылдық
@@ -2739,20 +2791,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -2771,8 +2817,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>15 966</td>
-<td>19 822</td>
+<td>17 845</td>
+<td>19 307</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2780,8 +2826,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>12 265</td>
-<td>13 766</td>
+<td>12 281</td>
+<td>13 251</td>
 </tr>
 <tr>
 <td></td>
@@ -2789,8 +2835,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>12 265</td>
-<td>13 766</td>
+<td>12 281</td>
+<td>13 251</td>
 </tr>
 <tr>
 <td></td>
@@ -2798,8 +2844,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>12 265</td>
-<td>13 766</td>
+<td>12 281</td>
+<td>13 251</td>
 </tr>
 <tr>
 <td></td>
@@ -2807,8 +2853,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>12 265</td>
-<td>13 766</td>
+<td>12 281</td>
+<td>13 251</td>
 </tr>
 <tr>
 <td>04</td>
@@ -2816,7 +2862,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>1 091</td>
+<td>1 254</td>
 <td></td>
 </tr>
 <tr>
@@ -2825,7 +2871,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1 091</td>
+<td>1 254</td>
 <td></td>
 </tr>
 <tr>
@@ -2834,7 +2880,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1 091</td>
+<td>1 254</td>
 <td></td>
 </tr>
 <tr>
@@ -2843,7 +2889,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>1 091</td>
+<td>1 254</td>
 <td></td>
 </tr>
 <tr>
@@ -2852,7 +2898,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>597</td>
+<td>2 297</td>
 <td>2 910</td>
 </tr>
 <tr>
@@ -2861,7 +2907,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>300</td>
+<td>900</td>
 <td></td>
 </tr>
 <tr>
@@ -2870,7 +2916,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>300</td>
+<td>900</td>
 <td></td>
 </tr>
 <tr>
@@ -2879,7 +2925,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td>300</td>
+<td>900</td>
 <td></td>
 </tr>
 <tr>
@@ -2888,7 +2934,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>297</td>
+<td>1 397</td>
 <td>2 910</td>
 </tr>
 <tr>
@@ -2897,7 +2943,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>297</td>
+<td>1 397</td>
 <td>2 910</td>
 </tr>
 <tr>
@@ -2906,8 +2952,17 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>297</td>
+<td>1 397</td>
 <td>2 910</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2992,13 +3047,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Баймырза ауылдық
@@ -3010,20 +3067,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -3042,8 +3093,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>17 295</td>
-<td>21 891</td>
+<td>17 064</td>
+<td>21 708</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3051,8 +3102,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>11 092</td>
-<td>14 632</td>
+<td>10 647</td>
+<td>13 924</td>
 </tr>
 <tr>
 <td></td>
@@ -3060,8 +3111,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>11 092</td>
-<td>14 632</td>
+<td>10 647</td>
+<td>13 924</td>
 </tr>
 <tr>
 <td></td>
@@ -3069,8 +3120,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>11 092</td>
-<td>14 632</td>
+<td>10 647</td>
+<td>13 924</td>
 </tr>
 <tr>
 <td></td>
@@ -3078,8 +3129,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>11 092</td>
-<td>14 632</td>
+<td>10 647</td>
+<td>13 924</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3087,7 +3138,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>1 605</td>
+<td>1 819</td>
 <td></td>
 </tr>
 <tr>
@@ -3096,7 +3147,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>1 605</td>
+<td>1 819</td>
 <td></td>
 </tr>
 <tr>
@@ -3105,7 +3156,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1 605</td>
+<td>1 819</td>
 <td></td>
 </tr>
 <tr>
@@ -3114,7 +3165,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>1 605</td>
+<td>1 819</td>
 <td></td>
 </tr>
 <tr>
@@ -3124,7 +3175,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 <td>1 748</td>
-<td>2 470</td>
+<td>2 995</td>
 </tr>
 <tr>
 <td></td>
@@ -3133,7 +3184,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Коммуналдық шаруашылық</td>
 <td></td>
-<td></td>
+<td>166</td>
 </tr>
 <tr>
 <td></td>
@@ -3142,7 +3193,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td></td>
-<td></td>
+<td>166</td>
 </tr>
 <tr>
 <td></td>
@@ -3151,7 +3202,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
 <td></td>
-<td></td>
+<td>166</td>
 </tr>
 <tr>
 <td></td>
@@ -3160,7 +3211,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
 <td>1 748</td>
-<td>2 470</td>
+<td>2 829</td>
 </tr>
 <tr>
 <td></td>
@@ -3169,7 +3220,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>1 748</td>
-<td>2 470</td>
+<td>2 829</td>
 </tr>
 <tr>
 <td></td>
@@ -3184,10 +3235,19 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td>300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td></td>
-<td></td>
+<td>59</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3263,13 +3323,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Самарқанд ауылдық
@@ -3281,20 +3343,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -3313,8 +3369,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>21 505</td>
-<td>9 946</td>
+<td>21 579</td>
+<td>10 227</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3322,8 +3378,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>12 575</td>
-<td>9 064</td>
+<td>12 008</td>
+<td>8 529</td>
 </tr>
 <tr>
 <td></td>
@@ -3331,8 +3387,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>12 575</td>
-<td>9 064</td>
+<td>12 008</td>
+<td>8 529</td>
 </tr>
 <tr>
 <td></td>
@@ -3340,8 +3396,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>12 575</td>
-<td>9 064</td>
+<td>12 008</td>
+<td>8 529</td>
 </tr>
 <tr>
 <td></td>
@@ -3349,8 +3405,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>12 575</td>
-<td>9 064</td>
+<td>12 008</td>
+<td>8 529</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3358,7 +3414,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>3 876</td>
+<td>3 777</td>
 <td></td>
 </tr>
 <tr>
@@ -3367,7 +3423,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td>3 876</td>
+<td>3 777</td>
 <td></td>
 </tr>
 <tr>
@@ -3376,7 +3432,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>3 876</td>
+<td>3 777</td>
 <td></td>
 </tr>
 <tr>
@@ -3385,7 +3441,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>3 876</td>
+<td>3 777</td>
 <td></td>
 </tr>
 <tr>
@@ -3394,8 +3450,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2 046</td>
-<td>80</td>
+<td>2 786</td>
+<td>896</td>
 </tr>
 <tr>
 <td></td>
@@ -3404,7 +3460,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Коммуналдық шаруашылық</td>
 <td></td>
-<td></td>
+<td>816</td>
 </tr>
 <tr>
 <td></td>
@@ -3413,7 +3469,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td></td>
-<td></td>
+<td>816</td>
 </tr>
 <tr>
 <td></td>
@@ -3422,7 +3478,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
 <td></td>
-<td></td>
+<td>816</td>
 </tr>
 <tr>
 <td></td>
@@ -3430,7 +3486,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>2 046</td>
+<td>2 786</td>
 <td>80</td>
 </tr>
 <tr>
@@ -3439,7 +3495,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>2 046</td>
+<td>2 786</td>
 <td>80</td>
 </tr>
 <tr>
@@ -3448,8 +3504,17 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>2 046</td>
+<td>2 288</td>
 <td>80</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>300</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3457,7 +3522,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td></td>
+<td>198</td>
 <td></td>
 </tr>
 <tr>
@@ -3534,13 +3599,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Тоғызқұдық ауылдық
@@ -3552,20 +3619,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -3584,8 +3645,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>14 545</td>
-<td>12 235</td>
+<td>13 068</td>
+<td>13 409</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3593,8 +3654,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>12 234</td>
-<td>10 136</td>
+<td>10 757</td>
+<td>9 822</td>
 </tr>
 <tr>
 <td></td>
@@ -3602,8 +3663,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>12 234</td>
-<td>10 136</td>
+<td>10 757</td>
+<td>9 822</td>
 </tr>
 <tr>
 <td></td>
@@ -3611,8 +3672,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>12 234</td>
-<td>10 136</td>
+<td>10 757</td>
+<td>9 822</td>
 </tr>
 <tr>
 <td></td>
@@ -3620,8 +3681,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>12 234</td>
-<td>10 136</td>
+<td>10 757</td>
+<td>9 822</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3666,7 +3727,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 <td>606</td>
-<td>442</td>
+<td>1 530</td>
 </tr>
 <tr>
 <td></td>
@@ -3702,7 +3763,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
 <td>606</td>
-<td>442</td>
+<td>1 530</td>
 </tr>
 <tr>
 <td></td>
@@ -3711,7 +3772,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>606</td>
-<td>442</td>
+<td>1 530</td>
 </tr>
 <tr>
 <td></td>
@@ -3720,7 +3781,16 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>606</td>
-<td>442</td>
+<td>830</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3729,7 +3799,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
 <td></td>
-<td></td>
+<td>700</td>
 </tr>
 <tr>
 <td>12</td>
@@ -3738,7 +3808,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Көлiк және коммуникация</td>
 <td>262</td>
-<td>700</td>
+<td>1 100</td>
 </tr>
 <tr>
 <td></td>
@@ -3747,7 +3817,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Автомобиль көлiгi</td>
 <td>262</td>
-<td>700</td>
+<td>1 100</td>
 </tr>
 <tr>
 <td></td>
@@ -3756,7 +3826,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>262</td>
-<td>700</td>
+<td>1 100</td>
 </tr>
 <tr>
 <td></td>
@@ -3765,7 +3835,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>262</td>
-<td>700</td>
+<td>1 100</td>
 </tr>
 <tr>
 <td>13</td>
@@ -3805,13 +3875,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Үштөбе ауылдық
@@ -3823,20 +3895,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -3855,8 +3921,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>30 899</td>
-<td>17 670</td>
+<td>30 182</td>
+<td>17 472</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3864,8 +3930,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>15 968</td>
-<td>13 777</td>
+<td>15 251</td>
+<td>13 283</td>
 </tr>
 <tr>
 <td></td>
@@ -3873,8 +3939,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>15 968</td>
-<td>13 777</td>
+<td>15 251</td>
+<td>13 283</td>
 </tr>
 <tr>
 <td></td>
@@ -3882,8 +3948,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>15 968</td>
-<td>13 777</td>
+<td>15 251</td>
+<td>13 283</td>
 </tr>
 <tr>
 <td></td>
@@ -3891,8 +3957,8 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>15 968</td>
-<td>13 777</td>
+<td>15 251</td>
+<td>13 283</td>
 </tr>
 <tr>
 <td>04</td>
@@ -3937,7 +4003,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
 <td>8 184</td>
-<td>900</td>
+<td>1 196</td>
 </tr>
 <tr>
 <td></td>
@@ -3946,7 +4012,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Коммуналдық шаруашылық</td>
 <td>1 455</td>
-<td></td>
+<td>296</td>
 </tr>
 <tr>
 <td></td>
@@ -3955,7 +4021,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>1 455</td>
-<td></td>
+<td>296</td>
 </tr>
 <tr>
 <td></td>
@@ -3964,7 +4030,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
 <td>1 455</td>
-<td></td>
+<td>296</td>
 </tr>
 <tr>
 <td></td>
@@ -3992,6 +4058,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
 <td>6 662</td>
 <td>900</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4076,13 +4151,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
 <td colspan="5">Функционалдық топ</td>
 <td>оның ішінде:</td>
 </tr>
 <tr>
-<td></td>
+<td rowspan="4"></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">
 Шешенқара ауылдық
@@ -4090,20 +4167,14 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td rowspan="3"></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>Атауы</td>
 </tr>
@@ -4121,7 +4192,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>12 635</td>
+<td>12 809</td>
 </tr>
 <tr>
 <td>01</td>
@@ -4129,7 +4200,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>9 013</td>
+<td>8 590</td>
 </tr>
 <tr>
 <td></td>
@@ -4137,7 +4208,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>9 013</td>
+<td>8 590</td>
 </tr>
 <tr>
 <td></td>
@@ -4145,7 +4216,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>9 013</td>
+<td>8 590</td>
 </tr>
 <tr>
 <td></td>
@@ -4153,7 +4224,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>9 013</td>
+<td>8 590</td>
 </tr>
 <tr>
 <td>04</td>
@@ -4193,7 +4264,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>725</td>
+<td>1 322</td>
 </tr>
 <tr>
 <td></td>
@@ -4225,7 +4296,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>725</td>
+<td>1 322</td>
 </tr>
 <tr>
 <td></td>
@@ -4233,7 +4304,7 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>725</td>
+<td>1 322</td>
 </tr>
 <tr>
 <td></td>
@@ -4241,7 +4312,15 @@ source: https://zan.gov.kz/client/#!/doc/86441/kaz/24.12.2014
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>725</td>
+<td>1 322</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
