@@ -1,5 +1,5 @@
 ---
-version_id: '69621_130923'
+version_id: AI69621_16
 act_code: '69621'
 language: kaz
 title: 2013-2015 жылдарға арналған қалалық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '160006000002'
 approval_date: 2012-12-11
-version_date: 2013-12-13
+version_date: 2015-05-12
 registry_number: '69621'
-caused_by:
-  code: '76067'
-  title: Жезқазған қалалық мәслихатының 2012 жылғы 11 желтоқсандағы XI сессиясының № 11/91 "2013-2015 жылдарға арналған қалалық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/76067/kaz
-source: https://zan.gov.kz/client/#!/doc/69621/kaz/13.12.2013
+source: https://zan.gov.kz/client/#!/doc/69621/kaz
 ---
 
 # 2013-2015 жылдарға арналған қалалық бюджет туралы

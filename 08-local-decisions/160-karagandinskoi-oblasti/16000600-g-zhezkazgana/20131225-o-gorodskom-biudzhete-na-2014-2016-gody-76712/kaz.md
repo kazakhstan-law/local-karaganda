@@ -1,5 +1,5 @@
 ---
-version_id: '76712_127333'
+version_id: AI76712_8
 act_code: '76712'
 language: kaz
 title: 2014-2016 жылдарға арналған қалалық бюджет туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '160006000002'
 approval_date: 2013-12-25
-version_date: 2014-11-26
+version_date: 2015-05-12
 registry_number: '76712'
-caused_by:
-  code: '84900'
-  title: Жезқазған қалалық мәслихатының 2013 жылғы 25 желтоқсандағы XXII сессиясының № 22/184 "2014-2016 жылдарға арналған қалалық бюджет туралы" шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/84900/kaz
-source: https://zan.gov.kz/client/#!/doc/76712/kaz/26.11.2014
+source: https://zan.gov.kz/client/#!/doc/76712/kaz
 ---
 
 # 2014-2016 жылдарға арналған қалалық бюджет туралы

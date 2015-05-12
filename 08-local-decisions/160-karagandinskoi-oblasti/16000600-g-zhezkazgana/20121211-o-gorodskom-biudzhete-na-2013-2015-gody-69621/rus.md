@@ -1,5 +1,5 @@
 ---
-version_id: '69621_130924'
+version_id: AI69621_17
 act_code: '69621'
 language: rus
 title: О городском бюджете на 2013-2015 годы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '160006000002'
 approval_date: 2012-12-11
-version_date: 2013-12-13
+version_date: 2015-05-12
 registry_number: '69621'
-caused_by:
-  code: '76067'
-  title: О внесении изменений в решение XI сессии Жезказганского городского маслихата от 11 декабря 2012 года № 11/91 "О городском бюджете на 2013-2015 годы"
-  link: https://zan.gov.kz/client/#!/doc/76067/rus
-source: https://zan.gov.kz/client/#!/doc/69621/rus/13.12.2013
+source: https://zan.gov.kz/client/#!/doc/69621/rus
 ---
 
 # О городском бюджете на 2013-2015 годы
