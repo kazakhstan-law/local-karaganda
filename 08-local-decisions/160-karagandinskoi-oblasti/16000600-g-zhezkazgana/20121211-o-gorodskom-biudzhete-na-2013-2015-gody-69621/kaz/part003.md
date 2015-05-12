@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69621/kaz/13.12.2013
+source: https://zan.gov.kz/client/#!/doc/69621/kaz/12.05.2015
 ---
 
 > *Жезқазған қалалық мәслихатының*  

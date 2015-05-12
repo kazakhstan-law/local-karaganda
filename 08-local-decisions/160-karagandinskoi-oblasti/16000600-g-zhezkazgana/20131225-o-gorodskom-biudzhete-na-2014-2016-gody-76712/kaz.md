@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76712/kaz/26.11.2014
+source: https://zan.gov.kz/client/#!/doc/76712/kaz/12.05.2015
 ---
 
 # 2014-2016 жылдарға арналған қалалық бюджет туралы
