@@ -1,5 +1,5 @@
 ---
-version_id: AI80606_1
+version_id: '80606_392094'
 act_code: '80606'
 language: rus
 title: Об утверждении Регламента Каркаралинского районного маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160013000002'
 approval_date: 2014-05-15
-version_date: 2014-05-15
+version_date: 2015-05-14
 registry_number: '80606'
-source: https://zan.gov.kz/client/#!/doc/80606/rus/15.05.2014
+caused_by:
+  code: '90417'
+  title: О внесении изменения в решение XХIX сессии Каркаралинского районного маслихата от 15 мая 2014 года № 29/245 «Об утверждении Регламента Каркаралинского районного маслихата»
+  link: https://zan.gov.kz/client/#!/doc/90417/rus
+source: https://zan.gov.kz/client/#!/doc/80606/rus/14.05.2015
 ---
 
 # Об утверждении Регламента Каркаралинского районного маслихата
