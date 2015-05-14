@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80606/rus/15.05.2014
+source: https://zan.gov.kz/client/#!/doc/80606/rus/14.05.2015
 ---
 
 # Об утверждении Регламента Каркаралинского районного маслихата
