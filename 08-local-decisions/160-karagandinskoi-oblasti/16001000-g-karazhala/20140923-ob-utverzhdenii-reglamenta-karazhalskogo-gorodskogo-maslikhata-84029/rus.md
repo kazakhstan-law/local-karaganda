@@ -1,5 +1,5 @@
 ---
-version_id: '84029_18492'
+version_id: '84029_18532'
 act_code: '84029'
 language: rus
 title: Об утверждении Регламента Каражалского городского маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160010000002'
 approval_date: 2014-09-23
-version_date: 2014-09-23
+version_date: 2015-06-19
 registry_number: '84029'
-source: https://zan.gov.kz/client/#!/doc/84029/rus/23.09.2014
+caused_by:
+  code: '92363'
+  title: О внесении изменения в решение ХХХІV сессии Каражалского городского маслихата от 23 сентября 2014 года № 263 «Об утверждении Регламента Каражалского городского маслихата»
+  link: https://zan.gov.kz/client/#!/doc/92363/rus
+source: https://zan.gov.kz/client/#!/doc/84029/rus/19.06.2015
 ---
 
 # Об утверждении Регламента Каражалского городского маслихата
