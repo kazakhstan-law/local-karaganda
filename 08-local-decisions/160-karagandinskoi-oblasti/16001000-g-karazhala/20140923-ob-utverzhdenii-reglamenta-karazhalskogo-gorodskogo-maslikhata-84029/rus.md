@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/84029/rus/23.09.2014
+source: https://zan.gov.kz/client/#!/doc/84029/rus/19.06.2015
 ---
 
 # Об утверждении Регламента Каражалского городского маслихата
