@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/79070/rus/28.03.2014
+source: https://zan.gov.kz/client/#!/doc/79070/rus/24.06.2015
 ---
 
 # Об утверждении Регламента Балхашского городского маслихата
