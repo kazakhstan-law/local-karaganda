@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78735/rus/05.03.2014
+source: https://zan.gov.kz/client/#!/doc/78735/rus/24.06.2015
 ---
 
 # Об утверждении Регламента Осакаровского районного маслихата
