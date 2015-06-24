@@ -1,5 +1,5 @@
 ---
-version_id: '78735_16676'
+version_id: '78735_17019'
 act_code: '78735'
 language: rus
 title: Об утверждении Регламента Осакаровского районного маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160018000002'
 approval_date: 2014-03-05
-version_date: 2014-03-05
+version_date: 2015-06-24
 registry_number: '78735'
-source: https://zan.gov.kz/client/#!/doc/78735/rus/05.03.2014
+caused_by:
+  code: '92066'
+  title: О внесении изменения в решение  27 сессии  Осакаровского районного маслихата   от  5 марта 2014 года № 275 «Об утверждении Регламента  Осакаровского районного маслихата»
+  link: https://zan.gov.kz/client/#!/doc/92066/rus
+source: https://zan.gov.kz/client/#!/doc/78735/rus/24.06.2015
 ---
 
 # Об утверждении Регламента Осакаровского районного маслихата
