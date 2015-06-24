@@ -1,5 +1,5 @@
 ---
-version_id: '79070_17608'
+version_id: '79070_300859'
 act_code: '79070'
 language: rus
 title: Об утверждении Регламента Балхашского городского маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160008000002'
 approval_date: 2014-03-28
-version_date: 2014-03-28
+version_date: 2015-06-24
 registry_number: '79070'
-source: https://zan.gov.kz/client/#!/doc/79070/rus/28.03.2014
+caused_by:
+  code: '92270'
+  title: О внесении изменения в решение городского маслихата от 28 марта 2014 года №26/207 «Об утверждении Регламента Балхашского городского маслихата»
+  link: https://zan.gov.kz/client/#!/doc/92270/rus
+source: https://zan.gov.kz/client/#!/doc/79070/rus/24.06.2015
 ---
 
 # Об утверждении Регламента Балхашского городского маслихата
