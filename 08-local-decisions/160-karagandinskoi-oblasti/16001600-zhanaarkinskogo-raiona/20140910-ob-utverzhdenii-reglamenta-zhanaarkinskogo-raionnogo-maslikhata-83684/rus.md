@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83684/rus/10.09.2014
+source: https://zan.gov.kz/client/#!/doc/83684/rus/26.06.2015
 ---
 
 # Об утверждении Регламента Жанааркинского районного маслихата
