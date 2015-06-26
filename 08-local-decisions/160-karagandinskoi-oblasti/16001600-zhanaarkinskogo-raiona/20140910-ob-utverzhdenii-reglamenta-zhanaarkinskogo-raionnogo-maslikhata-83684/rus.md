@@ -1,5 +1,5 @@
 ---
-version_id: '83684_19391'
+version_id: '83684_155243'
 act_code: '83684'
 language: rus
 title: Об утверждении Регламента Жанааркинского районного маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160016000002'
 approval_date: 2014-09-10
-version_date: 2014-09-10
+version_date: 2015-06-26
 registry_number: '83684'
-source: https://zan.gov.kz/client/#!/doc/83684/rus/10.09.2014
+caused_by:
+  code: '92671'
+  title: О внесении изменения в решение Жанааркинского районного маслихата от 10 сентября 2014 года № 34/225 «Об утверждении Регламента Жанааркинского районного маслихата»
+  link: https://zan.gov.kz/client/#!/doc/92671/rus
+source: https://zan.gov.kz/client/#!/doc/83684/rus/26.06.2015
 ---
 
 # Об утверждении Регламента Жанааркинского районного маслихата
