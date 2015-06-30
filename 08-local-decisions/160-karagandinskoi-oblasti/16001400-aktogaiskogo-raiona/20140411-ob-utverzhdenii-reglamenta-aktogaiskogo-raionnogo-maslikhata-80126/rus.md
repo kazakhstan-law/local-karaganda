@@ -1,5 +1,5 @@
 ---
-version_id: AI80126_1
+version_id: '80126_392081'
 act_code: '80126'
 language: rus
 title: Об утверждении Регламента Актогайского районного маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160014000002'
 approval_date: 2014-04-11
-version_date: 2014-04-11
+version_date: 2015-06-30
 registry_number: '80126'
-source: https://zan.gov.kz/client/#!/doc/80126/rus/11.04.2014
+caused_by:
+  code: '92219'
+  title: О внесении изменения в решение 21 сессии Актогайского районного маслихата от 11 апреля 2014 года № 200 "Об утверждении Регламента Актогайского районного маслихата"
+  link: https://zan.gov.kz/client/#!/doc/92219/rus
+source: https://zan.gov.kz/client/#!/doc/80126/rus/30.06.2015
 ---
 
 # Об утверждении Регламента Актогайского районного маслихата
