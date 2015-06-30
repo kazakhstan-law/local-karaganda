@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/80126/rus/11.04.2014
+source: https://zan.gov.kz/client/#!/doc/80126/rus/30.06.2015
 ---
 
 # Об утверждении Регламента Актогайского районного маслихата
