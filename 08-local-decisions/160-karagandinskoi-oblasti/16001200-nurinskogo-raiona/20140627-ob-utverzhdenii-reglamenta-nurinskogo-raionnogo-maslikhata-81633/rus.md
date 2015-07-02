@@ -1,5 +1,5 @@
 ---
-version_id: '81633_17070'
+version_id: '81633_155593'
 act_code: '81633'
 language: rus
 title: Об утверждении Регламента Нуринского районного маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160012000002'
 approval_date: 2014-06-27
-version_date: 2014-06-27
+version_date: 2015-07-02
 registry_number: '81633'
-source: https://zan.gov.kz/client/#!/doc/81633/rus/27.06.2014
+caused_by:
+  code: '92126'
+  title: О внесении изменения в решение 28 сессии Нуринского районного маслихата от 27 июня 2014 года № 288 «Об утверждении Регламента Нуринского районного маслихата»
+  link: https://zan.gov.kz/client/#!/doc/92126/rus
+source: https://zan.gov.kz/client/#!/doc/81633/rus/02.07.2015
 ---
 
 # Об утверждении Регламента Нуринского районного маслихата
