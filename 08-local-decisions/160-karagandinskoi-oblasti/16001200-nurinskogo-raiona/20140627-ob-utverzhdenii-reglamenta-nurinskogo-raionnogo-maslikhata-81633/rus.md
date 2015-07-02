@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/81633/rus/27.06.2014
+source: https://zan.gov.kz/client/#!/doc/81633/rus/02.07.2015
 ---
 
 # Об утверждении Регламента Нуринского районного маслихата
