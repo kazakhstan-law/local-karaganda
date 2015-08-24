@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/79787/rus/14.04.2014
+source: https://zan.gov.kz/client/#!/doc/79787/rus/24.08.2015
 ---
 
 # Об утверждении Регламента Жезказганского городского маслихата
