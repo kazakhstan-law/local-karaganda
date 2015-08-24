@@ -1,5 +1,5 @@
 ---
-version_id: AI79787_1
+version_id: '79787_374000'
 act_code: '79787'
 language: rus
 title: Об утверждении Регламента Жезказганского городского маслихата
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '160006000002'
 approval_date: 2014-04-14
-version_date: 2014-04-14
+version_date: 2015-08-24
 registry_number: '79787'
-source: https://zan.gov.kz/client/#!/doc/79787/rus/14.04.2014
+caused_by:
+  code: '93924'
+  title: О внесении изменения в решение Жезказганского городского маслихата от 14 апреля 2014 года № 23/196 Об утверждении Регламента Жезказганского городского маслихата»
+  link: https://zan.gov.kz/client/#!/doc/93924/rus
+source: https://zan.gov.kz/client/#!/doc/79787/rus/24.08.2015
 ---
 
 # Об утверждении Регламента Жезказганского городского маслихата
