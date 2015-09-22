@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85861/rus/05.08.2015
+source: https://zan.gov.kz/client/#!/doc/85861/rus/22.09.2015
 ---
 
 # О городском бюджете на 2015 - 2017 годы
