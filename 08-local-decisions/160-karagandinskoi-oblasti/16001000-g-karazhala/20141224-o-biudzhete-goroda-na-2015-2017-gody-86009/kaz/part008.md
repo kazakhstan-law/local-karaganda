@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/86009/kaz/03.08.2015
+source: https://zan.gov.kz/client/#!/doc/86009/kaz/25.09.2015
 ---
 
 > *Қаражал қалалық мәслихатының*  
