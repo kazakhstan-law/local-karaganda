@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85236/kaz/23.09.2015
+source: https://zan.gov.kz/client/#!/doc/85236/kaz/15.10.2015
 ---
 
 > *Қарағанды облыстық мәслихатының*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/85236/kaz/23.09.2015
 
 # 2015 жылға арналған облыстық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облыстық мәслихатының 23.09.2015 N 428 (01.01.2015 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облыстық мәслихатының 15.10.2015 N 442 (01.01.2015 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -31,16 +31,16 @@ source: https://zan.gov.kz/client/#!/doc/85236/kaz/23.09.2015
 <td colspan="2"></td>
 <td colspan="3">
 <pre>
-Iшкi сыныбы                     Атауы
+Iшкi сыныбы                                     Атауы
 </pre>
 </td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
@@ -249,12 +249,12 @@ Iшкi сыныбы                     Атауы
 <tr>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -332,7 +332,7 @@ Iшкi сыныбы                     Атауы
 <td></td>
 <td></td>
 <td></td>
-<td>113</td>
+<td>013</td>
 <td>Облыс Қазақстан халқы Ассамблеясының қызметін қамтамасыз ету</td>
 <td>10386</td>
 </tr>
@@ -2804,9 +2804,17 @@ Iшкi сыныбы                     Атауы
 <td></td>
 <td></td>
 <td></td>
+<td>038</td>
+<td>Аудандардың (облыстық маңызы бар қалалар) бюджеттеріне моноқалаларда ағымдағы іс-шараларды іске асыруға берілетін ағымдағы нысаналы трансферттер</td>
+<td>129653</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>067</td>
 <td>Моноқалаларда жобаларды іске асыру үшін берілетін кредиттер бойынша пайыздық мөлшерлемені субсидиялау</td>
-<td>308697</td>
+<td>179044</td>
 </tr>
 <tr>
 <td></td>
@@ -3149,11 +3157,11 @@ Iшкi сыныбы                     Атауы
 <tr>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="5">2</td>
-<td colspan="4">3</td>
-<td colspan="4">4</td>
-<td>5</td>
+<th>1</th>
+<th colspan="5">2</th>
+<th colspan="4">3</th>
+<th colspan="4">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td rowspan="5">5</td>
@@ -3204,12 +3212,12 @@ Iшкi сыныбы                     Атауы
 <tr>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="5">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="3">5</td>
-<td colspan="2">6</td>
+<th colspan="2">1</th>
+<th colspan="5">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="3">5</th>
+<th colspan="2">6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -3279,11 +3287,11 @@ Iшкi сыныбы                     Атауы
 </td>
 </tr>
 <tr>
-<td colspan="4">1</td>
-<td colspan="4">2</td>
-<td colspan="3">3</td>
-<td colspan="2">4</td>
-<td colspan="3">5</td>
+<th colspan="4">1</th>
+<th colspan="4">2</th>
+<th colspan="3">3</th>
+<th colspan="2">4</th>
+<th colspan="3">5</th>
 </tr>
 <tr>
 <td colspan="4"></td>

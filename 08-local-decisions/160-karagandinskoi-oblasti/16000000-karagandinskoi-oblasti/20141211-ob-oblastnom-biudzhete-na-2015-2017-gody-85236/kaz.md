@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85236/kaz/23.09.2015
+source: https://zan.gov.kz/client/#!/doc/85236/kaz/15.10.2015
 ---
 
 # 2015-2017 жылдарға арналған облыстық бюджет туралы

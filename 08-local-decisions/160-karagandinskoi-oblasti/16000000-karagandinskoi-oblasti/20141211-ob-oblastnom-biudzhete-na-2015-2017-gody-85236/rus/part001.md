@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
+source: https://zan.gov.kz/client/#!/doc/85236/rus/15.10.2015
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
 
 # Областной бюджет на 2015 год
 
-> *Сноска. Приложение 1 - в редакции решения Карагандинского областного маслихата от 23.09.2015 N 428 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 1 - в редакции решения Карагандинского областного маслихата от 15.10.2015 N 442 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
@@ -26,16 +26,16 @@ source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
 <td></td>
 <td colspan="2">
 <pre>
-Подкласс                                Наименование
+Подкласс                          Наименование
 </pre>
 </td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -244,12 +244,12 @@ source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
 <tr>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -2799,9 +2799,17 @@ source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
 <td></td>
 <td></td>
 <td></td>
+<td>038</td>
+<td>Целевые текущие трансферты бюджетам районов (городов областного значения) на реализацию текущих мероприятий в моногородах</td>
+<td>129653</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>067</td>
 <td>Субсидирование процентной ставки и гарантирование по кредитам банков для реализации проектов в моногородах</td>
-<td>308697</td>
+<td>179044</td>
 </tr>
 <tr>
 <td></td>
@@ -3141,11 +3149,11 @@ source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
 <tr>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="6">4</td>
-<td>5</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="3">3</th>
+<th colspan="6">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td rowspan="5">5</td>
@@ -3190,12 +3198,12 @@ source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
 <tr>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="4">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td colspan="2">6</td>
+<th>1</th>
+<th colspan="4">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th colspan="2">6</th>
 </tr>
 <tr>
 <td></td>
@@ -3260,11 +3268,11 @@ source: https://zan.gov.kz/client/#!/doc/85236/rus/23.09.2015
 <tr>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="6">2</td>
-<td>3</td>
-<td colspan="2">4</td>
-<td colspan="3">5</td>
+<th>1</th>
+<th colspan="6">2</th>
+<th>3</th>
+<th colspan="2">4</th>
+<th colspan="3">5</th>
 </tr>
 <tr>
 <td></td>
