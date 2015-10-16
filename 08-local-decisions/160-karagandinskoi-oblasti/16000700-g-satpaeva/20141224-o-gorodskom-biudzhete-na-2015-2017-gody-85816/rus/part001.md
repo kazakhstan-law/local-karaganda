@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
+source: https://zan.gov.kz/client/#!/doc/85816/rus/16.10.2015
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 
 # Городской бюджет на 2015 год
 
-> *Сноска. Приложение 1 - в редакции решения Сатпаевского городского маслихата Карагандинской области от 10.08.2015 № 361 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 1 - в редакции решения Сатпаевского городского маслихата Карагандинской области от 16.10.2015 № 380 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
@@ -24,13 +24,13 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="2">Подкласс Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td></td>
 </tr>
 <tr>
 <td>1</td>
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>10 909 336</td>
+<td>10 949 210</td>
 </tr>
 <tr>
 <td>1</td>
@@ -247,21 +247,21 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>8 803 364</td>
+<td>8 843 238</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>8 803 364</td>
+<td>8 843 238</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>8 803 364</td>
+<td>8 843 238</td>
 </tr>
 </table>
 
@@ -283,22 +283,22 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -306,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>10 853 946</td>
+<td>10 822 747</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1109,7 +1109,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td>15 305</td>
 </tr>
 <tr>
-<td></td>
+<td>8</td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -1418,7 +1418,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>2 991 193</td>
+<td>2 959 994</td>
 </tr>
 <tr>
 <td></td>
@@ -1450,7 +1450,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>2 986 193</td>
+<td>2 954 994</td>
 </tr>
 <tr>
 <td></td>
@@ -1458,7 +1458,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td>454</td>
 <td></td>
 <td>Отдел предпринимательства и сельского хозяйства района (города областного значения)</td>
-<td>46 551</td>
+<td>15 352</td>
 </tr>
 <tr>
 <td></td>
@@ -1466,7 +1466,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td>033</td>
 <td>Субсидирование процентной ставки по кредитам для реализации проектов в моногородах</td>
-<td>36 551</td>
+<td>15 352</td>
 </tr>
 <tr>
 <td></td>
@@ -1474,7 +1474,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td>034</td>
 <td>Предоставление грантов на развитие новых производств в моногородах</td>
-<td>10 000</td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -1610,7 +1610,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>III. Чистое бюджетное кредитование</td>
-<td>2 118 314</td>
+<td>2 100 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1618,7 +1618,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>2 118 314</td>
+<td>2 100 000</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1652,48 +1652,16 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td>Кредитование на реконструкцию и строительство систем тепло-, водоснабжения и водоотведения</td>
 <td>2 100 000</td>
 </tr>
-<tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Прочие</td>
-<td>18 314</td>
-</tr>
-<tr>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Поддержка предпринимательской деятельности и защита конкуренции</td>
-<td>18 314</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>454</td>
-<td></td>
-<td>Отдел предпринимательства и сельского хозяйства района (города областного значения)</td>
-<td>18 314</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>012</td>
-<td>Кредитование на содействие развитию предпринимательства в моногородах</td>
-<td>18 314</td>
-</tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="3">Класс Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1701,17 +1669,11 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1725,11 +1687,11 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1743,19 +1705,12 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1763,7 +1718,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>IV. Сальдо по операциям с финансовыми активами</td>
-<td>56 385</td>
+<td>127 458</td>
 </tr>
 <tr>
 <td></td>
@@ -1771,7 +1726,39 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>Приобретение финансовых активов</td>
-<td>56 385</td>
+<td>127 458</td>
+</tr>
+<tr>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>71 073</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>Жилищное хозяйство</td>
+<td>71 073</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>483</td>
+<td></td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог, строительства и жилищной инспекции района (города областного значения)</td>
+<td>71 073</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>060</td>
+<td>Увеличение уставных капиталов специализированных уполномоченных организаций</td>
+<td>71 073</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1810,11 +1797,12 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="2">Класс</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1822,17 +1810,11 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1846,7 +1828,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -1861,22 +1843,15 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="2">Программа Наименование</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1884,7 +1859,7 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-2 119 309</td>
+<td>-2 100 995</td>
 </tr>
 <tr>
 <td></td>
@@ -1892,18 +1867,18 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>2 119 309</td>
+<td>2 100 995</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="3">Класс Наименование</td>
 </tr>
 <tr>
 <td></td>
@@ -1911,38 +1886,32 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
 <td></td>
 <td>Поступления займов</td>
-<td>2 118 314</td>
+<td>2 100 000</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
 <td></td>
 <td>Внутренние государственные займы</td>
-<td>2 118 314</td>
+<td>2 100 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Договоры займа</td>
-<td>2 118 314</td>
+<td>2 100 000</td>
 </tr>
 </table>
 
@@ -1958,20 +1927,20 @@ source: https://zan.gov.kz/client/#!/doc/85816/rus/10.08.2015
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="2">Подкласс Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>Наименование</td>
+<td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>8</td>
