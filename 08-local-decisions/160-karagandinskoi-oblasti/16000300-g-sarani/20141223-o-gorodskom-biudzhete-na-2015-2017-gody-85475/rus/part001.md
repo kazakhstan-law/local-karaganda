@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
+source: https://zan.gov.kz/client/#!/doc/85475/rus/19.10.2015
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 
 # Городской бюджет на 2015 год
 
-> *Сноска. Приложение 1 - в редакции решения Саранского городского маслихата Карагандинской области от 13.10.2015 № 484 (вводится в действие с 01.01.2015).*
+> *Сноска. Приложение 1 - в редакции решения Саранского городского маслихата Карагандинской области от 19.10.2015 № 494 (вводится в действие с 01.01.2015).*
 
 <table>
 <tr>
@@ -47,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>3126158</td>
+<td>3153247</td>
 </tr>
 <tr>
 <td>1</td>
@@ -257,21 +257,21 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>2 040 076</td>
+<td>2 067 165</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>2 040 076</td>
+<td>2 067 165</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>2 040 076</td>
+<td>2 067 165</td>
 </tr>
 </table>
 
@@ -326,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <td></td>
 <td></td>
 <td>II. Затраты</td>
-<td>3122904</td>
+<td>3149993</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1578,7 +1578,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>122992</td>
+<td>150081</td>
 </tr>
 <tr>
 <td></td>
@@ -1610,7 +1610,23 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>122135</td>
+<td>149224</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>454</td>
+<td></td>
+<td>Отдел предпринимательства и сельского хозяйства района (города областного значения)</td>
+<td>27089</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>033</td>
+<td>Субсидирование процентной ставки по кредитам для реализации проектов в моногородах</td>
+<td>27089</td>
 </tr>
 <tr>
 <td></td>
@@ -1752,76 +1768,76 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 
 <table>
 <tr>
-<td colspan="14">Категория</td>
+<td colspan="13">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="13">Класс Наименование</td>
+<td colspan="12">Класс Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="11">Подкласс</td>
+<td colspan="10">Подкласс</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">2</td>
-<td colspan="4">3</td>
+<td colspan="3">3</td>
 <td colspan="7">4</td>
 <td>5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td colspan="3"></td>
 <td colspan="7">Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td colspan="3"></td>
 <td colspan="7">Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
-<td colspan="4"></td>
+<td colspan="3"></td>
 <td colspan="7">Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4">1</td>
+<td colspan="3">1</td>
 <td colspan="7">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="14">Функциональная группа</td>
+<td colspan="13">Функциональная группа</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="12">Функциональная подгруппа Наименование</td>
+<td colspan="11">Функциональная подгруппа Наименование</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="10">Администратор бюджетных программ</td>
+<td colspan="9">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td colspan="5">Программа</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2">2</td>
-<td colspan="5">3</td>
+<td colspan="4">3</td>
 <td colspan="2">4</td>
 <td colspan="3">5</td>
 <td>6</td>
@@ -1829,7 +1845,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="3">IV. Сальдо по операциям с финансовыми активами</td>
 <td>21577</td>
@@ -1837,7 +1853,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="3">Приобретение финансовых активов</td>
 <td>21577</td>
@@ -1845,7 +1861,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <tr>
 <td colspan="2">07</td>
 <td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
 <td>21577</td>
@@ -1853,7 +1869,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <tr>
 <td colspan="2"></td>
 <td colspan="2">1</td>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="3">Жилищное хозяйство</td>
 <td>21577</td>
@@ -1861,7 +1877,7 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5">492</td>
+<td colspan="4">492</td>
 <td colspan="2"></td>
 <td colspan="3">Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
 <td>21577</td>
@@ -1869,42 +1885,40 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td colspan="2">060</td>
 <td colspan="3">Увеличение уставных капиталов специализированных уполномоченных организаций</td>
 <td>21577</td>
 </tr>
 <tr>
-<td colspan="14">Категория</td>
+<td colspan="13">Категория</td>
 <td rowspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="12">Класс Наименование</td>
+<td colspan="11">Класс Наименование</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="9">Подкласс</td>
+<td colspan="8">Подкласс</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="3">2</td>
-<td colspan="5">3</td>
+<td colspan="4">3</td>
 <td colspan="4">4</td>
 <td>5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
 <td colspan="4">Поступление от продажи финансовых активов государства</td>
 <td>0</td>
 </tr>
 <tr>
-</tr>
-<tr>
-<td colspan="14" rowspan="4">Наименование</td>
+<td colspan="13" rowspan="4">Наименование</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
@@ -1914,15 +1928,15 @@ source: https://zan.gov.kz/client/#!/doc/85475/rus/13.10.2015
 <tr>
 </tr>
 <tr>
-<td colspan="14">1</td>
+<td colspan="13">1</td>
 <td>2</td>
 </tr>
 <tr>
-<td colspan="14">V. Дефицит (профицит) бюджета</td>
+<td colspan="13">V. Дефицит (профицит) бюджета</td>
 <td>-18323</td>
 </tr>
 <tr>
-<td colspan="14">VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="13">VI. Финансирование дефицита (использование профицита) бюджета</td>
 <td>18323</td>
 </tr>
 </table>
