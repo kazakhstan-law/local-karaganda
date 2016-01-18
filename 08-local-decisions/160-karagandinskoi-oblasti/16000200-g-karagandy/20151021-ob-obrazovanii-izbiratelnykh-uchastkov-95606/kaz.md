@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95606/kaz/21.10.2015
+source: https://zan.gov.kz/client/#!/doc/95606/kaz/18.01.2016
 ---
 
 # Сайлау учаскелерін құру туралы
