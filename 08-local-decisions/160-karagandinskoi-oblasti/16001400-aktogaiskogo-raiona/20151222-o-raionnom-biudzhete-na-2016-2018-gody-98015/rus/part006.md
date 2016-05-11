@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
+source: https://zan.gov.kz/client/#!/doc/98015/rus/11.05.2016
 ---
 
 > *Приложение 6*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 
 # Бюджетные программы аппаратов акимов поселков, села и сельских округов в составе районного бюджета на 2016 год
 
-> *Сноска. Приложение 6 - в редакции решения Актогайского районного маслихата Карагандинской области от 16.02.2016 № 375 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 6 - в редакции решения Актогайского районного маслихата Карагандинской области от 11.05.2016 № 27 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -53,7 +53,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>Всего</td>
-<td>345382</td>
+<td>347023</td>
 </tr>
 <tr>
 <td>01</td>
@@ -61,7 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>283567</td>
+<td>286637</td>
 </tr>
 <tr>
 <td></td>
@@ -69,7 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>283567</td>
+<td>286637</td>
 </tr>
 <tr>
 <td></td>
@@ -77,7 +77,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>283567</td>
+<td>286637</td>
 </tr>
 <tr>
 <td></td>
@@ -85,7 +85,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>248847</td>
+<td>250970</td>
 </tr>
 <tr>
 <td></td>
@@ -101,7 +101,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>село Актогай</td>
-<td>20566</td>
+<td>26102</td>
 </tr>
 <tr>
 <td></td>
@@ -109,7 +109,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Нуркен</td>
-<td>19584</td>
+<td>18900</td>
 </tr>
 <tr>
 <td></td>
@@ -117,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Караменде би</td>
-<td>12310</td>
+<td>10972</td>
 </tr>
 <tr>
 <td></td>
@@ -125,7 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Карабулак</td>
-<td>11691</td>
+<td>11524</td>
 </tr>
 <tr>
 <td></td>
@@ -133,7 +133,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Шабанбай</td>
-<td>14345</td>
+<td>15108</td>
 </tr>
 <tr>
 <td></td>
@@ -141,7 +141,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Абай</td>
-<td>12728</td>
+<td>12781</td>
 </tr>
 <tr>
 <td></td>
@@ -149,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Айыртас</td>
-<td>11981</td>
+<td>10680</td>
 </tr>
 <tr>
 <td></td>
@@ -157,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Сарытерек</td>
-<td>11203</td>
+<td>10922</td>
 </tr>
 <tr>
 <td></td>
@@ -165,7 +165,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Торангалык</td>
-<td>18261</td>
+<td>17831</td>
 </tr>
 <tr>
 <td></td>
@@ -173,7 +173,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Кусак</td>
-<td>12680</td>
+<td>12552</td>
 </tr>
 <tr>
 <td></td>
@@ -181,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>поселок Шашубай</td>
-<td>23796</td>
+<td>24278</td>
 </tr>
 <tr>
 <td></td>
@@ -189,7 +189,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>поселок Сарышаган</td>
-<td>19821</td>
+<td>19643</td>
 </tr>
 <tr>
 <td></td>
@@ -197,7 +197,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Кызыларай</td>
-<td>12466</td>
+<td>12490</td>
 </tr>
 <tr>
 <td></td>
@@ -205,7 +205,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Кежек</td>
-<td>11838</td>
+<td>11409</td>
 </tr>
 <tr>
 <td></td>
@@ -213,7 +213,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Ортадересин</td>
-<td>11505</td>
+<td>11526</td>
 </tr>
 <tr>
 <td></td>
@@ -221,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Тасарал</td>
-<td>10978</td>
+<td>11018</td>
 </tr>
 <tr>
 <td></td>
@@ -229,7 +229,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Жидебай</td>
-<td>13094</td>
+<td>13234</td>
 </tr>
 <tr>
 <td></td>
@@ -237,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>34720</td>
+<td>35667</td>
 </tr>
 <tr>
 <td></td>
@@ -261,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Нуркен</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -269,7 +269,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Караменде би</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -277,7 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Карабулак</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -285,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Шабанбай</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -293,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Абай</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -301,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Айыртас</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -309,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Сарытерек</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -317,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Торангалык</td>
-<td>2150</td>
+<td>1860</td>
 </tr>
 <tr>
 <td></td>
@@ -325,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Кусак</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -333,7 +333,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>поселок Шашубай</td>
-<td>2150</td>
+<td>1860</td>
 </tr>
 <tr>
 <td></td>
@@ -341,15 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>поселок Сарышаган</td>
-<td>2150</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>сельский округ Кызыларай</td>
-<td>2150</td>
+<td>1860</td>
 </tr>
 <tr>
 <td></td>
@@ -357,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Кежек</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -365,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Ортадересин</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td></td>
@@ -373,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Тасарал</td>
-<td>2150</td>
+<td>1860</td>
 </tr>
 <tr>
 <td></td>
@@ -381,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Жидебай</td>
-<td>2150</td>
+<td>2537</td>
 </tr>
 <tr>
 <td>07</td>
@@ -389,15 +381,15 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>40234</td>
+<td>38392</td>
 </tr>
 <tr>
 <td></td>
-<td>3</td>
+<td>1</td>
 <td></td>
 <td></td>
-<td>Благоустройство населенных пунктов</td>
-<td>40234</td>
+<td>Жилищное хозяйство</td>
+<td>517</td>
 </tr>
 <tr>
 <td></td>
@@ -405,7 +397,47 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>40234</td>
+<td>517</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>027</td>
+<td>Ремонт и благоустройство объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td>517</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>поселок Сарышаган</td>
+<td>517</td>
+</tr>
+<tr>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Благоустройство населенных пунктов</td>
+<td>37875</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>37875</td>
 </tr>
 <tr>
 <td></td>
@@ -413,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>7047</td>
+<td>8199</td>
 </tr>
 <tr>
 <td></td>
@@ -429,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>село Актогай</td>
-<td>7047</td>
+<td>8199</td>
 </tr>
 <tr>
 <td></td>
@@ -461,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>31387</td>
+<td>27876</td>
 </tr>
 <tr>
 <td></td>
@@ -477,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>село Актогай</td>
-<td>26387</td>
+<td>22876</td>
 </tr>
 <tr>
 <td></td>
@@ -493,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>4700</td>
+<td>5113</td>
 </tr>
 <tr>
 <td></td>
@@ -501,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>4700</td>
+<td>5113</td>
 </tr>
 <tr>
 <td></td>
@@ -509,7 +541,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>4700</td>
+<td>5113</td>
 </tr>
 <tr>
 <td></td>
@@ -517,7 +549,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td>4700</td>
+<td>5113</td>
 </tr>
 <tr>
 <td></td>
@@ -533,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>село Актогай</td>
-<td>2500</td>
+<td>3063</td>
 </tr>
 <tr>
 <td></td>
@@ -621,7 +653,7 @@ source: https://zan.gov.kz/client/#!/doc/98015/rus/16.02.2016
 <td></td>
 <td></td>
 <td>сельский округ Жидебай</td>
-<td>200</td>
+<td>50</td>
 </tr>
 <tr>
 <td>13</td>
