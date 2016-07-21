@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
+source: https://zan.gov.kz/client/#!/doc/97764/rus/21.07.2016
 ---
 
 > *Приложение 1*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 
 # Районный бюджет на 2016 год
 
-> *Сноска. Приложение 1 - в редакции решения Абайского районного маслихата Карагандинской области от 11.05.2016 № 4/39 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 1 - в редакции решения Абайского районного маслихата Карагандинской области от 21.07.2016 № 7/68 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -33,11 +33,11 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="3">4</th>
-<th colspan="2">5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td colspan="3">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td></td>
@@ -279,12 +279,12 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th colspan="2">3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -548,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td>4 025</td>
+<td>3 727</td>
 </tr>
 <tr>
 <td></td>
@@ -556,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Прочие услуги в области общественного порядка и безопасности</td>
-<td>4 025</td>
+<td>3 727</td>
 </tr>
 <tr>
 <td></td>
@@ -564,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2">492</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
-<td>4 025</td>
+<td>3 727</td>
 </tr>
 <tr>
 <td></td>
@@ -572,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td>021</td>
 <td>Обеспечение безопасности дорожного движения в населенных пунктах</td>
-<td>4 025</td>
+<td>3 727</td>
 </tr>
 <tr>
 <td>04</td>
@@ -580,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Образование</td>
-<td>2 942 268</td>
+<td>2 946 268</td>
 </tr>
 <tr>
 <td></td>
@@ -588,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Дошкольное воспитание и обучение</td>
-<td>467 268</td>
+<td>471 268</td>
 </tr>
 <tr>
 <td></td>
@@ -613,6 +613,22 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>040</td>
 <td>Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>364 109</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">467</td>
+<td></td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>4 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>037</td>
+<td>Строительство и реконструкция объектов дошкольного воспитания и обучения</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
@@ -900,7 +916,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>239 826</td>
+<td>236 842</td>
 </tr>
 <tr>
 <td></td>
@@ -1028,7 +1044,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>26 375</td>
+<td>23 391</td>
 </tr>
 <tr>
 <td></td>
@@ -1036,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2">492</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
-<td>26 375</td>
+<td>23 391</td>
 </tr>
 <tr>
 <td></td>
@@ -1052,7 +1068,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td>018</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>23 834</td>
+<td>20 850</td>
 </tr>
 <tr>
 <td>08</td>
@@ -1060,7 +1076,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>313 040</td>
+<td>316 040</td>
 </tr>
 <tr>
 <td></td>
@@ -1092,7 +1108,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Спорт</td>
-<td>10 965</td>
+<td>13 965</td>
 </tr>
 <tr>
 <td></td>
@@ -1133,6 +1149,22 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>007</td>
 <td>Подготовка и участие членов сборных команд района (города областного значения) по различным видам спорта на областных спортивных соревнованиях</td>
 <td>1 593</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">467</td>
+<td></td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>3 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>008</td>
+<td>Развитие объектов спорта</td>
+<td>3 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1420,7 +1452,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
-<td>26 702</td>
+<td>22 984</td>
 </tr>
 <tr>
 <td></td>
@@ -1428,7 +1460,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
-<td>26 702</td>
+<td>22 984</td>
 </tr>
 <tr>
 <td></td>
@@ -1436,7 +1468,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -1444,7 +1476,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td colspan="2"></td>
 <td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -1605,11 +1637,11 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1665,12 +1697,12 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -1729,12 +1761,12 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>

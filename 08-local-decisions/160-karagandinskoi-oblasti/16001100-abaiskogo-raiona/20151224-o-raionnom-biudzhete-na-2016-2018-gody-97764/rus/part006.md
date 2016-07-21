@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
+source: https://zan.gov.kz/client/#!/doc/97764/rus/21.07.2016
 ---
 
 > *Приложение 6*  
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 
 # Затраты по аппаратам акима города районного значения, поселка, села, сельского округа на 2016 год
 
-> *Сноска. Приложение 6 - в редакции решения Абайского районного маслихата Карагандинской области от 11.05.2016 № 4/39 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 6 - в редакции решения Абайского районного маслихата Карагандинской области от 21.07.2016 № 7/68 (вводится в действие с 01.01.2016).*
 
 <table>
 <tr>
@@ -43,14 +43,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -139,8 +139,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Прочие</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -149,8 +149,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Прочие</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -159,8 +159,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -169,8 +169,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -179,8 +179,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Итого</td>
 <td>28 335</td>
-<td>37 286</td>
-<td>18 537</td>
+<td>35 364</td>
+<td>17 747</td>
 </tr>
 </table>
 
@@ -195,10 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
 <td rowspan="4">поселок Южный</td>
-<td rowspan="4">
-Акбастауский
-сельский округ
-</td>
+<td rowspan="4">Акбастауский сельский округ</td>
 <td rowspan="4">село Сарепта</td>
 </tr>
 <tr>
@@ -220,14 +217,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -276,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Прочие</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -286,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Прочие</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -296,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -306,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -316,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>Итого</td>
 <td>15 451</td>
-<td>13 832</td>
+<td>13 766</td>
 <td>14 558</td>
 </tr>
 </table>
@@ -331,18 +328,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <tr>
 <td></td>
 <td colspan="4">Функциональная подгруппа</td>
-<td rowspan="4">
-Карагандинский
-сельский округ
-</td>
-<td rowspan="4">
-Курминский
-сельский округ
-</td>
-<td rowspan="4">
-Кулаайгырский
-сельский округ
-</td>
+<td rowspan="4">Карагандинский сельский округ</td>
+<td rowspan="4">Курминский сельский округ</td>
+<td rowspan="4">Кулаайгырский сельский округ</td>
 </tr>
 <tr>
 <td></td>
@@ -363,14 +351,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -497,14 +485,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -554,7 +542,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Прочие</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -564,7 +552,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Прочие</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -574,7 +562,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -584,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -594,7 +582,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Итого</td>
 <td>14 486</td>
 <td>14 605</td>
-<td>16 003</td>
+<td>15 341</td>
 </tr>
 </table>
 
@@ -631,14 +619,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -726,9 +714,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -736,9 +724,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td></td>
 <td>Прочие</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -746,9 +734,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -756,9 +744,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -766,9 +754,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/rus/11.05.2016
 <td></td>
 <td></td>
 <td>Итого</td>
-<td>13 968</td>
+<td>13 690</td>
 <td>13 799</td>
-<td>246 212</td>
+<td>242 494</td>
 </tr>
 </table>
 

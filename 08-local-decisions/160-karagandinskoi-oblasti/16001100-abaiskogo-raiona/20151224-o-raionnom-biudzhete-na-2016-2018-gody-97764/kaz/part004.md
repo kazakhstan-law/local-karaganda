@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
+source: https://zan.gov.kz/client/#!/doc/97764/kaz/21.07.2016
 ---
 
 > *Абай аудандық мәслихатының*  
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 
 # 2016 жылға аудандық маңызы бар қала, кент, ауыл, ауылдық округтерінің әкімі аппараттары бойынша шығындар
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Қарағанды облысы Абай ауданының мәслихатының 11.05.2016 № 4/39 (01.01.2016 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 6-қосымша жаңа редакцияда - Қарағанды облысы Абай ауданының мәслихатының 21.07.2016 № 7/68 (01.01.2016 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -225,14 +225,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -321,8 +321,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Басқалар</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -331,8 +331,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Басқалар</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -341,8 +341,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -351,8 +351,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>040</td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td></td>
-<td>8 940</td>
-<td>2 140</td>
+<td>7 018</td>
+<td>1 350</td>
 </tr>
 <tr>
 <td></td>
@@ -361,8 +361,8 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Барлығы</td>
 <td>28 335</td>
-<td>37 286</td>
-<td>18 537</td>
+<td>35 364</td>
+<td>17 747</td>
 </tr>
 </table>
 
@@ -377,10 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td colspan="4">Кіші функция</td>
 <td rowspan="4">Южный кенті</td>
-<td rowspan="4">
-Ақбастау
-ауылдық округі
-</td>
+<td rowspan="4">Ақбастау ауылдық округі</td>
 <td rowspan="4">Сәрепті селосы</td>
 </tr>
 <tr>
@@ -401,14 +398,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -457,7 +454,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Басқалар</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -467,7 +464,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Басқалар</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -477,7 +474,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -487,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>040</td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>2 190</td>
-<td>496</td>
+<td>430</td>
 <td>996</td>
 </tr>
 <tr>
@@ -497,7 +494,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>Барлығы</td>
 <td>15 451</td>
-<td>13 832</td>
+<td>13 766</td>
 <td>14 558</td>
 </tr>
 </table>
@@ -534,14 +531,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -667,14 +664,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -724,7 +721,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>Басқалар</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -734,7 +731,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>Басқалар</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -744,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -754,7 +751,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>800</td>
 <td>1 050</td>
-<td>1 660</td>
+<td>998</td>
 </tr>
 <tr>
 <td></td>
@@ -764,7 +761,7 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>Барлығы</td>
 <td>14 486</td>
 <td>14 605</td>
-<td>16 003</td>
+<td>15 341</td>
 </tr>
 </table>
 
@@ -800,14 +797,14 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>01</td>
@@ -895,9 +892,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -905,9 +902,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -915,9 +912,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -925,9 +922,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td>040</td>
 <td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>1 085</td>
+<td>807</td>
 <td>870</td>
-<td>24 702</td>
+<td>20 984</td>
 </tr>
 <tr>
 <td></td>
@@ -935,9 +932,9 @@ source: https://zan.gov.kz/client/#!/doc/97764/kaz/11.05.2016
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>13 968</td>
+<td>13 690</td>
 <td>13 799</td>
-<td>246 212</td>
+<td>242 494</td>
 </tr>
 </table>
 
