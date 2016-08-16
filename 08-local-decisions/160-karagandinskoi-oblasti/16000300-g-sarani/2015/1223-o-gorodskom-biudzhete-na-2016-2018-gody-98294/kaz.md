@@ -69,7 +69,7 @@
 
 # 2016 жылға арналған қалалық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Саран қалалық мәслихатының 12.05.2016 № 22 (01.01.2016 бастап қолданысқа енеді) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Саран қалалық мәслихатының 16.08.2016 № 49 (01.01.2016 бастап қолданысқа енеді) шешімімен.*
 
 <table>
 <tr>
@@ -1732,9 +1732,9 @@
 <tr>
 <td></td>
 <td></td>
-<td>492</td>
+<td>467</td>
 <td></td>
-<td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
 <td>580814</td>
 </tr>
 <tr>
@@ -1744,6 +1744,176 @@
 <td>053</td>
 <td>Жылу, сумен жабдықтау және су бұру жүйелерін реконструкция және құрылыс үшін кредит беру</td>
 <td>580814</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="14">Санаты</td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="10">Сыныбы</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td colspan="9">Iшкi сыныбы</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="5">Атауы</td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td colspan="5">3</td>
+<td colspan="4">4</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="4">5</td>
+<td></td>
+<td colspan="5"></td>
+<td colspan="4">Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td colspan="5"></td>
+<td colspan="4">Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td>01</td>
+<td colspan="5"></td>
+<td colspan="4">Бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td colspan="5">1</td>
+<td colspan="4">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="14">Функционалдық топ</td>
+<td rowspan="5">
+Сомасы
+(мың теңге)
+</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="13">Кіші функция</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="11">Бюджеттік бағдарламалардың әкiмшiсi</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="8">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3">Атауы</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td>2</td>
+<td colspan="3">3</td>
+<td colspan="5">4</td>
+<td colspan="3">5</td>
+<td>6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="3">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="2">Санаты</td>
+<td colspan="12"></td>
+<td rowspan="4">
+Сомасы
+(мың теңге)
+</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="12">Сыныбы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="10">Iшкi сыныбы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6">Атауы</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="2">2</td>
+<td colspan="3">3</td>
+<td colspan="7">4</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="14">Атауы</td>
+<td>
+Сомасы
+(мың теңге)
+</td>
+</tr>
+<tr>
+<td colspan="14">1</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="14">V. Бюджеттің тапшылығы (профициті)</td>
+<td>-691035</td>
+</tr>
+<tr>
+<td colspan="14">VI.Бюджет тапшылығын (профицитін пайдалану) қаржыландыру</td>
+<td>691035</td>
 </tr>
 </table>
 
