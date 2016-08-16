@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/98294/rus/12.05.2016
+source: https://zan.gov.kz/client/#!/doc/98294/rus/16.08.2016
 ---
 
 # О городском бюджете на 2016-2018 годы

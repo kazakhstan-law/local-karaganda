@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/98294/kaz/12.05.2016
+source: https://zan.gov.kz/client/#!/doc/98294/kaz/16.08.2016
 ---
 
 # 2016 - 2018 жылдарға арналған қалалық бюджет туралы
