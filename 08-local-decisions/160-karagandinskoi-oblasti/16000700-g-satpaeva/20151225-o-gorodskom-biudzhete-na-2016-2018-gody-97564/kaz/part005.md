@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97564/kaz/11.05.2016
+source: https://zan.gov.kz/client/#!/doc/97564/kaz/11.10.2016
 ---
 
 > *Сәтбаев қалалық мәслихатының*  
