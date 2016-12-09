@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98237/kaz/07.10.2016
+source: https://zan.gov.kz/client/#!/doc/98237/kaz/09.12.2016
 ---
 
 > *Қарқаралы аудандық*  
