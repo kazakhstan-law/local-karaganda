@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109296/kaz/22.12.2016
+source: https://zan.gov.kz/client/#!/doc/109296/kaz/16.03.2017
 ---
 
 > *Аудандық мәслихаттың*  
