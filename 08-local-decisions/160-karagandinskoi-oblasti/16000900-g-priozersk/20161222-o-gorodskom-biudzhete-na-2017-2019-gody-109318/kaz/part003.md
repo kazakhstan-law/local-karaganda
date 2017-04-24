@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109318/kaz/22.12.2016
+source: https://zan.gov.kz/client/#!/doc/109318/kaz/24.04.2017
 ---
 
 > *Приозерск қалалық мәслихатының*  
@@ -1679,10 +1679,12 @@ source: https://zan.gov.kz/client/#!/doc/109318/kaz/22.12.2016
 
 # 2017 жылға арналған инвестициялық жобаларды іске асыруға бағытталған, жергілікті бюджеттік даму бағдарламаларының тізбесі
 
+> *Ескерту. 5-қосымша жаңа редакцияда - Қарағанды облысы Приозерск қалалық мәслихатының 24.04.2017 № 11/107 (01.01.2017 бастап қолданысқа енеді) шешімімен.*
+
 <table>
 <tr>
 <td colspan="7">Функционалдық топ</td>
-<td rowspan="5">Сома (мың теңге)</td>
+<td colspan="2" rowspan="5">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -1715,28 +1717,28 @@ source: https://zan.gov.kz/client/#!/doc/109318/kaz/22.12.2016
 <td>6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Инвестициялық жобалар:</td>
-<td>4718</td>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th>Инвестициялық жобалар:</th>
+<th>6530</th>
 </tr>
 <tr>
-<td>07</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>4718</td>
+<th>07</th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th>Тұрғын үй-коммуналдық шаруашылық</th>
+<th>6530</th>
 </tr>
 <tr>
-<td></td>
-<td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Тұрғын үй шаруашылығы</td>
-<td>3200</td>
+<th></th>
+<th>1</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th>Тұрғын үй шаруашылығы</th>
+<th>4212</th>
 </tr>
 <tr>
 <td></td>
@@ -1744,23 +1746,31 @@ source: https://zan.gov.kz/client/#!/doc/109318/kaz/22.12.2016
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>3200</td>
+<td>4212</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">04</td>
+<td colspan="2">003</td>
+<td>Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялау</td>
+<td>912</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">004</td>
 <td>Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
-<td>3200</td>
+<td>3300</td>
 </tr>
 <tr>
-<td></td>
-<td>2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Коммуналдық шаруашылық</td>
-<td>1518</td>
+<th></th>
+<th>2</th>
+<th colspan="2"></th>
+<th colspan="2"></th>
+<th>Коммуналдық шаруашылық</th>
+<th>2318</th>
 </tr>
 <tr>
 <td></td>
@@ -1768,7 +1778,15 @@ source: https://zan.gov.kz/client/#!/doc/109318/kaz/22.12.2016
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>1518</td>
+<td>2318</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
+<td>800</td>
 </tr>
 <tr>
 <td></td>
