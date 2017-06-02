@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/109295/kaz/11.04.2017
+source: https://zan.gov.kz/client/#!/doc/109295/kaz/02.06.2017
 ---
 
 # 2017 – 2019 жылдарға арналған аудандық бюджет туралы
