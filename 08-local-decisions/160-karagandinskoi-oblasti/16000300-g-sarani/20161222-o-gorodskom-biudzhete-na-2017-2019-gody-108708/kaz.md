@@ -1,5 +1,5 @@
 ---
-version_id: '108708_199424'
+version_id: '108708_285227'
 act_code: '108708'
 language: kaz
 title: 2017 - 2019 жылдарға арналған қалалық бюджет туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160003000002'
 approval_date: 2016-12-22
-version_date: 2017-06-08
+version_date: 2017-07-11
 registry_number: '108708'
 caused_by:
-  code: '113215'
+  code: '113522'
   title: «2017 - 2019 жылдарға арналған қалалық бюджет туралы» Саран қалалық мәслихатының 2016 жылғы 22 желтоқсандағы 9 сессиясының № 97 шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/113215/kaz
-source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
+  link: https://zan.gov.kz/client/#!/doc/113522/kaz
+source: https://zan.gov.kz/client/#!/doc/108708/kaz/11.07.2017
 ---
 
 # 2017 - 2019 жылдарға арналған қалалық бюджет туралы
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 
 1. 2017 - 2019 жылдарға арналған қалалық бюджет сәйкесінше 1, 2, 3, қосымшаларға сәйкес, оның ішінде 2017 жылға арналған бюджет 1 - қосымшаға сәйкес, келесі көлемдерде бекітілсін:
 
-   1) кірістер – 4 918 661 мың теңге, оның ішінде:
+   1) кірістер – 4 989 792 мың теңге, оның ішінде:
 
       салық түсімдері бойынша– 1 097 154 мың теңге;
 
@@ -33,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 
       негізгі капиталды сатудан түскен түсімдер бойынша – 32 478 мың теңге;
 
-      трансферттер түсімдері бойынша – 3 689 842 мың теңге;
+      трансферттер түсімдері бойынша – 3 760 973 мың теңге;
 
-   2) шығындар – 4 929 664 мың теңге;
+   2) шығындар – 5 000 795 мың теңге;
 
    3) таза бюджеттік кредиттеу– 0 мың теңге:
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 
       бюджеттік қаржының пайдаланылатын қалдықтары – 97 115 мың теңге.
 
-      > *Ескерту. 1-тармақ жаңа редакцияда - Қарағанды облысы Саран қалалық мәслихатының 08.06.2017 № 135 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+      > *Ескерту. 1-тармақ жаңа редакцияда - Қарағанды облысы Саран қалалық мәслихатының 11.07.2017 № 155 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 2. Қалалық бюджетке 2017 жылға арналған кірістерді бөлу нормативтері келесі мөлшерлерде белгіленсін:
 
@@ -90,7 +90,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 
 # 2017 жылға арналған қалалық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Саран қалалық мәслихатының 08.06.2017 № 135 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Саран қалалық мәслихатының 11.07.2017 № 155 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -113,18 +113,18 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>І. Кірістер</td>
-<td>4 918 661</td>
+<td>4 989 792</td>
 </tr>
 <tr>
 <td>1</td>
@@ -334,21 +334,21 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>3 689 842</td>
+<td>3 760 973</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>3 689 842</td>
+<td>3 760 973</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>3 689 842</td>
+<td>3 760 973</td>
 </tr>
 </table>
 
@@ -380,12 +380,12 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -393,7 +393,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>4929664</td>
+<td>5 000 795</td>
 </tr>
 <tr>
 <td>01</td>
@@ -528,7 +528,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>061</td>
-<td>Бюджеттік инвестициялар және концессия мәселелері бойынша құжаттаманы сараптау және бағалау, бюджеттік инвестициялардың іске асырылуына бағалау жүргізу</td>
+<td>Бюджеттік инвестициялар және мемлекеттік-жекешелік әріптестік, оның ішінде концессия мәселелері жөніндегі құжаттаманы сараптау және бағалау</td>
 <td>500</td>
 </tr>
 <tr>
@@ -865,7 +865,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>328177</td>
+<td>340953</td>
 </tr>
 <tr>
 <td></td>
@@ -929,7 +929,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>248203</td>
+<td>260979</td>
 </tr>
 <tr>
 <td></td>
@@ -953,7 +953,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td>451</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>229837</td>
+<td>242613</td>
 </tr>
 <tr>
 <td></td>
@@ -961,7 +961,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td>002</td>
 <td>Жұмыспен қамту бағдарламасы</td>
-<td>66108</td>
+<td>78884</td>
 </tr>
 <tr>
 <td></td>
@@ -1008,7 +1008,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>023</td>
-<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>Жұмыспен қамту орталықтарының қызметін қамтамасыз ету</td>
 <td>16295</td>
 </tr>
 <tr>
@@ -1689,7 +1689,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>984193</td>
+<td>1042548</td>
 </tr>
 <tr>
 <td></td>
@@ -1697,7 +1697,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>972837</td>
+<td>1031192</td>
 </tr>
 <tr>
 <td></td>
@@ -1729,7 +1729,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td>492</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>938030</td>
+<td>996385</td>
 </tr>
 <tr>
 <td></td>
@@ -1745,7 +1745,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <td></td>
 <td>023</td>
 <td>Автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>368039</td>
+<td>426394</td>
 </tr>
 <tr>
 <td></td>
@@ -1983,55 +1983,55 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 
 <table>
 <tr>
-<td colspan="16">Санаты</td>
-<td colspan="13" rowspan="4">Сомасы (мың теңге)</td>
+<td colspan="17">Санаты</td>
+<td colspan="14" rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="12">Сыныбы</td>
+<td colspan="3"></td>
+<td colspan="14">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
 <td colspan="8">Iшкi сыныбы</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
 <td></td>
 <td colspan="7">Атауы</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th colspan="4">2</th>
-<th>3</th>
-<th colspan="7">4</th>
-<th>5</th>
+<td colspan="3">1</td>
+<td colspan="6">2</td>
+<td>3</td>
+<td colspan="7">4</td>
+<td>5</td>
 </tr>
 <tr>
-<td colspan="4">5</td>
-<td colspan="4"></td>
+<td colspan="3">5</td>
+<td colspan="6"></td>
 <td></td>
 <td colspan="7">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
 <td></td>
 <td colspan="7">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4">01</td>
+<td colspan="3"></td>
+<td colspan="6">01</td>
 <td></td>
 <td colspan="7">Бюджеттік кредиттерді өтеу</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
 <td>1</td>
 <td colspan="7">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>0</td>
@@ -2040,119 +2040,122 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 
 <table>
 <tr>
-<td colspan="16">Функционалдық топ</td>
-<td rowspan="5">Сомасы (мың теңге)</td>
+<td colspan="17">Функционалдық топ</td>
+<td colspan="4" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="15">Кіші функция</td>
+<td colspan="16">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="13">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td colspan="4"></td>
+<td colspan="12">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td colspan="8">Бағдарлама</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="6">Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="5">3</th>
-<th colspan="2">4</th>
-<th colspan="6">5</th>
-<th>6</th>
+<td>1</td>
+<td colspan="4">2</td>
+<td colspan="4">3</td>
+<td colspan="2">4</td>
+<td colspan="6">5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="6">IV. Қаржы активтерімен операциялар бойынша сальдо</td>
 <td>10000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="6">Қаржы активтерді сатып алу</td>
 <td></td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="6">Басқалар</td>
-<td>10000</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">9</td>
-<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="6">Басқалар</td>
 <td>10000</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="4">9</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td colspan="5">492</td>
+<td colspan="6">Басқалар</td>
+<td>10000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4">492</td>
 <td colspan="2"></td>
 <td colspan="6">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
 <td>10000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td colspan="2">065</td>
 <td colspan="6">Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
 <td>10000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="16">Санаты</td>
-<td colspan="6" rowspan="4">Сомасы (мың теңге)</td>
+<td colspan="17">Санаты</td>
+<td colspan="7" rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="14">Сыныбы</td>
+<td colspan="15">Сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td colspan="10">Iшкi сыныбы</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="5">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="4">2</th>
-<th colspan="5">3</th>
-<th colspan="5">4</th>
-<th colspan="2">5</th>
+<td colspan="2">1</td>
+<td colspan="5">2</td>
+<td colspan="5">3</td>
+<td colspan="5">4</td>
+<td colspan="2">5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="5">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td colspan="2">0</td>
@@ -2161,7 +2164,7 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 
 <table>
 <tr>
-<td colspan="16" rowspan="4">Атауы</td>
+<td colspan="17" rowspan="4">Атауы</td>
 <td colspan="2" rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
@@ -2171,15 +2174,15 @@ source: https://zan.gov.kz/client/#!/doc/108708/kaz/08.06.2017
 <tr>
 </tr>
 <tr>
-<td colspan="16">1</td>
+<td colspan="17">1</td>
 <td colspan="2">2</td>
 </tr>
 <tr>
-<td colspan="16">V. Бюджеттің тапшылығы (профициті)</td>
+<td colspan="17">V. Бюджеттің тапшылығы (профициті)</td>
 <td colspan="2">-21003</td>
 </tr>
 <tr>
-<td colspan="16">VI.Бюджет тапшылығын (профицитін пайдалану) қаржыландыру</td>
+<td colspan="17">VI.Бюджет тапшылығын (профицитін пайдалану) қаржыландыру</td>
 <td colspan="2">21003</td>
 </tr>
 </table>
