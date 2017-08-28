@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109450/kaz/11.07.2017
+source: https://zan.gov.kz/client/#!/doc/109450/kaz/28.08.2017
 ---
 
 > *Қалалық мәслихаттың 2016 жылғы*  
