@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
+source: https://zan.gov.kz/client/#!/doc/109159/kaz/07.09.2017
 ---
 
 > *Абай аудандық мәслихатының*  
@@ -9,9 +9,9 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 > *№ 12/107 шешіміне*  
 > *1 қосымша*
 
-# 2017 жылға арналған аудандық бюджет
+## 2017 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Абай ауданының мәслихатының 05.07.2017 № 19/195 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Абай аудандық мәслихатының 07.09.2017 № 20/207 (01.01.2017 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -34,39 +34,39 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="3">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">І. Кірістер</td>
-<td>8 005 361</td>
+<td>8 103 525</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">Салықтық түсімдер</td>
-<td>2 182 976</td>
+<td>2 281 140</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="3">Табыс салығы</td>
-<td>856 481</td>
+<td>861 481</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="3">Жеке табыс салығы</td>
-<td>856 481</td>
+<td>861 481</td>
 </tr>
 <tr>
 <td></td>
@@ -87,14 +87,14 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="3">Меншікке салынатын салықтар</td>
-<td>621 997</td>
+<td>715 161</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="3">Мүлікке салынатын салықтар</td>
-<td>302 153</td>
+<td>380 317</td>
 </tr>
 <tr>
 <td></td>
@@ -108,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="3">Көлік құралдарына салынатын салық</td>
-<td>85 476</td>
+<td>100 476</td>
 </tr>
 <tr>
 <td></td>
@@ -308,12 +308,12 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -321,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2"></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>8 067 090</td>
+<td>8 165 254</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -1001,7 +1001,7 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2"></td>
 <td></td>
 <td>Тұрғын үй- коммуналдық шаруашылық</td>
-<td>2 318 517</td>
+<td>2 416 681</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1065,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2"></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>1 688 542</td>
+<td>1 786 706</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1097,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2">492</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>730 723</td>
+<td>828 887</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1105,7 +1105,7 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2"></td>
 <td>011</td>
 <td>Шағын қалаларды жылумен жабдықтауды үздіксіз қамтамасыз ету</td>
-<td>200 000</td>
+<td>298 164</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1737,7 +1737,7 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td colspan="2">459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>361337</td>
+<td>361 337</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1866,11 +1866,11 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>5</td>
@@ -1923,12 +1923,12 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1984,12 +1984,12 @@ source: https://zan.gov.kz/client/#!/doc/109159/kaz/05.07.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
