@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108708/kaz/17.08.2017
+source: https://zan.gov.kz/client/#!/doc/108708/kaz/05.10.2017
 ---
 
 > *Саран қалалық мәслихатының*  
