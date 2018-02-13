@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
+source: https://zan.gov.kz/client/#!/doc/117263/rus/13.02.2018
 ---
 
 > *Приложение 3*  
@@ -1687,6 +1687,8 @@ source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
 
 ## Бюджетные программы района имени Казыбек би и Октябрьского района города Караганды на 2018 год
 
+> *Сноска. Приложение 5 – в редакции решения Карагандинского городского маслихата от 13.02.2018 № 257 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
@@ -1715,12 +1717,12 @@ source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td></td>
@@ -1816,7 +1818,7 @@ source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
 <td></td>
 <td></td>
 <td>Бюджетные программы Октябрьского района</td>
-<td colspan="2">1 385 000</td>
+<td colspan="2">1 386 082</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1864,7 +1866,7 @@ source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td colspan="2">1 279 629</td>
+<td colspan="2">1 280 711</td>
 </tr>
 <tr>
 <td></td>
@@ -1872,7 +1874,7 @@ source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td colspan="2">1 279 629</td>
+<td colspan="2">1 280 711</td>
 </tr>
 <tr>
 <td></td>
@@ -1880,7 +1882,7 @@ source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">1 279 629</td>
+<td colspan="2">1 280 711</td>
 </tr>
 <tr>
 <td></td>
@@ -1896,7 +1898,7 @@ source: https://zan.gov.kz/client/#!/doc/117263/rus/22.12.2017
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">1 266 155</td>
+<td colspan="2">1 267 237</td>
 </tr>
 </table>
 
