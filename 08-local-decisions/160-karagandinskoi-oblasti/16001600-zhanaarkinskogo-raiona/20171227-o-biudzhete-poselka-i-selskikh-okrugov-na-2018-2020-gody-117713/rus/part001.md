@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
+source: https://zan.gov.kz/client/#!/doc/117713/rus/05.04.2018
 ---
 
 > *Приложение 1*  
@@ -9,6 +9,8 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 > *от 27 декабря 2017 года №22/170*
 
 ## Бюджет поселка Атасу на 2018 год
+
+> *Сноска. Приложение 1 в редакции решения Жанааркинского районного маслихата Карагандинской области от 05.04.2018 № 27/203 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -35,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>314909</td>
+<td>344982</td>
 </tr>
 <tr>
 <td>1</td>
@@ -91,21 +93,21 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>253064</td>
+<td>283137</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>253064</td>
+<td>283137</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>253064</td>
+<td>283137</td>
 </tr>
 </table>
 
@@ -142,7 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td></td>
 <td>ІІ.Затраты</td>
-<td>314909</td>
+<td>344982</td>
 </tr>
 <tr>
 <td>01</td>
@@ -150,7 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>32386</td>
+<td>33159</td>
 </tr>
 <tr>
 <td></td>
@@ -158,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>32386</td>
+<td>33159</td>
 </tr>
 <tr>
 <td></td>
@@ -166,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>32386</td>
+<td>33159</td>
 </tr>
 <tr>
 <td></td>
@@ -182,7 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>640</td>
+<td>1413</td>
 </tr>
 <tr>
 <td>04</td>
@@ -246,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>36442</td>
+<td>65742</td>
 </tr>
 <tr>
 <td></td>
@@ -254,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>36442</td>
+<td>65742</td>
 </tr>
 <tr>
 <td></td>
@@ -262,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>36442</td>
+<td>65742</td>
 </tr>
 <tr>
 <td></td>
@@ -270,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>16545</td>
+<td>29545</td>
 </tr>
 <tr>
 <td></td>
@@ -286,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>16212</td>
+<td>32512</td>
 </tr>
 <tr>
 <td>08</td>
@@ -400,8 +402,6 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td>Бюджетные кредиты</td>
 <td>0</td>
 </tr>
-<tr>
-</tr>
 </table>
 
 <table>
@@ -430,8 +430,6 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
-</tr>
-<tr>
 </tr>
 </table>
 
@@ -502,8 +500,6 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td>VІ.Финансирование дефицита (использование профицита) бюджета</td>
 <td>0</td>
 </tr>
-<tr>
-</tr>
 </table>
 
 <table>
@@ -532,8 +528,6 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td>Поступление займов</td>
 <td>0</td>
-</tr>
-<tr>
 </tr>
 </table>
 
@@ -571,8 +565,6 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/27.12.2017
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
-</tr>
-<tr>
 </tr>
 </table>
 
