@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117466/kaz/25.12.2017
+source: https://zan.gov.kz/client/#!/doc/117466/kaz/17.04.2018
 ---
 
 > *Жезқазған қалалық мәслихатының 2017 жылғы 25 желтоқсандағы*  
@@ -2111,269 +2111,319 @@ source: https://zan.gov.kz/client/#!/doc/117466/kaz/25.12.2017
 
 ## 2018 жылға арналған ауылдық әкімдер аппараттарының шығындары
 
+> *Ескерту. 5-қосымша жаңа редакцияда - Қарағанды облысы Жезқазған қалалық мәслихатының 17.04.2018 № 21/194 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен*
+
 <table>
 <tr>
-<td colspan="10">Функционалдық топ</td>
+<td colspan="6">Функционалдық топ</td>
 <td rowspan="5">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="8">Кіші функция</td>
+<td></td>
+<td colspan="5">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкiмшiсi</td>
+<td></td>
+<td></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="2">2</th>
-<th colspan="3">3</th>
-<th>4</th>
-<th colspan="2">5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td colspan="2">5</td>
+<td>6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Барлығы:</td>
-<td>41236</td>
+<td>48320</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">оның ішінде:</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Талап ауылы әкімінің аппараты</td>
-<td>20586</td>
+<td>21086</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Малшыбай ауылы әкімінің аппараты</td>
-<td>20677</td>
+<td>27234</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>01</td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td>39286</td>
+<td>39933</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="3"></td>
+<td></td>
+<td>1</td>
+<td></td>
 <td></td>
 <td colspan="2">Мемлекеттік басқарудың жалпы функцияларын орындайтын өкілдік, атқарушы және басқа органдар</td>
-<td>39286</td>
+<td>39933</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">123</td>
+<td></td>
+<td></td>
+<td>123</td>
 <td></td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>39286</td>
+<td>39933</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>001</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>37020</td>
+<td>37671</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">оның ішінде:</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Талап ауылы әкімінің аппараты</td>
 <td>18406</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Малшыбай ауылы әкімінің аппараты</td>
-<td>18614</td>
+<td>19265</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>022</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td>2266</td>
+<td>2262</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">оның ішінде:</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Талап ауылы әкімінің аппараты</td>
 <td>1025</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Малшыбай ауылы әкімінің аппараты</td>
-<td>1241</td>
+<td>1237</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>07</td>
 <td></td>
-<td colspan="2">Көлік және коммуникация</td>
-<td>1075</td>
+<td></td>
+<td></td>
+<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
+<td>5910</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2">Автомобиль көлігі</td>
-<td>1075</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="2">Елді-мекендерді көркейту</td>
+<td>5910</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">123</td>
 <td></td>
+<td></td>
+<td></td>
+<td>123</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>1075</td>
+<td>5910</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>013</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>1075</td>
+<td></td>
+<td></td>
+<td></td>
+<td>008</td>
+<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
+<td>5910</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">оның ішінде:</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2">Талап ауылы әкімінің аппараты</td>
-<td>575</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Малшыбай ауылы әкімінің аппараты</td>
+<td>5910</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Көлік және коммуникация</td>
+<td>1575</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="2">Автомобиль көлігі</td>
+<td>1575</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>1575</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>1575</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">оның ішінде:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Талап ауылы әкімінің аппараты</td>
+<td>1075</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Малшыбай ауылы әкімінің аппараты</td>
 <td>500</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td>13</td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Басқалар</td>
 <td>902</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="3"></td>
+<td></td>
+<td>9</td>
+<td></td>
 <td></td>
 <td colspan="2">Басқалар</td>
 <td>902</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">123</td>
+<td></td>
+<td></td>
+<td>123</td>
 <td></td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>902</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>040</td>
 <td colspan="2">Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
 <td>902</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">оның ішінде:</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Талап ауылы әкімінің аппараты</td>
 <td>580</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td colspan="2">Малшыбай ауылы әкімінің аппараты</td>
 <td>322</td>
@@ -2480,5 +2530,61 @@ source: https://zan.gov.kz/client/#!/doc/117466/kaz/25.12.2017
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
+</tr>
+</table>
+
+> *Жезқазған қалалық мәслихатының 2017 жылғы 25 желтоқсандағы*  
+> *XVI сессиясының №16/156 шешіміне*  
+> *8 қосымша*
+
+## 2018 жылға арналған Кеңгір ауылдық округінің бюджетіне ағымдағы нысаналы трансферттер
+
+> *Ескерту. Шешім 8-қосымшамен толықтырылды - Қарағанды облысы Жезқазған қалалық мәслихатының 17.04.2018 № 21/194 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
+<table>
+<tr>
+<td>№ р/н</td>
+<td colspan="2">Атауы</td>
+<td colspan="2">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Барлығы:</td>
+<td colspan="2">61643</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">оның ішінде:</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Ағымдағы нысаналы трансферттер</td>
+<td colspan="2">61643</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">оның ішінде:</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td colspan="2">61643</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Кеңгір селосының көшелерін жарықтандыруға</td>
+<td colspan="2">13113</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Кеңгір селосының автомобиль жолдарын орташа жөндеуге</td>
+<td colspan="2">48530</td>
 </tr>
 </table>
