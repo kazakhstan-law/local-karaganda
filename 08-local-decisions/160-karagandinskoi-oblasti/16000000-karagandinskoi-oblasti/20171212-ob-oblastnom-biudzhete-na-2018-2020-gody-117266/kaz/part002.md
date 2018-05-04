@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117266/kaz/12.12.2017
+source: https://zan.gov.kz/client/#!/doc/117266/kaz/04.05.2018
 ---
 
 > *Қарағанды облыстық мәслихатының*  
