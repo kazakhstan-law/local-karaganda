@@ -1,5 +1,5 @@
 ---
-version_id: '117663_277110'
+version_id: '117663_325396'
 act_code: '117663'
 language: kaz
 title: 2018-2020 жылдарға арналған аудандық бюджет туралы
@@ -10,28 +10,32 @@ type_codes:
 approved_by:
 - '160015000002'
 approval_date: 2017-12-21
-version_date: 2017-12-21
+version_date: 2018-05-05
 registry_number: '117663'
-source: https://zan.gov.kz/client/#!/doc/117663/kaz/21.12.2017
+caused_by:
+  code: '121952'
+  title: Шет аудандық мәслихатының 2017 жылғы 21 желтоқсандағы XVIII сессиясының «2018-2020 жылдарға арналған аудандық бюджет туралы» № 18/140 шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/121952/kaz
+source: https://zan.gov.kz/client/#!/doc/117663/kaz/05.05.2018
 ---
 
 # 2018-2020 жылдарға арналған аудандық бюджет туралы
 
 Қазақстан Республикасының 2008 жылғы 4 желтоқсандағы Бюджет кодексіне, Қазақстан Республикасының 2001 жылғы 23 қаңтардағы «Қазақстан Республикасындағы жергілікті мемлекеттік басқару және өзін - өзі басқару туралы» Заңына сәйкес аудандық мәслихат ШЕШІМ ЕТТІ:
 
-1. 2018–2020 жылдарға арналған аудандық бюджет 1,2,3 қосымшаларға сәйкес, оның ішінде 2018 жылға келесі көлемдерде бекітілсін:
+1. 2018-2020 жылдарға арналған аудандық бюджет №1,2,3,4,5,6,7 қосымшаларға сәйкес, оның ішінде 2018 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер – 7893825 мың теңге, оның ішінде:
+   1) кірістер – 7729446 мың теңге, оның ішінде:
 
-      салықтық түсімдер бойынша – 2397146 мың теңге;
+      салықтық түсімдер бойынша – 2312429 мың теңге;
 
       салықтық емес түсімдер бойынша – 9689 мың теңге ;
 
       негізгі капиталды сатудан түсетін түсімдер – 5769 мың теңге;
 
-      трансферттердің түсімдері – 5481221 мың теңге;
+      трансферттердің түсімдері – 5401559 мың теңге;
 
-   2) шығындар – 7893825 мың теңге;
+   2) шығындар – 7890903 мың теңге;
 
    3) таза бюджеттік кредиттеу – 88096 мың теңге, оның ішінде:
 
@@ -53,7 +57,9 @@ source: https://zan.gov.kz/client/#!/doc/117663/kaz/21.12.2017
 
       қарыздарды өтеу – 34559 мың теңге;
 
-      бюджет қаражатының пайдаланылатын қалдықтары – 0 мың теңге.
+      бюджет қаражатының пайдаланылатын қалдықтары – 64035 мың теңге.
+
+> *Ескерту. 1-тармақ жаңа редакцияда - Қарағанды облысы Шет аудандық мәслихатының 05.05.2018 № 21/177 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 2. 2018 жылға арналған аудандық бюджетке кірістерді бөлу нормативтері келесі мөлшерде бекітілсін:
 
@@ -88,1751 +94,1988 @@ source: https://zan.gov.kz/client/#!/doc/117663/kaz/21.12.2017
 
 ## 2018 жылға арналған аудандық бюджет
 
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Шет аудандық мәслихатының 05.05.2018 № 21/177 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
-<td colspan="15">Санаты</td>
-<td colspan="3" rowspan="4">Сомасы (мың теңге)</td>
+<td colspan="18">Санаты</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="13">Сыныбы</td>
+<td colspan="6"></td>
+<td colspan="12">Сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="9">Ішкі сыныбы</td>
+<td colspan="8">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="6">Атауы</td>
+<td></td>
+<td colspan="7">Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="4">2</th>
-<th colspan="3">3</th>
-<th colspan="6">4</th>
-<th colspan="2">5</th>
+<td colspan="6">1</td>
+<td colspan="4">2</td>
+<td>3</td>
+<td colspan="7">4</td>
+<td colspan="5">5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="6">І. Кiрiстер</td>
-<td colspan="2">7893825</td>
+<td></td>
+<td colspan="7">І. Кiрiстер</td>
+<td colspan="5">7729446</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td colspan="6">1</td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="6">Салықтық түсімдер</td>
-<td colspan="2">2397146</td>
+<td></td>
+<td colspan="7">Салықтық түсімдер</td>
+<td colspan="5">2312429</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">01</td>
-<td colspan="3"></td>
-<td colspan="6">Табыс салығы</td>
-<td colspan="2">392306</td>
+<td></td>
+<td colspan="7">Табыс салығы</td>
+<td colspan="5">369620</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">2</td>
-<td colspan="6">Жеке табыс салығы</td>
-<td colspan="2">392306</td>
+<td>2</td>
+<td colspan="7">Жеке табыс салығы</td>
+<td colspan="5">369620</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">03</td>
-<td colspan="3"></td>
-<td colspan="6">Әлеуметтiк салық</td>
-<td colspan="2">481315</td>
+<td></td>
+<td colspan="7">Әлеуметтiк салық</td>
+<td colspan="5">481315</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="6">Әлеуметтiк салық</td>
-<td colspan="2">481315</td>
+<td>1</td>
+<td colspan="7">Әлеуметтiк салық</td>
+<td colspan="5">481315</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">04</td>
-<td colspan="3"></td>
-<td colspan="6">Меншікке салынатын салықтар</td>
-<td colspan="2">1450413</td>
+<td></td>
+<td colspan="7">Меншікке салынатын салықтар</td>
+<td colspan="5">1388382</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="6">Мүлікке салынатын салықтар</td>
-<td colspan="2">1375053</td>
+<td>1</td>
+<td colspan="7">Мүлікке салынатын салықтар</td>
+<td colspan="5">1374096</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">3</td>
-<td colspan="6">Жер салығы</td>
-<td colspan="2">5955</td>
+<td>3</td>
+<td colspan="7">Жер салығы</td>
+<td colspan="5">945</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">4</td>
-<td colspan="6">Көлік құралдарына салынатын салық</td>
-<td colspan="2">64590</td>
+<td>4</td>
+<td colspan="7">Көлік құралдарына салынатын салық</td>
+<td colspan="5">8526</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">5</td>
-<td colspan="6">Бiрыңғай жер салығы</td>
-<td colspan="2">4815</td>
+<td>5</td>
+<td colspan="7">Бiрыңғай жер салығы</td>
+<td colspan="5">4815</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">05</td>
-<td colspan="3"></td>
-<td colspan="6">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
-<td colspan="2">67181</td>
+<td></td>
+<td colspan="7">Тауарларға, жұмыстарға және қызметтерге салынатын ішкі салықтар</td>
+<td colspan="5">67181</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">2</td>
-<td colspan="6">Акциздер</td>
-<td colspan="2">3698</td>
+<td>2</td>
+<td colspan="7">Акциздер</td>
+<td colspan="5">3698</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">3</td>
-<td colspan="6">Табиғи және басқа ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
-<td colspan="2">50000</td>
+<td>3</td>
+<td colspan="7">Табиғи және басқа ресурстарды пайдаланғаны үшін түсетін түсімдер</td>
+<td colspan="5">50000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">4</td>
-<td colspan="6">Кәсіпкерлік және кәсіби қызметті жүргізгені үшін алынатын алымдар</td>
-<td colspan="2">13483</td>
+<td>4</td>
+<td colspan="7">Кәсіпкерлік және кәсіби қызметті жүргізгені үшін алынатын алымдар</td>
+<td colspan="5">13483</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">07</td>
-<td colspan="3"></td>
-<td colspan="6">Басқа да салықтар</td>
-<td colspan="2">119</td>
+<td></td>
+<td colspan="7">Басқа да салықтар</td>
+<td colspan="5">119</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">08</td>
-<td colspan="3"></td>
-<td colspan="6">Заңдық маңызы бар әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
-<td colspan="2">5812</td>
+<td></td>
+<td colspan="7">Заңдық маңызы бар әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
+<td colspan="5">5812</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="6">Мемлекеттік баж</td>
-<td colspan="2">5812</td>
+<td>1</td>
+<td colspan="7">Мемлекеттік баж</td>
+<td colspan="5">5812</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td colspan="6">2</td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="6">Салықтық емес түсiмдер</td>
-<td colspan="2">9689</td>
+<td></td>
+<td colspan="7">Салықтық емес түсiмдер</td>
+<td colspan="5">9689</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">01</td>
-<td colspan="3"></td>
-<td colspan="6">Мемлекеттік меншіктен түсетін кірістер</td>
-<td colspan="2">4455</td>
+<td></td>
+<td colspan="7">Мемлекеттік меншіктен түсетін кірістер</td>
+<td colspan="5">4455</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="6">Мемлекеттік кәсіпорынының таза кірісі бөлігіндегі түсімдері</td>
-<td colspan="2">315</td>
+<td>1</td>
+<td colspan="7">Мемлекеттік кәсіпорындардың таза кірісі бөлігінің түсімдері</td>
+<td colspan="5">315</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">5</td>
-<td colspan="6">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
-<td colspan="2">4140</td>
+<td>5</td>
+<td colspan="7">Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
+<td colspan="5">4140</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">06</td>
-<td colspan="3"></td>
-<td colspan="6">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">5234</td>
+<td></td>
+<td colspan="7">Басқа да салықтық емес түсiмдер</td>
+<td colspan="5">5234</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="6">Басқа да салықтық емес түсiмдер</td>
-<td colspan="2">5234</td>
+<td>1</td>
+<td colspan="7">Басқа да салықтық емес түсiмдер</td>
+<td colspan="5">5234</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td colspan="6">3</td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="6">Негізгі капиталды сатудан түсетін түсімдер</td>
-<td colspan="2">5769</td>
+<td></td>
+<td colspan="7">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td colspan="5">5769</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">03</td>
-<td colspan="3"></td>
-<td colspan="6">Жердi және материалдық емес активтердi сату</td>
-<td colspan="2">5769</td>
+<td></td>
+<td colspan="7">Жердi және материалдық емес активтердi сату</td>
+<td colspan="5">5769</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">1</td>
-<td colspan="6">Жерді сату</td>
-<td colspan="2">5769</td>
+<td>1</td>
+<td colspan="7">Жерді сату</td>
+<td colspan="5">5769</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td colspan="6">4</td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="6">Трансферттердің түсімдері</td>
-<td colspan="2">5481221</td>
+<td></td>
+<td colspan="7">Трансферттердің түсімдері</td>
+<td colspan="5">5401559</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4">02</td>
-<td colspan="3"></td>
-<td colspan="6">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">5481221</td>
+<td></td>
+<td colspan="7">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
+<td colspan="5">5401559</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6"></td>
 <td colspan="4"></td>
-<td colspan="3">2</td>
-<td colspan="6">Облыстық бюджеттен түсетiн трансферттер</td>
-<td colspan="2">5481221</td>
+<td>2</td>
+<td colspan="7">Облыстық бюджеттен түсетiн трансферттер</td>
+<td colspan="5">5401559</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="14">Функционалдық топ</td>
-<td colspan="2" rowspan="5">Сомасы (мың теңге)</td>
+<td colspan="20">Функционалдық топ</td>
+<td colspan="6" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="12">Кіші функция</td>
+<td colspan="5" rowspan="3"></td>
+<td colspan="15">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="10">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="13">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="9">Бағдарлама</td>
+</tr>
+<tr>
 <td colspan="5"></td>
-<td colspan="5">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Атауы</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">II. Шығындар</td>
+<td colspan="6">7 890 903</td>
 </tr>
 <tr>
+<td colspan="5">01</td>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td colspan="6">618874</td>
+</tr>
+<tr>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">II. Шығындар</td>
-<td colspan="2">7 893 825</td>
-</tr>
-<tr>
-<td colspan="2">01</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">593961</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2">1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td colspan="6">501539</td>
+</tr>
+<tr>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">493251</td>
+<td colspan="2"></td>
+<td colspan="4">112</td>
+<td colspan="4"></td>
+<td colspan="5">Аудан (облыстық маңызы бар қала) мәслихатының аппараты</td>
+<td colspan="6">36419</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">112</td>
-<td colspan="3"></td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) мәслихатының аппараты</td>
-<td colspan="2">35719</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) мәслихатының қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">26059</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Аудан (облыстық маңызы бар қала) мәслихатының қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="6">26759</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">003</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">9660</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">9660</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">122</td>
-<td colspan="3"></td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td colspan="2">141634</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">127066</td>
+<td colspan="2"></td>
+<td colspan="4">122</td>
+<td colspan="4"></td>
+<td colspan="5">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
+<td colspan="6">141634</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">003</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">14568</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Аудан (облыстық маңызы бар қала) әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="6">127066</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">123</td>
-<td colspan="3"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">315898</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">310903</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">14568</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">022</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">4995</td>
+<td colspan="2"></td>
+<td colspan="4">123</td>
+<td colspan="4"></td>
+<td colspan="5">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">323486</td>
 </tr>
 <tr>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="6">317263</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">022</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">6223</td>
+</tr>
+<tr>
+<td colspan="5"></td>
 <td colspan="2">2</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Қаржылық қызмет</td>
+<td colspan="6">34088</td>
+</tr>
+<tr>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Қаржылық қызмет</td>
-<td colspan="2">18499</td>
+<td colspan="2"></td>
+<td colspan="4">489</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) мемлекеттік активтер және сатып алу бөлімі</td>
+<td colspan="6">34088</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">489</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) мемлекеттік активтер және сатып алу бөлімі</td>
-<td colspan="2">18499</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде мемлекеттік активтер мен сатып алуды басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">11739</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Жергілікті деңгейде мемлекеттік активтер мен сатып алуды басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">12765</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">003</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">860</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">860</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">005</td>
-<td colspan="2">Жекешелендіру, коммуналдық меншікті басқару, жекешелендіруден кейінгі қызмет және осыған байланысты дауларды реттеу</td>
-<td colspan="2">5900</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">004</td>
+<td colspan="5">Салық салу мақсатында мүлікті бағалауды жүргізу</td>
+<td colspan="6">1263</td>
 </tr>
 <tr>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">005</td>
+<td colspan="5">Жекешелендіру, коммуналдық меншікті басқару, жекешелендіруден кейінгі қызмет және осыған байланысты дауларды реттеу</td>
+<td colspan="6">10900</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">007</td>
+<td colspan="5">Коммуналдық меншікке мүлікті сатып алу</td>
+<td colspan="6">8300</td>
+</tr>
+<tr>
+<td colspan="5"></td>
 <td colspan="2">9</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Жалпы сипаттағы өзге де мемлекеттік қызметтер</td>
+<td colspan="6">83247</td>
+</tr>
+<tr>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Жалпы сипаттағы өзге де мемлекеттік қызметтер</td>
-<td colspan="2">82211</td>
+<td colspan="2"></td>
+<td colspan="4">459</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td colspan="6">43313</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">459</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">43313</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономикалық саясаттын қалыптастыру мен дамыту, мемлекеттік жоспарлау, бюджеттік атқару және коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">41768</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) экономикалық саясаттын қалыптастыру мен дамыту, мемлекеттік жоспарлау, бюджеттік атқару және коммуналдық меншігін басқару саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">41768</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">015</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">1545</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">492</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td colspan="2">23383</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде тұрғын үй-коммуналдық шаруашылық, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">22183</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">013</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">1200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">494</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік және өнеркәсіп бөлімі</td>
-<td colspan="2">15515</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде кәсіпкерлікті және өнеркәсіпті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">15215</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">003</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">300</td>
-</tr>
-<tr>
-<td colspan="2">02</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Қорғаныс</td>
-<td colspan="3">23439</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Әскери мұқтаждар</td>
-<td colspan="3">12629</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">122</td>
-<td colspan="3"></td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td colspan="3">12629</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">005</td>
-<td colspan="2">Жалпыға бірдей әскери міндетті атқару шеңберіндегі іс-шаралар</td>
-<td colspan="3">12629</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Төтенше жағдайлар жөнiндегi жұмыстарды ұйымдастыру</td>
-<td colspan="3">10810</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">122</td>
-<td colspan="3"></td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td colspan="3">10810</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">006</td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) ауқымындағы төтенше жағдайлардың алдын алу және оларды жою</td>
-<td colspan="3">3000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">007</td>
-<td colspan="2">Аудандық (қалалық) ауқымдағы дала өрттерінің, сондай-ақ мемлекеттік өртке қарсы қызмет органдары құрылмаған елдi мекендерде өрттердің алдын алу және оларды сөндіру жөніндегі іс-шаралар</td>
-<td colspan="3">7810</td>
-</tr>
-<tr>
-<td colspan="2">03</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
-<td colspan="3">3402</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Қоғамдық тәртіп және қауіпсіздік саласындағы басқа да қызметтер</td>
-<td colspan="3">3402</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">492</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td colspan="3">3402</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">021</td>
-<td colspan="2">Елдi мекендерде жол қозғалысы қауiпсiздiгін қамтамасыз ету</td>
-<td colspan="3">3402</td>
-</tr>
-<tr>
-<td colspan="2">04</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Бiлiм беру</td>
-<td colspan="3">3 926 824</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Мектепке дейiнгi тәрбие және оқыту</td>
-<td colspan="3">22600</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">464</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td colspan="3">22600</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">009</td>
-<td colspan="2">Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td colspan="3">22600</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру</td>
-<td colspan="3">3694177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">123</td>
-<td colspan="3"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="3">13289</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">005</td>
-<td colspan="2">Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td colspan="3">13289</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">464</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td colspan="3">3488799</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">003</td>
-<td colspan="2">Жалпы білім беру</td>
-<td colspan="3">3425928</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">006</td>
-<td colspan="2">Балаларға қосымша білім беру</td>
-<td colspan="3">62871</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">465</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
-<td colspan="3">137821</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">017</td>
-<td colspan="2">Балалар мен жасөспірімдерге спорт бойынша қосымша білім беру</td>
-<td colspan="3">137821</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">467</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td colspan="3">54268</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">024</td>
-<td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялау</td>
-<td colspan="3">54268</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">4</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Техникалық және кәсіптік, орта білімнен кейінгі білім беру</td>
-<td colspan="3">27717</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">464</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td colspan="3">27717</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">018</td>
-<td colspan="2">Кәсіптік оқытуды ұйымдастыру</td>
-<td colspan="3">27717</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Бiлiм беру саласындағы өзге де қызметтер</td>
-<td colspan="3">182 330</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">464</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td colspan="3">182 330</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде білім беру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>15 018</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">005</td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) мемлекеттік білім беру мекемелер үшін оқулықтар мен оқу-әдiстемелiк кешендерді сатып алу және жеткізу</td>
-<td>110 000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="4">015</td>
-<td colspan="2">Жетім баланы (жетім балаларды) және ата-аналарының қамқорынсыз қалған баланы (балаларды) күтіп-ұстауға қамқоршыларға (қорғаншыларға) ай сайынға ақшалай қаражат төлемі</td>
-<td>17339</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">1545</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">067</td>
-<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>39 973</td>
+<td colspan="2"></td>
+<td colspan="4">492</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td colspan="6">23383</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>276460</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Жергілікті деңгейде тұрғын үй-коммуналдық шаруашылық, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">22183</td>
 </tr>
 <tr>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">013</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">1200</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4">494</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік және өнеркәсіп бөлімі</td>
+<td colspan="6">16551</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Жергілікті деңгейде кәсіпкерлікті және өнеркәсіпті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">16226</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">325</td>
+</tr>
+<tr>
+<td colspan="5">02</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Қорғаныс</td>
+<td colspan="6">23439</td>
+</tr>
+<tr>
+<td colspan="5"></td>
 <td colspan="2">1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Әскери мұқтаждар</td>
+<td colspan="6">12629</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4">122</td>
+<td colspan="4"></td>
+<td colspan="5">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
+<td colspan="6">12629</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">005</td>
+<td colspan="5">Жалпыға бірдей әскери міндетті атқару шеңберіндегі іс-шаралар</td>
+<td colspan="6">12629</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="19">Функционалдық топ</td>
+<td colspan="6" rowspan="5">Сомасы (мың теңге)</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="16">Кіші функция</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="11">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Әлеуметтiк қамсыздандыру</td>
-<td>72921</td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">451</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>72921</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">005</td>
-<td colspan="2">Мемлекеттік атаулы әлеуметтік көмек</td>
-<td>72921</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">2</td>
+<td colspan="5">2</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Әлеуметтiк көмек</td>
-<td>171367</td>
+<td colspan="3">Төтенше жағдайлар жөнiндегi жұмыстарды ұйымдастыру</td>
+<td colspan="6">10810</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">123</td>
 <td colspan="3"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>5140</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">003</td>
-<td colspan="2">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
-<td>5140</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">451</td>
+<td colspan="5">122</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>166227</td>
+<td colspan="3">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
+<td colspan="6">10810</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="5"></td>
-<td colspan="3">002</td>
-<td colspan="2">Жұмыспен қамту бағдарламасы</td>
-<td>95126</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">004</td>
-<td colspan="2">Ауылдық жерлерде тұратын денсаулық сақтау, білім беру, әлеуметтік қамтамасыз ету, мәдениет, спорт және ветеринар мамандарына отын сатып алуға Қазақстан Республикасының заңнамасына сәйкес әлеуметтік көмек көрсету</td>
-<td>11544</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
 <td colspan="3">006</td>
-<td colspan="2">Тұрғын үйге көмек көрсету</td>
-<td>1571</td>
+<td colspan="3">Аудан (облыстық маңызы бар қала) ауқымындағы төтенше жағдайлардың алдын алу және оларды жою</td>
+<td colspan="6">3000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">007</td>
-<td colspan="2">Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>9500</td>
+<td colspan="3">Аудандық (қалалық) ауқымдағы дала өрттерінің, сондай-ақ мемлекеттік өртке қарсы қызмет органдары құрылмаған елдi мекендерде өрттердің алдын алу және оларды сөндіру жөніндегі іс-шаралар</td>
+<td colspan="6">7810</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3">03</td>
 <td colspan="5"></td>
-<td colspan="3">010</td>
-<td colspan="2">Үйден тәрбиеленіп оқытылатын мүгедек балаларды материалдық қамтамасыз ету</td>
-<td>350</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
+<td colspan="6">3402</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5">9</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Қоғамдық тәртіп және қауіпсіздік саласындағы басқа да қызметтер</td>
+<td colspan="6">3402</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5">492</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td colspan="6">3402</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">021</td>
+<td colspan="3">Елдi мекендерде жол қозғалысы қауiпсiздiгін қамтамасыз ету</td>
+<td colspan="6">3402</td>
+</tr>
+<tr>
+<td colspan="3">04</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Бiлiм беру</td>
+<td colspan="6">3 852 511</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">1</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Мектепке дейiнгi тәрбие және оқыту</td>
+<td colspan="6">22600</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5">464</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+<td colspan="6">22600</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">009</td>
+<td colspan="3">Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
+<td colspan="6">22600</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">2</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Бастауыш, негізгі орта және жалпы орта білім беру</td>
+<td colspan="6">3355162</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5">123</td>
+<td colspan="3"></td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">13289</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">005</td>
+<td colspan="3">Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td colspan="6">13289</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5">464</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+<td colspan="6">3169894</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">003</td>
+<td colspan="3">Жалпы білім беру</td>
+<td colspan="6">3107023</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">006</td>
+<td colspan="3">Балаларға қосымша білім беру</td>
+<td colspan="6">62871</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5">465</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
+<td colspan="6">160885</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">017</td>
-<td colspan="2">Оңалтудың жеке бағдарламасына сәйкес мұқтаж мүгедектердi мiндеттi гигиеналық құралдармен қамтамасыз ету, қозғалуға қиындығы бар бірінші топтағы мүгедектерге жеке көмекшінің және есту бойынша мүгедектерге қолмен көрсететiн тіл маманының қызметтерін ұсыну</td>
-<td>19500</td>
+<td colspan="3">Балалар мен жасөспірімдерге спорт бойынша қосымша білім беру</td>
+<td colspan="6">160885</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="5"></td>
-<td colspan="3">023</td>
-<td colspan="2">Жұмыспен қамту орталықтарының қызметін қамтамасыз ету</td>
-<td>28636</td>
+<td colspan="5">467</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td colspan="6">11094</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">024</td>
+<td colspan="3">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялау</td>
+<td colspan="6">11094</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">4</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td>32172</td>
+<td colspan="3">Техникалық және кәсіптік, орта білімнен кейінгі білім беру</td>
+<td colspan="6">27717</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">451</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>32172</td>
+<td colspan="5"></td>
+<td colspan="5">464</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+<td colspan="6">27717</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">018</td>
+<td colspan="3">Кәсіптік оқытуды ұйымдастыру</td>
+<td colspan="6">27717</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">9</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Бiлiм беру саласындағы өзге де қызметтер</td>
+<td colspan="6">447 032</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5">464</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
+<td colspan="6">447 032</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде халық үшін әлеуметтік бағдарламаларды жұмыспен қамтуды қамтамасыз етуді іске асыру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>23943</td>
+<td colspan="3">Жергілікті деңгейде білім беру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">15 348</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">005</td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) мемлекеттік білім беру мекемелер үшін оқулықтар мен оқу-әдiстемелiк кешендерді сатып алу және жеткізу</td>
+<td colspan="6">110 000</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">015</td>
+<td colspan="3">Жетім баланы (жетім балаларды) және ата-аналарының қамқорынсыз қалған баланы (балаларды) күтіп-ұстауға қамқоршыларға (қорғаншыларға) ай сайынға ақшалай қаражат төлемі</td>
+<td colspan="6">19539</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">067</td>
+<td colspan="3">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
+<td colspan="6">302 145</td>
+</tr>
+<tr>
+<td colspan="3">06</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td colspan="6">276610</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="5">1</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Әлеуметтiк қамсыздандыру</td>
+<td colspan="6">72921</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="18">Функционалдық топ</td>
+<td colspan="6" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="16">Кіші функция</td>
+</tr>
+<tr>
 <td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="11">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="6">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5">451</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
+<td colspan="6">72921</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">005</td>
+<td colspan="3">Мемлекеттік атаулы әлеуметтік көмек</td>
+<td colspan="6">72921</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">2</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Әлеуметтiк көмек</td>
+<td colspan="6">171367</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5">123</td>
+<td colspan="3"></td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">5140</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">003</td>
+<td colspan="3">Мұқтаж азаматтарға үйінде әлеуметтік көмек көрсету</td>
+<td colspan="6">5140</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5">451</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
+<td colspan="6">166227</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">002</td>
+<td colspan="3">Жұмыспен қамту бағдарламасы</td>
+<td colspan="6">93663</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">004</td>
+<td colspan="3">Ауылдық жерлерде тұратын денсаулық сақтау, білім беру, әлеуметтік қамтамасыз ету, мәдениет, спорт және ветеринар мамандарына отын сатып алуға Қазақстан Республикасының заңнамасына сәйкес әлеуметтік көмек көрсету</td>
+<td colspan="6">11544</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">006</td>
+<td colspan="3">Тұрғын үйге көмек көрсету</td>
+<td colspan="6">1571</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">007</td>
+<td colspan="3">Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
+<td colspan="6">9500</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">010</td>
+<td colspan="3">Үйден тәрбиеленіп оқытылатын мүгедек балаларды материалдық қамтамасыз ету</td>
+<td colspan="6">350</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">017</td>
+<td colspan="3">Оңалтудың жеке бағдарламасына сәйкес мұқтаж мүгедектердi мiндеттi гигиеналық құралдармен қамтамасыз ету, қозғалуға қиындығы бар бірінші топтағы мүгедектерге жеке көмекшінің және есту бойынша мүгедектерге қолмен көрсететiн тіл маманының қызметтерін ұсыну</td>
+<td colspan="6">19500</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">023</td>
+<td colspan="3">Жұмыспен қамту орталықтарының қызметін қамтамасыз ету</td>
+<td colspan="6">30099</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">9</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
+<td colspan="6">32322</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5">451</td>
+<td colspan="3"></td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
+<td colspan="6">32322</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">001</td>
+<td colspan="3">Жергілікті деңгейде халық үшін әлеуметтік бағдарламаларды жұмыспен қамтуды қамтамасыз етуді іске асыру саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">23943</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">011</td>
-<td colspan="2">Жәрдемақыларды және басқа да әлеуметтік төлемдерді есептеу, төлеу мен жеткізу бойынша қызметтерге ақы төлеу</td>
-<td>2500</td>
+<td colspan="3">Жәрдемақыларды және басқа да әлеуметтік төлемдерді есептеу, төлеу мен жеткізу бойынша қызметтерге ақы төлеу</td>
+<td colspan="6">2500</td>
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">021</td>
+<td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">150</td>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">050</td>
-<td colspan="2">Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз ету және өмiр сүру сапасын жақсарту жөнiндегi 2012 – 2018 жылдарға арналған iс-шаралар жоспарын іске асыру</td>
-<td>5729</td>
+<td colspan="3">Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз ету және өмiр сүру сапасын жақсарту жөнiндегi 2012 – 2018 жылдарға арналған iс-шаралар жоспарын іске асыру</td>
+<td colspan="6">5729</td>
 </tr>
 <tr>
 <td colspan="2">07</td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>1027808</td>
+<td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="6">1044560</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="5">1</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Тұрғын үй шаруашылығы</td>
-<td>169575</td>
+<td colspan="3">Тұрғын үй шаруашылығы</td>
+<td colspan="6">166002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">467</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>163575</td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td colspan="6">149802</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">003</td>
-<td colspan="2">Коммуналдық тұрғын үй қорының тұрғын үйін жобалау, және (немесе) салу, реконструкциялау</td>
-<td>163575</td>
+<td colspan="3">Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялау</td>
+<td colspan="6">147802</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">492</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>6000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">004</td>
-<td colspan="2">Азаматтардың жекелген санаттарын тұрғын үймен қамтамасыз ету</td>
-<td>4000</td>
+<td colspan="3">Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
+<td colspan="6">2000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">033</td>
-<td colspan="2">Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
-<td>2000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">2</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Коммуналдық шаруашылық</td>
-<td>821053</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">467</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>784053</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">006</td>
-<td colspan="2">Сумен жабдықтау және су бұру жүйесін дамыту</td>
-<td>784053</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5">492</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>37000</td>
+<td colspan="3">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td colspan="6">16200</td>
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">004</td>
+<td colspan="3">Азаматтардың жекелген санаттарын тұрғын үймен қамтамасыз ету</td>
+<td colspan="6">6700</td>
+</tr>
+<tr>
 <td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">033</td>
+<td colspan="3">Инженерлік-коммуникациялық инфрақұрылымды жобалау, дамыту және (немесе) жайластыру</td>
+<td colspan="6">9500</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">2</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="3">Коммуналдық шаруашылық</td>
+<td colspan="6">826253</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="21">Функционалдық топ</td>
+<td colspan="5" rowspan="5">Сомасы (мың теңге)</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="19">Кіші функция</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="14">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="9">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="6">Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5">467</td>
+<td colspan="3"></td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td colspan="5">785053</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">006</td>
+<td colspan="6">Сумен жабдықтау және су бұру жүйесін дамыту</td>
+<td colspan="5">6000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">058</td>
+<td colspan="6">Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
+<td colspan="5">779053</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5">492</td>
+<td colspan="3"></td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td colspan="5">41200</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">012</td>
-<td colspan="2">Сумен жабдықтау және су бұру жүйесінің жұмыс істеуі</td>
-<td>37000</td>
+<td colspan="6">Сумен жабдықтау және су бұру жүйесінің жұмыс істеуі</td>
+<td colspan="5">37000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">3</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">026</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) коммуналдық меншігіндегі жылу желілерін пайдалануды ұйымдастыру</td>
+<td colspan="5">4200</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">3</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Елді-мекендерді көркейту</td>
-<td>37180</td>
+<td colspan="6">Елді-мекендерді көркейту</td>
+<td colspan="5">52305</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">123</td>
 <td colspan="3"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>37180</td>
+<td colspan="6">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="5">52305</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">008</td>
-<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>15000</td>
+<td colspan="6">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="5">24497</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">009</td>
-<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>2000</td>
+<td colspan="6">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="5">2800</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">010</td>
-<td colspan="2">Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td>180</td>
+<td colspan="6">Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
+<td colspan="5">180</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">011</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>20000</td>
+<td colspan="6">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="5">24828</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>575711</td>
+<td colspan="6">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td colspan="5">592914</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="5">1</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>224010</td>
+<td colspan="6">Мәдениет саласындағы қызмет</td>
+<td colspan="5">229084</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">455</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>224010</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
+<td colspan="5">229084</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">003</td>
-<td colspan="2">Мәдени-демалыс жұмысын қолдау</td>
-<td>224010</td>
+<td colspan="6">Мәдени-демалыс жұмысын қолдау</td>
+<td colspan="5">229084</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">2</td>
+<td colspan="5">2</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Спорт</td>
-<td>174363</td>
+<td colspan="6">Спорт</td>
+<td colspan="5">177163</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">465</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
-<td>15997</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
+<td colspan="5">18797</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде дене шынықтыру және спорт саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td>7611</td>
+<td colspan="6">Жергілікті деңгейде дене шынықтыру және спорт саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="5">10411</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">005</td>
-<td colspan="2">Ұлттық және бұқаралық спорт түрлерін дамыту</td>
-<td>257</td>
+<td colspan="6">Ұлттық және бұқаралық спорт түрлерін дамыту</td>
+<td colspan="5">257</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">006</td>
-<td colspan="2">Аудандық (облыстық маңызы бар қалалық) деңгейде спорттық жарыстар өткiзу</td>
-<td>3940</td>
+<td colspan="6">Аудандық (облыстық маңызы бар қалалық) деңгейде спорттық жарыстар өткiзу</td>
+<td colspan="5">3940</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">007</td>
-<td colspan="2">Әртүрлi спорт түрлерi бойынша аудан (облыстық маңызы бар қала) құрама командаларының мүшелерiн дайындау және олардың облыстық спорт жарыстарына қатысуы</td>
-<td>4189</td>
+<td colspan="6">Әртүрлi спорт түрлерi бойынша аудан (облыстық маңызы бар қала) құрама командаларының мүшелерiн дайындау және олардың облыстық спорт жарыстарына қатысуы</td>
+<td colspan="5">4189</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">467</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td colspan="2">158366</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td colspan="5">158366</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">008</td>
-<td colspan="2">Cпорт объектілерін дамыту</td>
-<td colspan="2">158366</td>
+<td colspan="6">Cпорт объектілерін дамыту</td>
+<td colspan="5">158366</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">3</td>
+<td colspan="5">3</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Ақпараттық кеңiстiк</td>
-<td colspan="2">125404</td>
+<td colspan="6">Ақпараттық кеңiстiк</td>
+<td colspan="5">129770</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">455</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td colspan="2">110904</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
+<td colspan="5">115270</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">006</td>
-<td colspan="2">Аудандық (қалалық) кiтапханалардың жұмыс iстеуi</td>
-<td colspan="2">110262</td>
+<td colspan="6">Аудандық (қалалық) кiтапханалардың жұмыс iстеуi</td>
+<td colspan="5">114628</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">007</td>
-<td colspan="2">Мемлекеттiк тiлдi және Қазақстан халқының басқа да тiлдерін дамыту</td>
-<td colspan="2">642</td>
+<td colspan="6">Мемлекеттiк тiлдi және Қазақстан халқының басқа да тiлдерін дамыту</td>
+<td colspan="5">642</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">456</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
-<td colspan="2">14500</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
+<td colspan="5">14500</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">002</td>
-<td colspan="2">Мемлекеттік ақпараттық саясат жүргізу жөніндегі қызметтер</td>
-<td colspan="2">14500</td>
+<td colspan="6">Мемлекеттік ақпараттық саясат жүргізу жөніндегі қызметтер</td>
+<td colspan="5">14500</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">9</td>
+<td colspan="5">9</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
-<td colspan="2">51934</td>
+<td colspan="6">Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
+<td colspan="5">56897</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">455</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td colspan="2">14328</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
+<td colspan="5">15497</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде тілдерді және мәдениетті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">12828</td>
+<td colspan="6">Жергілікті деңгейде тілдерді және мәдениетті дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="5">13997</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">010</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">1500</td>
+<td colspan="6">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="5">1500</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">456</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
-<td colspan="2">37606</td>
+<td colspan="6">Ауданның (облыстық маңызы бар қаланың) ішкі саясат бөлімі</td>
+<td colspan="5">41400</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="20">Функционалдық топ</td>
+<td colspan="6" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="18">Кіші функция</td>
+</tr>
+<tr>
 <td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="13">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="8">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="5">Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде ақпарат, мемлекеттілікті нығайту және азаматтардың әлеуметтік сенімділігін қалыптастыру саласында мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">25844</td>
+<td colspan="5">Жергілікті деңгейде ақпарат, мемлекеттілікті нығайту және азаматтардың әлеуметтік сенімділігін қалыптастыру саласында мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">29164</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">003</td>
-<td colspan="2">Жастар саясаты саласында іс-шараларды іске асыру</td>
-<td colspan="2">11612</td>
+<td colspan="5">Жастар саясаты саласында іс-шараларды іске асыру</td>
+<td colspan="6">12086</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">006</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">150</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">150</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td colspan="2">243694</td>
+<td colspan="5">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
+<td colspan="6">248191</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
+<td colspan="5">1</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Ауыл шаруашылығы</td>
-<td colspan="2">194638</td>
+<td colspan="5">Ауыл шаруашылығы</td>
+<td colspan="6">194066</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">462</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлімі</td>
-<td colspan="2">17393</td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы бөлімі</td>
+<td colspan="6">16821</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде ауыл шаруашылығы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">16623</td>
+<td colspan="5">Жергілікті деңгейде ауыл шаруашылығы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">16051</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">006</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">770</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">770</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">473</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) ветеринария бөлімі</td>
-<td colspan="2">177245</td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) ветеринария бөлімі</td>
+<td colspan="6">177245</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде ветеринария саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">17737</td>
+<td colspan="5">Жергілікті деңгейде ветеринария саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">14352</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">006</td>
-<td colspan="2">Ауру жануарларды санитарлық союды ұйымдастыру</td>
-<td colspan="2">1500</td>
+<td colspan="5">Ауру жануарларды санитарлық союды ұйымдастыру</td>
+<td colspan="6">1500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">007</td>
-<td colspan="2">Қаңғыбас иттер мен мысықтарды аулауды және жоюды ұйымдастыру</td>
-<td colspan="2">3000</td>
+<td colspan="5">Қаңғыбас иттер мен мысықтарды аулауды және жоюды ұйымдастыру</td>
+<td colspan="6">3000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">009</td>
-<td colspan="2">Жануарлардың энзоотиялық аурулары бойынша ветеринариялық іс-шараларды жүргізу</td>
-<td colspan="2">1409</td>
+<td colspan="5">Жануарлардың энзоотиялық аурулары бойынша ветеринариялық іс-шараларды жүргізу</td>
+<td colspan="6">1409</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">010</td>
-<td colspan="2">Ауыл шаруашылығы жануарларын сәйкестендіру жөніндегі іс-шараларды өткізу</td>
-<td colspan="2">10323</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
 <td colspan="3">010</td>
-<td colspan="2">Ауыл шаруашылығы жануарларын сәйкестендіру жөніндегі іс-шараларды өткізу</td>
-<td colspan="2">133276</td>
+<td colspan="5">Ауыл шаруашылығы жануарларын сәйкестендіру жөніндегі іс-шараларды өткізу</td>
+<td colspan="6">10323</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">011</td>
-<td colspan="2">Эпизоотияға қарсы іс-шаралар жүргізу</td>
-<td colspan="2">10000</td>
+<td colspan="5">Эпизоотияға қарсы іс-шаралар жүргізу</td>
+<td colspan="6">136661</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">6</td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="3">047</td>
+<td colspan="5">Жануарлардың саулығы мен адамның денсаулығына қауіп төндіретін, алып қоймай залалсыздандырылған (зарарсыздандырылған) және қайта өңделген жануарлардың, жануарлардан алынатын өнімдер мен шикізаттың құнын иелеріне өтеу</td>
+<td colspan="6">10000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">6</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Жер қатынастары</td>
-<td colspan="2">21347</td>
+<td colspan="5">Жер қатынастары</td>
+<td colspan="6">23896</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">463</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
-<td colspan="2">21347</td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
+<td colspan="6">23896</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">20967</td>
+<td colspan="5">Аудан (облыстық маңызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">23516</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">007</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">380</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">380</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">9</td>
+<td colspan="5">9</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
-<td colspan="2">27709</td>
+<td colspan="5">Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
+<td colspan="6">30229</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">459</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">24522</td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td colspan="6">27042</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">099</td>
-<td colspan="2">Мамандардың әлеуметтік көмек көрсетуі жөніндегі шараларды іске асыру</td>
-<td colspan="2">24522</td>
+<td colspan="5">Мамандарға әлеуметтік қолдау көрсету жөніндегі шараларды іске асыру</td>
+<td colspan="6">27042</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">492</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td colspan="2">3187</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
+<td colspan="5">492</td>
+<td colspan="3"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td colspan="6">3187</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
 <td colspan="3">052</td>
-<td colspan="2">Жаңартылатын энергия көздерін пайдалануды қолдану</td>
-<td colspan="2">3187</td>
+<td colspan="5">Жаңартылатын энергия көздерін пайдалануды қолдану</td>
+<td colspan="6">3187</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td colspan="2">24499</td>
+<td colspan="5">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
+<td colspan="6">27934</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">2</td>
+<td colspan="5">2</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
-<td colspan="2">Сәулет, қала құрылысы және құрылыс қызметі</td>
-<td colspan="2">24499</td>
+<td colspan="5">Сәулет, қала құрылысы және құрылыс қызметі</td>
+<td colspan="6">27934</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5">467</td>
 <td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td colspan="2">15594</td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
+<td colspan="6">19322</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5"></td>
 <td colspan="5"></td>
 <td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде құрылыс саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">15094</td>
+<td colspan="5">Жергілікті деңгейде құрылыс саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">18822</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="20">Функционалдық топ</td>
+<td colspan="6" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="18">Кіші функция</td>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">017</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">500</td>
+<td colspan="13">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">468</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет және қала құрылысы бөлімі</td>
-<td colspan="2">8905</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">001</td>
-<td colspan="2">Жергілікті деңгейде сәулет және қала құрылысы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">8905</td>
+<td colspan="4"></td>
+<td colspan="9">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Атауы</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4">017</td>
+<td colspan="5">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="6">500</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4">468</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) сәулет және қала құрылысы бөлімі</td>
+<td colspan="6">8612</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
+<td colspan="5">Жергілікті деңгейде сәулет және қала құрылысы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="6">8612</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Көлiк және коммуникация</td>
+<td colspan="6">208875</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Автомобиль көлiгi</td>
+<td colspan="6">203404</td>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Көлiк және коммуникация</td>
-<td colspan="2">89271</td>
+<td colspan="4">123</td>
+<td colspan="4"></td>
+<td colspan="5">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="6">18604</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Автомобиль көлiгi</td>
-<td colspan="2">83800</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">123</td>
-<td colspan="3"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">19000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">013</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">133276</td>
+<td colspan="4"></td>
+<td colspan="4">013</td>
+<td colspan="5">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td colspan="6">18604</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">492</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>19000</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">023</td>
-<td colspan="2">Автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td>64800</td>
+<td colspan="4">492</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td colspan="6">184800</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Көлік және коммуникациялар саласындағы өзге де қызметтер</td>
-<td>64800</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">492</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
-<td>5471</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">037</td>
-<td colspan="2">Әлеуметтік маңызы бар қалалық (ауылдық), қала маңындағы және ауданішілік қатынастар бойынша жолаушылар тасымалдарын субсидиялау</td>
-<td>5471</td>
+<td colspan="4"></td>
+<td colspan="4">023</td>
+<td colspan="5">Автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td colspan="6">64800</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4">045</td>
+<td colspan="5">Аудандық маңызы бар автомобиль жолдарын және елді-мекендердің көшелерін күрделі және орташа жөндеу</td>
+<td colspan="6">120000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5">9</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Көлік және коммуникациялар саласындағы өзге де қызметтер</td>
+<td colspan="6">5471</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4">492</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі, автомобиль жолдары және тұрғын үй инспекциясы бөлімі</td>
+<td colspan="6">5471</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4">037</td>
+<td colspan="5">Әлеуметтік маңызы бар қалалық (ауылдық), қала маңындағы және ауданішілік қатынастар бойынша жолаушылар тасымалдарын субсидиялау</td>
+<td colspan="6">5471</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Басқалар</td>
-<td>5471</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Басқалар</td>
+<td colspan="6">48000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Басқалар</td>
-<td>48000</td>
+<td colspan="5">9</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Басқалар</td>
+<td colspan="6">48000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">459</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>48000</td>
+<td colspan="5"></td>
+<td colspan="4">459</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td colspan="6">48000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">012</td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td>48000</td>
+<td colspan="4"></td>
+<td colspan="4">012</td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
+<td colspan="6">48000</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Трансферттер</td>
-<td>48000</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Трансферттер</td>
+<td colspan="6">945593</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Трансферттер</td>
-<td>1060756</td>
+<td colspan="5">1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Трансферттер</td>
+<td colspan="6">828533</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">459</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>943696</td>
+<td colspan="5"></td>
+<td colspan="4">459</td>
+<td colspan="4"></td>
+<td colspan="5">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td colspan="6">828533</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">024</td>
-<td colspan="2">Мемлекеттік органдардың функцияларын мемлекеттік басқарудың төмен тұрған деңгейлерінен жоғарғы деңгейлерге беруге байланысты жоғары тұрған бюджеттерге берілетін ағымдағы нысаналы трансферттер</td>
-<td>943696</td>
+<td colspan="4"></td>
+<td colspan="4">006</td>
+<td colspan="5">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td colspan="6">9890</td>
 </tr>
 <tr>
 <td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4">024</td>
+<td colspan="5">Заңнаманы өзгертуге байланысты жоғары тұрған бюджеттің шығындарын өтеуге төмен тұрған бюджеттен ағымдағы нысаналы трансферттер</td>
+<td colspan="6">117060</td>
+</tr>
+<tr>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3">051</td>
-<td colspan="2">Жергілікті өзін-өзі басқару органдарына берілетін трансферттер</td>
-<td>117060</td>
+<td colspan="4"></td>
+<td colspan="4">038</td>
+<td colspan="5">Субвенциялар</td>
+<td colspan="6">805615</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4">051</td>
+<td colspan="5">Жергілікті өзін-өзі басқару органдарына берілетін трансферттер</td>
+<td colspan="6">13026</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+<td colspan="4">054</td>
+<td colspan="5">Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен республикалық бюджеттен бөлінген пайдаланылмаған (түгел пайдаланылмаған) нысаналы трансферттердің сомасын қайтару</td>
+<td colspan="6">2</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td colspan="2"></td>
 <td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Қарыздарды өтеу</td>
-<td>930670</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Қарыздарды өтеу</td>
+<td colspan="6">34559</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Қарыздарды өтеу</td>
-<td>13026</td>
+<td colspan="5">1</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Қарыздарды өтеу</td>
+<td colspan="6">34559</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="5">Функционалдық топ</td>
+<td rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">459</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td></td>
+<td colspan="4">Кіші функция</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>459</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
 <td>34559</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">005</td>
-<td colspan="2">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
+<td></td>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
 <td>34559</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">ІІІ. Таза бюджеттік кредиттеу</td>
-<td>34559</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Бюджеттік кредиттер</td>
-<td>34559</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>ІІІ. Таза бюджеттік кредиттеу</td>
 <td>88096</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Бюджеттік кредиттер</td>
 <td>122655</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">459</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
 <td>122655</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="2">Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
-<td colspan="2">122655</td>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>Ауыл, су, орман, балық шаруашылығы, қоршаған ортаны қорғау және жер қатынастары саласындағы басқа да қызметтер</td>
+<td>122655</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">459</td>
-<td colspan="3"></td>
-<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">122655</td>
+<td></td>
+<td></td>
+<td>459</td>
+<td></td>
+<td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td>122655</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="3">018</td>
-<td colspan="2">Мамандарды әлеуметтік қолдау шараларын іске асыруға берілетін бюджеттік кредиттер</td>
-<td colspan="2">122655</td>
+<td></td>
+<td></td>
+<td></td>
+<td>018</td>
+<td>Мамандарды әлеуметтік қолдау шараларын іске асыру үшін бюджеттік кредиттер</td>
+<td>122655</td>
 </tr>
 </table>
 
@@ -1858,12 +2101,12 @@ source: https://zan.gov.kz/client/#!/doc/117663/kaz/21.12.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th></th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td></td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1932,12 +2175,12 @@ source: https://zan.gov.kz/client/#!/doc/117663/kaz/21.12.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th></th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td></td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1977,12 +2220,12 @@ source: https://zan.gov.kz/client/#!/doc/117663/kaz/21.12.2017
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
