@@ -55,10 +55,12 @@
 
 ## Бюджет поселка Актас на 2018 год
 
+> *Сноска. Приложение 1 в редакции решения Саранского городского маслихата Карагандинской области от 17.05.2018 № 276 (вводится в действие с 01.01.2018).*
+
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="4">Сумма(тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -76,11 +78,11 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -192,28 +194,28 @@
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>213181</td>
+<td>213 181</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>213181</td>
+<td>213 181</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>213181</td>
+<td>213 181</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма (тыс.тенге)</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -238,12 +240,12 @@
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -259,7 +261,7 @@
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>33740</td>
+<td>33927</td>
 </tr>
 <tr>
 <td></td>
@@ -267,7 +269,7 @@
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>33740</td>
+<td>33927</td>
 </tr>
 <tr>
 <td></td>
@@ -275,7 +277,7 @@
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>33740</td>
+<td>33927</td>
 </tr>
 <tr>
 <td></td>
@@ -299,7 +301,7 @@
 <td></td>
 <td>032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>1094</td>
+<td>1281</td>
 </tr>
 <tr>
 <td>04</td>
@@ -362,7 +364,7 @@
 <td></td>
 <td></td>
 <td>003</td>
-<td>Оказание социальной помощи нуждающимся гражданам</td>
+<td>Оказание социальной помощи нуждающимся гражданам на дому</td>
 <td>13244</td>
 </tr>
 <tr>
@@ -371,7 +373,7 @@
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>29800</td>
+<td>38587</td>
 </tr>
 <tr>
 <td></td>
@@ -379,7 +381,7 @@
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>29800</td>
+<td>38587</td>
 </tr>
 <tr>
 <td></td>
@@ -387,7 +389,7 @@
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>29800</td>
+<td>38587</td>
 </tr>
 <tr>
 <td></td>
@@ -419,7 +421,7 @@
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>21908</td>
+<td>30695</td>
 </tr>
 <tr>
 <td>08</td>
@@ -459,7 +461,7 @@
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>73332</td>
+<td>64358</td>
 </tr>
 <tr>
 <td></td>
@@ -467,7 +469,7 @@
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>73332</td>
+<td>64358</td>
 </tr>
 <tr>
 <td></td>
@@ -475,7 +477,7 @@
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>73332</td>
+<td>64358</td>
 </tr>
 <tr>
 <td></td>
@@ -491,7 +493,7 @@
 <td></td>
 <td>045</td>
 <td>Капитальный и средний ремонт автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
-<td>67581</td>
+<td>58607</td>
 </tr>
 <tr>
 <td></td>
@@ -513,115 +515,158 @@
 
 <table>
 <tr>
-<td colspan="16">Функциональная группа</td>
+<td colspan="4">Категория</td>
+<td rowspan="2">Сумма(тысяч тенге)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>01</td>
+<td></td>
+<td>Погашение бюджетных кредитов</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
+<td>0</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="12">Функциональная группа</td>
 <td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="14">Функциональная подгруппа</td>
+<td colspan="10">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="10">Администратор бюджетных программ</td>
+<td colspan="3"></td>
+<td colspan="7">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="7">Программа</td>
+<td colspan="3"></td>
+<td colspan="4">Программа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
-<td colspan="4">Наименование</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="4">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td colspan="4">5</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">IV. Сальдо по операциям с финансовыми активами</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">Приобретение финансовых активов</td>
-<td>0</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="16">Категория</td>
-<td colspan="5" rowspan="4">Сумма (тысяч тенге)</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="13">Класс</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="8">Подкласс</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="5"></td>
+<td></td>
 <td colspan="3">Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="5">2</td>
-<td colspan="5">3</td>
-<td colspan="3">4</td>
-<td>5</td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
+<th>6</th>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="5"></td>
-<td colspan="3">Поступление от продажи финансовых активов государства</td>
+<td colspan="3"></td>
 <td></td>
+<td colspan="3">IV. Сальдо по операциям с финансовыми активами</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">Приобретение финансовых активов</td>
+<td>0</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td colspan="16" rowspan="4">Наименование</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="9">Категория</td>
+<td colspan="3" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="7">Класс</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="4">Подкласс</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Наименование</td>
 </tr>
 <tr>
-<td colspan="16">1</td>
-<td>2</td>
+<th colspan="2">1</th>
+<th colspan="3">2</th>
+<th colspan="3">3</th>
+<th>4</th>
+<th colspan="3">5</th>
 </tr>
 <tr>
-<td colspan="16">V. Дефицит (профицит) бюджета</td>
-<td>0</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td>Поступление от продажи финансовых активов государства</td>
+<td colspan="3"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Наименование</td>
+<td colspan="3">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="16">VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>0</td>
+<th>1</th>
+<th colspan="3">2</th>
+</tr>
+<tr>
+<td>V. Дефицит (профицит) бюджета</td>
+<td colspan="3">0</td>
+</tr>
+<tr>
+<td>VI. Финансирование дефицита (использование профицита) бюджета</td>
+<td colspan="3">0</td>
+</tr>
+<tr>
 </tr>
 </table>
 
