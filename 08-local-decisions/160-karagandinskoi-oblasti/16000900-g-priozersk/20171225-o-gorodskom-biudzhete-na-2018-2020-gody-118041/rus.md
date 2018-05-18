@@ -1,5 +1,5 @@
 ---
-version_id: '118041_338976'
+version_id: '118041_339000'
 act_code: '118041'
 language: rus
 title: О городском бюджете на 2018 - 2020 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160009000002'
 approval_date: 2017-12-25
-version_date: 2018-03-30
+version_date: 2018-05-18
 registry_number: '118041'
 caused_by:
-  code: '120789'
+  code: '122175'
   title: О внесении изменений в решение Приозерского городского маслихата от 25 декабря 2017 года № 17/147 «О городском бюджете на 2018 - 2020 годы»
-  link: https://zan.gov.kz/client/#!/doc/120789/rus
-source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
+  link: https://zan.gov.kz/client/#!/doc/122175/rus
+source: https://zan.gov.kz/client/#!/doc/118041/rus/18.05.2018
 ---
 
 # О городском бюджете на 2018 - 2020 годы
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 
 1. Утвердить городской бюджет на 2018 - 2020 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2018 год в следующих объемах:
 
-   1) доходы - 3001998 тысяч тенге, в том числе:
+   1) доходы - 3224797 тысяч тенге, в том числе:
 
       налоговые поступления - 213493 тысяч тенге;
 
@@ -33,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 
       поступления от продажи основного капитала - 12000 тысяч тенге;
 
-      поступления трансфертов - 2761799 тысяч тенге;
+      поступления трансфертов - 2984598 тысяч тенге;
 
-   2) затраты - 3031943 тысяч тенге;
+   2) затраты - 3254742 тысяч тенге;
 
    3) чистое бюджетное кредитование - 0 тысяч тенге, в том числе:
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 
       используемые остатки бюджетных средств - 17058 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения Приозерского городского маслихата Карагандинской области от 30.03.2018 № 19/197 (вводится в действие с 01.01.2018).*
+> *Сноска. Пункт 1 в редакции решения Приозерского городского маслихата Карагандинской области от 18.05.2018 № 20/204 (вводится в действие с 01.01.2018).*
 
 2. Учесть в составе поступлений городского бюджета на 2018 год объем субвенций, передаваемых из областного бюджета в бюджет города, в сумме 1654976 тысяч тенге.
 
@@ -82,7 +82,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 
 ## Городской бюджет на 2018 год
 
-> *Сноска. Приложение 1 в редакции решения Приозерского городского маслихата Карагандинской области от 30.03.2018 № 19/197 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 в редакции решения Приозерского городского маслихата Карагандинской области от 18.05.2018 № 20/204 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
@@ -105,18 +105,18 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td>Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td colspan="2">5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td colspan="2">3001998</td>
+<td colspan="2">3224797</td>
 </tr>
 <tr>
 <td>1</td>
@@ -333,21 +333,21 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td colspan="2">2761799</td>
+<td colspan="2">2984598</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">2761799</td>
+<td colspan="2">2984598</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td colspan="2">2761799</td>
+<td colspan="2">2984598</td>
 </tr>
 </table>
 
@@ -379,12 +379,12 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -392,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>3031943</td>
+<td>3254742</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -400,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>343247</td>
+<td>346134</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -496,7 +496,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>186252</td>
+<td>189139</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -528,7 +528,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>32248</td>
+<td>35135</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -536,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, государственного планирования, исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>30961</td>
+<td>33848</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -688,7 +688,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>834803</td>
+<td>852182</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -736,7 +736,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>555245</td>
+<td>572624</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -744,7 +744,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>555245</td>
+<td>572624</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -752,7 +752,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Общеобразовательное обучение</td>
-<td>463179</td>
+<td>480558</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -832,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>155571</td>
+<td>147479</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -840,7 +840,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальное обеспечение</td>
-<td>29752</td>
+<td>21252</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -848,7 +848,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>25889</td>
+<td>17389</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -856,7 +856,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Государственная адресная социальная помощь</td>
-<td>25889</td>
+<td>17389</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -880,7 +880,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь</td>
-<td>95613</td>
+<td>95781</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -888,7 +888,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>95613</td>
+<td>95781</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -896,7 +896,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">002</td>
 <td>Программа занятости</td>
-<td>56860</td>
+<td>57050</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -944,7 +944,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">023</td>
 <td>Обеспечение деятельности центров занятости населения</td>
-<td>16844</td>
+<td>16822</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -952,7 +952,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>30206</td>
+<td>30446</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -960,7 +960,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>30206</td>
+<td>30446</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -992,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">050</td>
 <td>Реализация Плана мероприятий по обеспечению прав и улучшению качества жизни инвалидов в Республике Казахстан на 2012 – 2018 годы</td>
-<td>3204</td>
+<td>3444</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1008,7 +1008,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1410883</td>
+<td>1624395</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1016,7 +1016,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищное хозяйство</td>
-<td>36965</td>
+<td>250477</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1024,7 +1024,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>18825</td>
+<td>232337</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1040,7 +1040,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>3391</td>
+<td>216903</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1095,10 +1095,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">011</td>
-<td>
-Обеспечение бесперебойного теплоснабжения малых
-городов
-</td>
+<td>Обеспечение бесперебойного теплоснабжения малых городов</td>
 <td>537923</td>
 </tr>
 <tr>
@@ -1667,7 +1664,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>18810</td>
+<td>15923</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1675,7 +1672,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>18810</td>
+<td>15923</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1683,7 +1680,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>18810</td>
+<td>15923</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1699,7 +1696,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2"></td>
 <td colspan="2">024</td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>18743</td>
+<td>15856</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1714,18 +1711,16 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <table>
 <tr>
 <td colspan="9">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="6">Класс</td>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Подкласс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1734,11 +1729,11 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -1778,12 +1773,12 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1806,18 +1801,16 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <table>
 <tr>
 <td colspan="9">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="2" rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="6">Класс</td>
+<td colspan="3"></td>
+<td colspan="5">Класс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4">Подкласс</td>
+<td colspan="3">Подкласс</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1826,11 +1819,11 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="3">6</td>
@@ -1858,11 +1851,11 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/30.03.2018
 <table>
 <tr>
 <td colspan="9">Наименование</td>
-<td>Сумма (тысяч тенге)</td>
+<td colspan="8">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="9">1</td>
-<td>2</td>
+<th colspan="9">1</th>
+<th>2</th>
 </tr>
 <tr>
 <td colspan="9">V. Дефицит (профицит) бюджета</td>
