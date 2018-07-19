@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
+source: https://zan.gov.kz/client/#!/doc/117713/kaz/19.07.2018
 ---
 
 > *2017 жылғы 27 желтоқсандағы №22/170*  
@@ -3540,10 +3540,12 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 
 ## 2018 жылға арналған Ералиев ауылдық округінің бюджеті
 
+> *Ескерту. 7-қосымша жаңа редакцияда - Қарағанды облысы Жаңаарқа аудандық мәслихатының 19.07.2018 № 31/224 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -3565,7 +3567,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>16448</td>
+<td>18223</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3615,6 +3617,27 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>1896</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсімдер</td>
+<td>1775</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td>Басқа да салықтық емес түсімдер</td>
+<td>1775</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Басқа да салықтық емес түсімдер</td>
+<td>1775</td>
 </tr>
 <tr>
 <td>4</td>
@@ -3672,7 +3695,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>16448</td>
+<td>18223</td>
 </tr>
 <tr>
 <td>01</td>
@@ -3680,7 +3703,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>13324</td>
+<td>14897</td>
 </tr>
 <tr>
 <td></td>
@@ -3688,7 +3711,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>13324</td>
+<td>14897</td>
 </tr>
 <tr>
 <td></td>
@@ -3696,7 +3719,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>13324</td>
+<td>14897</td>
 </tr>
 <tr>
 <td></td>
@@ -3704,7 +3727,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td>001</td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>12684</td>
+<td>14257</td>
 </tr>
 <tr>
 <td></td>
@@ -3776,7 +3799,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2749</td>
+<td>705</td>
 </tr>
 <tr>
 <td></td>
@@ -3784,7 +3807,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>2749</td>
+<td>705</td>
 </tr>
 <tr>
 <td></td>
@@ -3792,7 +3815,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2749</td>
+<td>705</td>
 </tr>
 <tr>
 <td></td>
@@ -3800,7 +3823,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>278</td>
+<td>480</td>
 </tr>
 <tr>
 <td></td>
@@ -3816,7 +3839,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2471</td>
+<td>225</td>
 </tr>
 <tr>
 <td>08</td>
@@ -3880,7 +3903,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>375</td>
+<td>2621</td>
 </tr>
 <tr>
 <td></td>
@@ -3888,7 +3911,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Автомобиль көлiгi</td>
-<td>375</td>
+<td>2621</td>
 </tr>
 <tr>
 <td></td>
@@ -3896,7 +3919,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>375</td>
+<td>2621</td>
 </tr>
 <tr>
 <td></td>
@@ -3905,6 +3928,14 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>375</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>045</td>
+<td>Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
+<td>2246</td>
 </tr>
 <tr>
 <td></td>
@@ -3927,7 +3958,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4025,7 +4056,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -4091,7 +4122,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -5292,10 +5323,12 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 
 ## 2018 жылға арналған Түгіскен ауылдық округінің бюджеті
 
+> *Ескерту. 10-қосымша жаңа редакцияда - Қарағанды облысы Жаңаарқа аудандық мәслихатының 19.07.2018 № 31/224 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -5317,7 +5350,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>33927</td>
+<td>34887</td>
 </tr>
 <tr>
 <td>1</td>
@@ -5367,6 +5400,27 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>1840</td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Салықтық емес түсімдер</td>
+<td>960</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td>Басқа да салықтық емес түсімдер</td>
+<td>960</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Басқа да салықтық емес түсімдер</td>
+<td>960</td>
 </tr>
 <tr>
 <td>4</td>
@@ -5424,7 +5478,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>ІІ.Шығындар</td>
-<td>33927</td>
+<td>34887</td>
 </tr>
 <tr>
 <td>01</td>
@@ -5432,7 +5486,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>13532</td>
+<td>13312</td>
 </tr>
 <tr>
 <td></td>
@@ -5440,7 +5494,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>13532</td>
+<td>13312</td>
 </tr>
 <tr>
 <td></td>
@@ -5448,7 +5502,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>13532</td>
+<td>13312</td>
 </tr>
 <tr>
 <td></td>
@@ -5464,7 +5518,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>640</td>
+<td>420</td>
 </tr>
 <tr>
 <td>04</td>
@@ -5528,7 +5582,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>2807</td>
+<td>3987</td>
 </tr>
 <tr>
 <td></td>
@@ -5536,7 +5590,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td></td>
 <td>Елді-мекендерді көркейту</td>
-<td>2807</td>
+<td>3987</td>
 </tr>
 <tr>
 <td></td>
@@ -5544,7 +5598,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td>124</td>
 <td></td>
 <td>Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td>2807</td>
+<td>3987</td>
 </tr>
 <tr>
 <td></td>
@@ -5552,7 +5606,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td>008</td>
 <td>Елді мекендердегі көшелерді жарықтандыру</td>
-<td>214</td>
+<td>434</td>
 </tr>
 <tr>
 <td></td>
@@ -5568,7 +5622,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>2593</td>
+<td>3553</td>
 </tr>
 <tr>
 <td>08</td>
@@ -5679,7 +5733,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -5777,7 +5831,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
@@ -5843,7 +5897,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/kaz/05.04.2018
 <table>
 <tr>
 <td colspan="4">Санаты</td>
-<td rowspan="4">Сома (мың теңге)</td>
+<td colspan="4" rowspan="4">Сома (мың теңге)</td>
 </tr>
 <tr>
 <td></td>
