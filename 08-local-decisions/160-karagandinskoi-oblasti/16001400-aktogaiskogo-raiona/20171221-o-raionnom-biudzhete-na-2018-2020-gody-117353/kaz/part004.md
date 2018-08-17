@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117353/kaz/17.05.2018
+source: https://zan.gov.kz/client/#!/doc/117353/kaz/17.08.2018
 ---
 
 > *Ақтоғай аудандық мәслихатының*  
@@ -1583,842 +1583,818 @@ source: https://zan.gov.kz/client/#!/doc/117353/kaz/17.05.2018
 
 ## 2018 жылға арналған аудандық бюджет құрамында кенттердің, ауылдың және ауылдық округ әкімдері аппаратының бюджеттік бағдарламалары
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Қарағанды облысы Ақтоғай аудандық мәслихатының 17.05.2018 № 210 (01.01.2018 бастап қолданысқа енеді) шешімімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Қарағанды облысы Ақтоғай аудандық мәслихатының 17.08.2018 № 26/231 (01.01.2018 бастап қолданысқа енеді) шешімімен.*
 
 <table>
 <tr>
-<td colspan="17">Функционалдық топ</td>
-<td colspan="6" rowspan="5">Сома (мың теңге)</td>
+<td colspan="7">Функционалдық топ</td>
+<td colspan="3" rowspan="5">Сомасы (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="15">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="12">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="8">Бағдарлама</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Атауы</td>
+<td></td>
+<td colspan="5">Функционалдық кіші топ</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="3">2</td>
-<td colspan="4">3</td>
-<td colspan="2">4</td>
-<td colspan="6">5</td>
-<td colspan="7">6</td>
+<td></td>
+<td></td>
+<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Барлығы</td>
-<td colspan="7">304165</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="7">252831</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Атауы</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="7">252831</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td colspan="3">5</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
-<td colspan="6">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="7">252831</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Барлығы</td>
+<td colspan="2">295738</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">001</td>
-<td colspan="6">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="7">242706</td>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td colspan="2">252760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">оның ішінде:</td>
-<td colspan="7"></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="3">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td colspan="2">252760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Нүркен ауылдық округі</td>
-<td colspan="7">13720</td>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">252760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қараменде би ауылдық округі</td>
-<td colspan="7">11760</td>
+<td></td>
+<td></td>
+<td></td>
+<td>001</td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">242455</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">оның ішінде:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қарабұлақ ауылдық округі</td>
-<td colspan="7">27174</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Шабанбай ауылдық округі</td>
-<td colspan="7">26466</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Нүркен ауылдық округі</td>
+<td colspan="2">13720</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Абай ауылдық округі</td>
-<td colspan="7">14543</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қараменде би ауылдық округі</td>
+<td colspan="2">11760</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Айыртас ауылдық округі</td>
-<td colspan="7">12433</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қарабұлақ ауылдық округі</td>
+<td colspan="2">27174</td>
 </tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Сарытерек ауылдық округі</td>
-<td colspan="7">25216</td>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Шабанбай ауылдық округі</td>
+<td colspan="2">25016</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тораңғалық ауылдық округі</td>
-<td colspan="7">13333</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Абай ауылдық округі</td>
+<td colspan="2">14543</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қусақ ауылдық округі</td>
-<td colspan="7">14831</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Айыртас ауылдық округі</td>
+<td colspan="2">12433</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қызыларай ауылдық округі</td>
-<td colspan="7">15516</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Сарытерек ауылдық округі</td>
+<td colspan="2">25933</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Кежек ауылдық округі</td>
-<td colspan="7">12861</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тораңғалық ауылдық округі</td>
+<td colspan="2">13333</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Ортадересін ауылдық округі</td>
-<td colspan="7">12874</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қусақ ауылдық округі</td>
+<td colspan="2">14831</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тасарал ауылдық округі</td>
-<td colspan="7">16223</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қызыларай ауылдық округі</td>
+<td colspan="2">15038</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Жидебай ауылдық округі</td>
-<td colspan="7">25756</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Кежек ауылдық округі</td>
+<td colspan="2">12861</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">022</td>
-<td colspan="6">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="7">10125</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Ортадересін ауылдық округі</td>
+<td colspan="2">13704</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">оның ішінде:</td>
-<td colspan="7"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тасарал ауылдық округі</td>
+<td colspan="2">16223</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қараменде би ауылдық округі</td>
-<td colspan="7">300</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Жидебай ауылдық округі</td>
+<td colspan="2">25886</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Шабанбай ауылдық округі</td>
-<td colspan="7">150</td>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td colspan="3">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="2">10305</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">оның ішінде:</td>
 <td colspan="2"></td>
-<td colspan="6">Абай ауылдық округі</td>
-<td colspan="7">800</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тораңғалық ауылдық округі</td>
-<td colspan="7">680</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Нүркен ауылдық округі</td>
+<td colspan="2">30</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қусақ ауылдық округі</td>
-<td colspan="7">33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қараменде би ауылдық округі</td>
+<td colspan="2">300</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қызыларай ауылдық округі</td>
-<td colspan="7">600</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қарабұлақ ауылдық округі</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Кежек ауылдық округі</td>
-<td colspan="7">600</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Шабанбай ауылдық округі</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Ортадересін ауылдық округі</td>
-<td colspan="7">1058</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Абай ауылдық округі</td>
+<td colspan="2">800</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тасарал ауылдық округі</td>
-<td colspan="7">5904</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тораңғалық ауылдық округі</td>
+<td colspan="2">680</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="7">46924</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қусақ ауылдық округі</td>
+<td colspan="2">33</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">2</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Коммуналдық шаруашылық</td>
-<td colspan="7">16716</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қызыларай ауылдық округі</td>
+<td colspan="2">600</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
-<td colspan="6">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="7">16716</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Кежек ауылдық округі</td>
+<td colspan="2">600</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">014</td>
-<td colspan="6">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="7">16716</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Ортадересін ауылдық округі</td>
+<td colspan="2">1058</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">оның ішінде:</td>
-<td colspan="7"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тасарал ауылдық округі</td>
+<td colspan="2">5904</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қараменде би ауылдық округі</td>
-<td colspan="7">1500</td>
+<td>07</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="2">38568</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Шабанбай ауылдық округі</td>
-<td colspan="7">1000</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td colspan="3">Коммуналдық шаруашылық</td>
+<td colspan="2">8000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Айыртас ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">8000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Сарытерек ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td></td>
+<td>014</td>
+<td colspan="3">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td colspan="2">8000</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">оның ішінде:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тораңғалық ауылдық округі</td>
-<td colspan="7">5500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қызыларай ауылдық округі</td>
-<td colspan="7">1000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қараменде би ауылдық округі</td>
+<td colspan="2">1500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тасарал ауылдық округі</td>
-<td colspan="7">4216</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тораңғалық ауылдық округі</td>
+<td colspan="2">5500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Жидебай ауылдық округі</td>
-<td colspan="7">2500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қызыларай ауылдық округі</td>
+<td colspan="2">1000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">3</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Елді-мекендерді абаттандыру</td>
-<td colspan="7">30208</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td colspan="3">Елді-мекендерді абаттандыру</td>
+<td colspan="2">30568</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
-<td colspan="6">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="7">30208</td>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">30568</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">008</td>
-<td colspan="6">Елді мекендердегі көшелерді жарықтандыру</td>
-<td colspan="7">9942</td>
+<td></td>
+<td></td>
+<td></td>
+<td>008</td>
+<td colspan="3">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="2">10302</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">оның ішінде:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">оның ішінде:</td>
-<td colspan="7"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Нүркен ауылдық округі</td>
-<td colspan="7">740</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Нүркен ауылдық округі</td>
+<td colspan="2">1100</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қараменде би ауылдық округі</td>
-<td colspan="7">452</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қараменде би ауылдық округі</td>
+<td colspan="2">452</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қарабұлақ ауылдық округі</td>
-<td colspan="7">1250</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қарабұлақ ауылдық округі</td>
+<td colspan="2">1250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Шабанбай ауылдық округі</td>
-<td colspan="7">780</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Шабанбай ауылдық округі</td>
+<td colspan="2">780</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Абай ауылдық округі</td>
-<td colspan="7">260</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Абай ауылдық округі</td>
+<td colspan="2">260</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Айыртас ауылдық округі</td>
-<td colspan="7">683</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Айыртас ауылдық округі</td>
+<td colspan="2">683</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Сарытерек ауылдық округі</td>
-<td colspan="7">378</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Сарытерек ауылдық округі</td>
+<td colspan="2">378</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тораңғалық ауылдық округі</td>
-<td colspan="7">353</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тораңғалық ауылдық округі</td>
+<td colspan="2">353</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қусақ ауылдық округі</td>
-<td colspan="7">150</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қусақ ауылдық округі</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қызыларай ауылдық округі</td>
-<td colspan="7">645</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қызыларай ауылдық округі</td>
+<td colspan="2">645</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Кежек ауылдық округі</td>
-<td colspan="7">105</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Кежек ауылдық округі</td>
+<td colspan="2">105</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Ортадересін ауылдық округі</td>
-<td colspan="7">650</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Ортадересін ауылдық округі</td>
+<td colspan="2">650</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тасарал ауылдық округі</td>
-<td colspan="7">235</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тасарал ауылдық округі</td>
+<td colspan="2">235</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Жидебай ауылдық округі</td>
-<td colspan="7">3261</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Жидебай ауылдық округі</td>
+<td colspan="2">3261</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">009</td>
-<td colspan="6">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="7">2885</td>
+<td></td>
+<td></td>
+<td></td>
+<td>009</td>
+<td colspan="3">Елді мекендердің санитариясын қамтамасыз ету</td>
+<td colspan="2">2885</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">оның ішінде:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">оның ішінде:</td>
-<td colspan="7"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Абай ауылдық округі</td>
-<td colspan="7">385</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Абай ауылдық округі</td>
+<td colspan="2">385</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Сарытерек ауылдық округі</td>
-<td colspan="7">2500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Сарытерек ауылдық округі</td>
+<td colspan="2">2500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">011</td>
-<td colspan="6">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="7">17381</td>
+<td></td>
+<td></td>
+<td></td>
+<td>011</td>
+<td colspan="3">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td colspan="2">17381</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">оның ішінде:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">оның ішінде:</td>
-<td colspan="7"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Нүркен ауылдық округі</td>
-<td colspan="7">250</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Нүркен ауылдық округі</td>
+<td colspan="2">250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қараменде би ауылдық округі</td>
-<td colspan="7">200</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қараменде би ауылдық округі</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қарабұлақ ауылдық округі</td>
-<td colspan="7">300</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қарабұлақ ауылдық округі</td>
+<td colspan="2">300</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Шабанбай ауылдық округі</td>
-<td colspan="7">1548</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Шабанбай ауылдық округі</td>
+<td colspan="2">1548</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Абай ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Абай ауылдық округі</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Айыртас ауылдық округі</td>
-<td colspan="7">350</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Айыртас ауылдық округі</td>
+<td colspan="2">350</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Сарытерек ауылдық округі</td>
-<td colspan="7">464</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Сарытерек ауылдық округі</td>
+<td colspan="2">464</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тораңғалық ауылдық округі</td>
-<td colspan="7">350</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тораңғалық ауылдық округі</td>
+<td colspan="2">350</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қусақ ауылдық округі</td>
-<td colspan="7">350</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қусақ ауылдық округі</td>
+<td colspan="2">350</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қызыларай ауылдық округі</td>
-<td colspan="7">350</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қызыларай ауылдық округі</td>
+<td colspan="2">350</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Кежек ауылдық округі</td>
-<td colspan="7">3300</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Кежек ауылдық округі</td>
+<td colspan="2">3300</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Ортадересін ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Ортадересін ауылдық округі</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тасарал ауылдық округі</td>
-<td colspan="7">368</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тасарал ауылдық округі</td>
+<td colspan="2">368</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Жидебай ауылдық округі</td>
-<td colspan="7">8551</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Жидебай ауылдық округі</td>
+<td colspan="2">8551</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Көлiк және коммуникация</td>
-<td colspan="7">4410</td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Көлiк және коммуникация</td>
+<td colspan="2">4410</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">1</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Автомобиль көлiгi</td>
-<td colspan="7">4410</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td colspan="3">Автомобиль көлiгi</td>
+<td colspan="2">4410</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4">123</td>
-<td colspan="2"></td>
-<td colspan="6">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="7">4410</td>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="3">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">4410</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2">013</td>
-<td colspan="6">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="7">4410</td>
+<td></td>
+<td></td>
+<td></td>
+<td>013</td>
+<td colspan="3">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда , ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td colspan="2">4410</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">оның ішінде:</td>
 <td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">оның ішінде:</td>
-<td colspan="7"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Нүркен ауылдық округі</td>
-<td colspan="7">220</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Нүркен ауылдық округі</td>
+<td colspan="2">220</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қараменде би ауылдық округі</td>
-<td colspan="7">220</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қараменде би ауылдық округі</td>
+<td colspan="2">220</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қарабұлақ ауылдық округі</td>
-<td colspan="7">250</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қарабұлақ ауылдық округі</td>
+<td colspan="2">250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Шабанбай ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Шабанбай ауылдық округі</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Абай ауылдық округі</td>
-<td colspan="7">300</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Абай ауылдық округі</td>
+<td colspan="2">300</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Айыртас ауылдық округі</td>
-<td colspan="7">250</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Айыртас ауылдық округі</td>
+<td colspan="2">250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Сарытерек ауылдық округі</td>
-<td colspan="7">300</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Сарытерек ауылдық округі</td>
+<td colspan="2">300</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Тораңғалық ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Тораңғалық ауылдық округі</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қусақ ауылдық округі</td>
-<td colspan="7">270</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қусақ ауылдық округі</td>
+<td colspan="2">270</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Қызыларай ауылдық округі</td>
-<td colspan="7">350</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Қызыларай ауылдық округі</td>
+<td colspan="2">350</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Кежек ауылдық округі</td>
-<td colspan="7">250</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Кежек ауылдық округі</td>
+<td colspan="2">250</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Ортадересін ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Ортадересін ауылдық округі</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="6">Жидебай ауылдық округі</td>
-<td colspan="7">500</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Жидебай ауылдық округі</td>
+<td colspan="2">500</td>
 </tr>
 </table>
 
@@ -2511,160 +2487,164 @@ source: https://zan.gov.kz/client/#!/doc/117353/kaz/17.05.2018
 
 ## 2018 жылға арналған аудан бюджетінің нысаналы трансферттері мен бюджеттік кредиттері
 
-> *Ескерту. 7-қосымша жаңа редакцияда - Қарағанды облысы Ақтоғай аудандық мәслихатының 17.05.2018 № 210 (01.01.2018 бастап қолданысқа енеді) шешімімен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - Қарағанды облысы Ақтоғай аудандық мәслихатының 17.08.2018 № 26/231 (01.01.2018 бастап қолданысқа енеді) шешімімен.*
 
 <table>
 <tr>
-<td colspan="16">Атауы</td>
-<td colspan="6">Сома (мың теңге)</td>
+<td colspan="5">Атауы</td>
+<td colspan="3">Сома (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="16">1</td>
-<td colspan="6">2</td>
+<td colspan="5">1</td>
+<td colspan="3">2</td>
 </tr>
 <tr>
-<td colspan="16">Барлығы:</td>
-<td colspan="6">1649968</td>
+<td colspan="5">Барлығы:</td>
+<td colspan="3">1610938</td>
 </tr>
 <tr>
-<td colspan="16">оның ішінде:</td>
-<td colspan="6"></td>
+<td colspan="5">оның ішінде:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="16">Ағымдағы нысаналы трансферттер</td>
-<td colspan="6">612205</td>
+<td colspan="5">Ағымдағы нысаналы трансферттер</td>
+<td colspan="3">636163</td>
 </tr>
 <tr>
-<td colspan="16">Нысаналы даму трансферттер</td>
-<td colspan="6">976435</td>
+<td colspan="5">Нысаналы даму трансферттер</td>
+<td colspan="3">913447</td>
 </tr>
 <tr>
-<td colspan="16">Бюджеттік кредиттер</td>
-<td colspan="6">61328</td>
+<td colspan="5">Бюджеттік кредиттер</td>
+<td colspan="3">61328</td>
 </tr>
 <tr>
-<td colspan="16">Ағымдағы нысаналы трансферттер</td>
-<td colspan="6">612205</td>
+<td colspan="5">Ағымдағы нысаналы трансферттер</td>
+<td colspan="3">636163</td>
 </tr>
 <tr>
-<td colspan="16">оның ішінде:</td>
-<td colspan="6"></td>
+<td colspan="5">оның ішінде:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="16">республикалық бюджеттен:</td>
-<td colspan="6">147912</td>
+<td colspan="5">республикалық бюджеттен:</td>
+<td colspan="3">147912</td>
 </tr>
 <tr>
-<td colspan="16">Халықты жұмыспен қамту орталықтарында еңбек ақы төлеудің тартымды жүйесін енгізуге</td>
-<td colspan="6">1444</td>
+<td colspan="5">Халықты жұмыспен қамту орталықтарында еңбек ақы төлеудің тартымды жүйесін енгізуге</td>
+<td colspan="3">1444</td>
 </tr>
 <tr>
-<td colspan="16">Әлеуметтік жұмыс бойынша консультанттарды және халықты жұмыспен қамту орталықтарында ассистенттерді енгізуге</td>
-<td colspan="6">9057</td>
+<td colspan="5">Әлеуметтік жұмыс бойынша консультанттарды және халықты жұмыспен қамту орталықтарында ассистенттерді енгізуге</td>
+<td colspan="3">9057</td>
 </tr>
 <tr>
-<td colspan="16">Мемлекеттік атаулы әлеуметтік көмек төлеміне</td>
-<td colspan="6">10784</td>
+<td colspan="5">Мемлекеттік атаулы әлеуметтік көмек төлеміне</td>
+<td colspan="3">10784</td>
 </tr>
 <tr>
-<td colspan="16">Тілдік курстар өтілінен өткен мұғалімдерге үстемақы төлеу үшін және оқу кезеңінде негізгі қызметкерді алмастырғаны үшін мұғалімдерге үстемақы төлеуге</td>
-<td colspan="6">2617</td>
+<td colspan="5">Тілдік курстар өтілінен өткен мұғалімдерге үстемақы төлеу үшін және оқу кезеңінде негізгі қызметкерді алмастырғаны үшін мұғалімдерге үстемақы төлеуге</td>
+<td colspan="3">2617</td>
 </tr>
 <tr>
-<td colspan="16">Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз ету және өмір сүру сапасын жақсарту жөніндегі 2012 - 2018 жылдарға арналған іс-шаралар жоспарын іске асыруға</td>
-<td colspan="6">3623</td>
+<td colspan="5">Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз ету және өмір сүру сапасын жақсарту жөніндегі 2012 - 2018 жылдарға арналған іс-шаралар жоспарын іске асыруға</td>
+<td colspan="3">3623</td>
 </tr>
 <tr>
-<td colspan="16">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде еңбек нарығын дамытуға</td>
-<td colspan="6">14111</td>
+<td colspan="5">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде еңбек нарығын дамытуға</td>
+<td colspan="3">14111</td>
 </tr>
 <tr>
-<td colspan="16">Жаңартылған білім беру мазмұны бойынша бастауыш, негізгі және жалпы орта білімнің оқу бағдарламаларын іске асыратын білім беру ұйымдарының мұғалімдеріне қосымша ақы төлеуге және жергілікті бюджеттердің қаражаты есебінен шығыстардың осы бағыт бойынша төленген сомаларын өтеуге</td>
-<td colspan="6">91491</td>
+<td colspan="5">Жаңартылған білім беру мазмұны бойынша бастауыш, негізгі және жалпы орта білімнің оқу бағдарламаларын іске асыратын білім беру ұйымдарының мұғалімдеріне қосымша ақы төлеуге және жергілікті бюджеттердің қаражаты есебінен шығыстардың осы бағыт бойынша төленген сомаларын өтеуге</td>
+<td colspan="3">91491</td>
 </tr>
 <tr>
-<td colspan="16">Ұлттық біліктілік тестінен өткен және бастауыш, негізгі және жалпы орта білімнің білім беру бағдарламаларын іске асыратын мұғалімдерге педагогикалық шеберлік біліктілігі үшін ақы төлеуге</td>
-<td colspan="6">14785</td>
+<td colspan="5">Ұлттық біліктілік тестінен өткен және бастауыш, негізгі және жалпы орта білімнің білім беру бағдарламаларын іске асыратын мұғалімдерге педагогикалық шеберлік біліктілігі үшін қосымша ақы төлеуге</td>
+<td colspan="3">14785</td>
 </tr>
 <tr>
-<td colspan="16">облыстық бюджеттен:</td>
-<td colspan="6">464293</td>
+<td colspan="5">облыстық бюджеттен:</td>
+<td colspan="3">488251</td>
 </tr>
 <tr>
-<td colspan="16">Аудандық маңызы бар автомобиль жолдарын және елді мекендердің көшелерін күрделі, орташа және ағымдағы жөндеуден өткізуге</td>
-<td colspan="6">360000</td>
+<td colspan="5">Аудандық маңызы бар автомобиль жолдарын және елді мекендердің көшелерін күрделі, орташа және ағымдағы жөндеуден өткізуге</td>
+<td colspan="3">354211</td>
 </tr>
 <tr>
-<td colspan="16">Аса қауіпті жұқпалы аурулармен ауыратын ауыл шаруашылығы малдарын санитарлық жоюға иелеріне орнын толтыруға және ветеринариялық препараттарды вакцинациялау, тасымалдау және сақтау бойынша қызметтер көрсетуге</td>
-<td colspan="6">6943</td>
+<td colspan="5">Аса қауіпті жұқпалы аурулармен ауыратын ауыл шаруашылығы малдарын санитарлық жоюға иелеріне орнын толтыруға және ветеринариялық препараттарды вакцинациялау, тасымалдау және сақтау бойынша қызметтер көрсетуге</td>
+<td colspan="3">6943</td>
 </tr>
 <tr>
-<td colspan="16">Сандық білім беру инфрақұрылымдарын құруға</td>
-<td colspan="6">26507</td>
+<td colspan="5">Сандық білім беру инфрақұрылымдарын құруға</td>
+<td colspan="3">26507</td>
 </tr>
 <tr>
-<td colspan="16">Жаңартылатын энергия көздерін пайдалануды қолдауға</td>
-<td colspan="6">6374</td>
+<td colspan="5">Жаңартылатын энергия көздерін пайдалануды қолдауға</td>
+<td colspan="3">6374</td>
 </tr>
 <tr>
-<td colspan="16">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде еңбек нарығындағы мамандықтар мен дағдылар бойынша жұмысшы кадрларды қысқа мерзімді кәсіптік оқытуға</td>
-<td colspan="6">17404</td>
+<td colspan="5">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде еңбек нарығындағы мамандықтар мен дағдылар бойынша жұмысшы кадрларды қысқа мерзімді кәсіптік оқытуға</td>
+<td colspan="3">10163</td>
 </tr>
 <tr>
-<td colspan="16">Білім беру ұйымдарында интернет-сайттарды автоматтандырылған мониторингтеу бағдарламасын орнатуға</td>
-<td colspan="6">624</td>
+<td colspan="5">Білім беру ұйымдарында интернет-сайттарды автоматтандырылған мониторингтеу бағдарламасын орнатуға</td>
+<td colspan="3">624</td>
 </tr>
 <tr>
-<td colspan="16">Білім беру объектілерін күтіп-ұстауға, материалдық-техникалық базасын нығайтуға және жөндеу жүргізуге</td>
-<td colspan="6">39975</td>
+<td colspan="5">Білім беру объектілерін күтіп-ұстауға, материалдық-техникалық базасын нығайтуға және жөндеу жүргізуге</td>
+<td colspan="3">66975</td>
 </tr>
 <tr>
-<td colspan="16">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде қалалардың және ауылдық елді мекендердің объектілерін жөндеуге</td>
-<td colspan="6">6466</td>
+<td colspan="5">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде қалалардың және ауылдық елді мекендердің объектілерін жөндеуге</td>
+<td colspan="3">16454</td>
 </tr>
 <tr>
-<td colspan="16">оның ішінде:</td>
-<td colspan="6"></td>
+<td colspan="5">оның ішінде:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="16">мәдениет объектілерін жөндеуге</td>
-<td colspan="6">6466</td>
+<td colspan="5">мәдениет объектілерін жөндеуге</td>
+<td colspan="3">16454</td>
 </tr>
 <tr>
-<td colspan="16">Нысаналы даму трансферттері:</td>
-<td colspan="6">976435</td>
+<td colspan="5">Нысаналы даму трансферттері:</td>
+<td colspan="3">913447</td>
 </tr>
 <tr>
-<td colspan="16">оның ішінде:</td>
-<td colspan="6"></td>
+<td colspan="5">оның ішінде:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="16">республикалық бюджеттен:</td>
-<td colspan="6">798148</td>
+<td colspan="5">республикалық бюджеттен:</td>
+<td colspan="3">720160</td>
 </tr>
 <tr>
-<td colspan="16">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялауға</td>
-<td colspan="6">798148</td>
+<td colspan="5">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялауға</td>
+<td colspan="3">720160</td>
 </tr>
 <tr>
-<td colspan="16">облыстық бюджеттен:</td>
-<td colspan="6">178287</td>
+<td colspan="5">облыстық бюджеттен:</td>
+<td colspan="3">193287</td>
 </tr>
 <tr>
-<td colspan="16">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялауға</td>
-<td colspan="6">150299</td>
+<td colspan="5">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялауға</td>
+<td colspan="3">150299</td>
 </tr>
 <tr>
-<td colspan="16">Ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамытуға</td>
-<td colspan="6">27988</td>
+<td colspan="5">Ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамытуға</td>
+<td colspan="3">27988</td>
 </tr>
 <tr>
-<td colspan="16">Бюджеттік кредиттер:</td>
-<td colspan="6">61328</td>
+<td colspan="5">Коммуналдық тұрғын үй қорының тұрғын үйін жобалау және (немесе) салу, реконструкциялауға</td>
+<td colspan="3">15000</td>
 </tr>
 <tr>
-<td colspan="16">Мамандарды әлеуметтік қолдау шараларын іске асыру үшін бюджеттік кредиттер</td>
-<td colspan="6">61328</td>
+<td colspan="5">Бюджеттік кредиттер:</td>
+<td colspan="3">61328</td>
+</tr>
+<tr>
+<td colspan="5">Мамандарды әлеуметтік қолдау шараларын іске асыру үшін бюджеттік кредиттер</td>
+<td colspan="3">61328</td>
 </tr>
 </table>
 
@@ -2675,47 +2655,47 @@ source: https://zan.gov.kz/client/#!/doc/117353/kaz/17.05.2018
 
 ## 2018 жылға арналған ауыл, кенттер, ауылдық округтер бюджеттеріне аудандық бюджеттен нысаналы трансферттер
 
-> *Ескерту. Шешім 8-қосымшамен толықтырылды - Қарағанды облысы Ақтоғай аудандық мәслихатының 16.02.2018 № 183 (01.01.2018 бастап қолданысқа енеді); жаңа редакцияда - Қарағанды облысы Ақтоғай аудандық мәслихатының 17.05.2018 № 210 (01.01.2018 бастап қолданысқа енеді) шешімдерімен.*
+> *Ескерту. 8-қосымша жаңа редакцияда - Қарағанды облысы Ақтоғай аудандық мәслихатының 17.08.2018 № 26/231 (01.01.2018 бастап қолданысқа енеді) шешімімен.*
 
 <table>
 <tr>
-<td colspan="18">Атауы</td>
-<td colspan="5">Сома (мың теңге)</td>
+<td colspan="6">Атауы</td>
+<td colspan="2">Сома (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="18">1</td>
-<td colspan="5">2</td>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
 </tr>
 <tr>
-<td colspan="18">Барлығы:</td>
-<td colspan="5">74009</td>
+<td colspan="6">Барлығы:</td>
+<td colspan="2">67509</td>
 </tr>
 <tr>
-<td colspan="18">оның ішінде:</td>
-<td colspan="5"></td>
+<td colspan="6">оның ішінде:</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="18">Ағымдағы нысаналы трансферттер</td>
-<td colspan="5">74009</td>
+<td colspan="6">Ағымдағы нысаналы трансферттер</td>
+<td colspan="2">67509</td>
 </tr>
 <tr>
-<td colspan="18">оның ішінде:</td>
-<td colspan="5"></td>
+<td colspan="6">оның ішінде:</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="18">Елді мекендерді сумен жабдықтауды ұйымдастыруға</td>
-<td colspan="5">16417</td>
+<td colspan="6">Елді мекендерді сумен жабдықтауды ұйымдастыруға</td>
+<td colspan="2">9917</td>
 </tr>
 <tr>
-<td colspan="18">Елді мекендерді абаттандыру мен көгалдандыруға</td>
-<td colspan="5">36048</td>
+<td colspan="6">Елді мекендерді абаттандыру мен көгалдандыруға</td>
+<td colspan="2">36048</td>
 </tr>
 <tr>
-<td colspan="18">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
-<td colspan="5">16976</td>
+<td colspan="6">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыруға</td>
+<td colspan="2">16976</td>
 </tr>
 <tr>
-<td colspan="18">Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыруға</td>
-<td colspan="5">4568</td>
+<td colspan="6">Мектепке дейінгі тәрбиелеу және оқыту және мектепке дейінгі тәрбиелеу және оқыту ұйымдарында медициналық қызмет көрсетуді ұйымдастыруға</td>
+<td colspan="2">4568</td>
 </tr>
 </table>
