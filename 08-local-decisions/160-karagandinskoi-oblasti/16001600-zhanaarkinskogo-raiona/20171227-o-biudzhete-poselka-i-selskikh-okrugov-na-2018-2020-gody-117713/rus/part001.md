@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
+source: https://zan.gov.kz/client/#!/doc/117713/rus/25.09.2018
 ---
 
 > *Приложение 1*  
@@ -1814,9 +1814,9 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 
 ## Бюджет Бидаикского сельского округа на 2018 год
 
+> *Сноска. Приложение 4 в редакции решения Жанааркинского районного маслихата Карагандинской области от 25.09.2018 № 33/238 (вводится в действие с 01.01.2018).*
+
 <table>
-<tr>
-</tr>
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
@@ -1841,7 +1841,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td>18382</td>
+<td>18912</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1893,6 +1893,27 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td>1084</td>
 </tr>
 <tr>
+<td>2</td>
+<td></td>
+<td></td>
+<td>Неналоговые поступления</td>
+<td>530</td>
+</tr>
+<tr>
+<td></td>
+<td>06</td>
+<td></td>
+<td>Прочие неналоговые поступления</td>
+<td>530</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>Прочие неналоговые поступления</td>
+<td>530</td>
+</tr>
+<tr>
 <td>4</td>
 <td></td>
 <td></td>
@@ -1912,8 +1933,6 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
 <td>16090</td>
-</tr>
-<tr>
 </tr>
 </table>
 
@@ -1950,7 +1969,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td></td>
 <td></td>
 <td>ІІ.Затраты</td>
-<td>18382</td>
+<td>18912</td>
 </tr>
 <tr>
 <td>01</td>
@@ -2054,7 +2073,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>2566</td>
+<td>3096</td>
 </tr>
 <tr>
 <td></td>
@@ -2062,7 +2081,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>2566</td>
+<td>3096</td>
 </tr>
 <tr>
 <td></td>
@@ -2070,7 +2089,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>2566</td>
+<td>3096</td>
 </tr>
 <tr>
 <td></td>
@@ -2078,7 +2097,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>428</td>
+<td>478</td>
 </tr>
 <tr>
 <td></td>
@@ -2094,7 +2113,7 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>2138</td>
+<td>2618</td>
 </tr>
 <tr>
 <td>08</td>
@@ -2363,8 +2382,6 @@ source: https://zan.gov.kz/client/#!/doc/117713/rus/19.07.2018
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
-</tr>
-<tr>
 </tr>
 </table>
 
