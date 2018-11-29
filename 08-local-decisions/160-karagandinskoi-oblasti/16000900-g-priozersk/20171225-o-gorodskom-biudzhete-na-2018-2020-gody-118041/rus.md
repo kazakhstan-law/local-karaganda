@@ -1,5 +1,5 @@
 ---
-version_id: '118041_374053'
+version_id: '118041_378006'
 act_code: '118041'
 language: rus
 title: О городском бюджете на 2018 - 2020 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '160009000002'
 approval_date: 2017-12-25
-version_date: 2018-11-09
+version_date: 2018-11-29
 registry_number: '118041'
 caused_by:
-  code: '126390'
+  code: '126971'
   title: О внесении изменений в решение Приозерского городского маслихата от 25 декабря 2017 года № 17/147 «О городском бюджете на 2018 - 2020 годы»
-  link: https://zan.gov.kz/client/#!/doc/126390/rus
-source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
+  link: https://zan.gov.kz/client/#!/doc/126971/rus
+source: https://zan.gov.kz/client/#!/doc/118041/rus
 ---
 
 # О городском бюджете на 2018 - 2020 годы
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 
 1. Утвердить городской бюджет на 2018 - 2020 годы согласно приложениям 1, 2 и 3 соответственно, в том числе на 2018 год в следующих объемах:
 
-   1) доходы - 3256619 тысяч тенге, в том числе:
+   1) доходы - 3286493 тысяч тенге, в том числе:
 
       налоговые поступления - 211526 тысяч тенге;
 
@@ -33,9 +33,9 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 
       поступления от продажи основного капитала - 19473 тысяч тенге;
 
-      поступления трансфертов - 3007236 тысяч тенге;
+      поступления трансфертов - 3037110 тысяч тенге;
 
-   2) затраты - 3286564 тысяч тенге;
+   2) затраты - 3316438 тысяч тенге;
 
    3) чистое бюджетное кредитование - 0 тысяч тенге, в том числе:
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 
       используемые остатки бюджетных средств - 17058 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения Приозерского городского маслихата Карагандинской области от 09.11.2018 № 24/243 (вводится в действие с 01.01.2018).*
+> *Сноска. Пункт 1 в редакции решения Приозерского городского маслихата Карагандинской области от 29.11.2018 № 25/245 (вводится в действие с 01.01.2018).*
 
 2. Учесть в составе поступлений городского бюджета на 2018 год объем субвенций, передаваемых из областного бюджета в бюджет города, в сумме 1654976 тысяч тенге.
 
@@ -82,272 +82,272 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 
 ## Городской бюджет на 2018 год
 
-> *Сноска. Приложение 1 в редакции решения Приозерского городского маслихата Карагандинской области от 09.11.2018 № 24/243 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 в редакции решения Приозерского городского маслихата Карагандинской области от 29.11.2018 № 25/245 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td colspan="4">Категория</td>
+<td rowspan="4">сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td colspan="3">Класс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td colspan="2">5</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>I. Доходы</td>
-<td colspan="2">3256619</td>
+<td colspan="2">3286493</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Налоговые поступления</td>
 <td colspan="2">211526</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td>Подоходный налог</td>
 <td colspan="2">84652</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
 <td colspan="2">84652</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td>Социальный налог</td>
 <td colspan="2">53767</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Социальный налог</td>
 <td colspan="2">53767</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td>Налоги на собственность</td>
 <td colspan="2">52341</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Налоги на имущество</td>
 <td colspan="2">21100</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
 <td colspan="2">14171</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
 <td colspan="2">17070</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>05</td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td colspan="2">18084</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td>Акцизы</td>
 <td colspan="2">1300</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td colspan="2">4700</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td colspan="2">10721</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td>Налог на игорный бизнес</td>
 <td colspan="2">1363</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>08</td>
 <td></td>
 <td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td colspan="2">2682</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Государственная пошлина</td>
 <td colspan="2">2682</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
 <td colspan="2">18384</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td>Доходы от государственной собственности</td>
 <td colspan="2">16633</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Поступления части чистого дохода государственных предприятий</td>
 <td colspan="2">287</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td colspan="2">16346</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
 <td colspan="2">328</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора и в Фонд компенсации потерпевшим</td>
 <td colspan="2">328</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>06</td>
 <td></td>
 <td>Прочие неналоговые поступления</td>
 <td colspan="2">1423</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Прочие неналоговые поступления</td>
 <td colspan="2">1423</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
 <td colspan="2">19473</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td colspan="2">8082</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td colspan="2">8082</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
 <td colspan="2">11391</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Продажа земли</td>
 <td colspan="2">3897</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td>Продажа нематериальных активов</td>
 <td colspan="2">7494</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td colspan="2">3007236</td>
+<td colspan="2">3037110</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">3007236</td>
+<td colspan="2">3037110</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td colspan="2">3007236</td>
+<td colspan="2">3037110</td>
 </tr>
 </table>
 
@@ -379,12 +379,12 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td>Наименование</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
-<td>6</td>
+<th colspan="2">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -392,7 +392,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>II. Затраты</td>
-<td>3286564</td>
+<td>3316438</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -400,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>328883</td>
+<td>328720</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -496,7 +496,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие государственные услуги общего характера</td>
-<td>186141</td>
+<td>185978</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -528,7 +528,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>32626</td>
+<td>32463</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -536,7 +536,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Услуги по реализации государственной политики в области формирования и развития экономической политики, государственного планирования, исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>31339</td>
+<td>31176</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -583,16 +583,8 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
-<td>Услуги по реализации государственной политики на</td>
+<td>Услуги по реализации государственной политики на местном уровне в области жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции</td>
 <td>50739</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>местном уровне в области жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -659,44 +651,12 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td>786</td>
 </tr>
 <tr>
-<td colspan="2">03</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">6</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Уголовно-исполнительная система</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">451</td>
-<td colspan="2"></td>
-<td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">039</td>
-<td>Организация и осуществление социальной адаптации и реабилитации лиц, отбывших уголовные наказания</td>
-<td>0</td>
-</tr>
-<tr>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Образование</td>
-<td>841772</td>
+<td>843959</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -744,7 +704,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Начальное, основное среднее и общее среднее образование</td>
-<td>556330</td>
+<td>558517</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -752,7 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td>Отдел образования района (города областного значения)</td>
-<td>556330</td>
+<td>558517</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -760,7 +720,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td>Общеобразовательное обучение</td>
-<td>463934</td>
+<td>466121</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -822,14 +782,6 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">022</td>
-<td>Выплата единовременных денежных средств казахстанским гражданам, усыновившим (удочерившим) ребенка (детей)-сироту и ребенка (детей), оставшегося без попечения родителей</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="2">067</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>29321</td>
@@ -848,7 +800,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь и социальное обеспечение</td>
-<td>128024</td>
+<td>124545</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -856,7 +808,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальное обеспечение</td>
-<td>15087</td>
+<td>12828</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -864,7 +816,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>13376</td>
+<td>11117</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -872,7 +824,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Государственная адресная социальная помощь</td>
-<td>13376</td>
+<td>11117</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -896,7 +848,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Социальная помощь</td>
-<td>82145</td>
+<td>81002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -904,7 +856,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>82145</td>
+<td>81002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -912,7 +864,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">002</td>
 <td>Программа занятости</td>
-<td>50258</td>
+<td>50215</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -960,7 +912,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">023</td>
 <td>Обеспечение деятельности центров занятости населения</td>
-<td>17119</td>
+<td>16019</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -968,7 +920,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Прочие услуги в области социальной помощи и социального обеспечения</td>
-<td>30792</td>
+<td>30715</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -976,7 +928,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td>Отдел занятости и социальных программ района (города областного значения)</td>
-<td>30792</td>
+<td>30715</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1008,7 +960,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">050</td>
 <td>Реализация Плана мероприятий по обеспечению прав и улучшению качества жизни инвалидов в Республике Казахстан на 2012 – 2018 годы</td>
-<td>2679</td>
+<td>2602</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1024,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1719460</td>
+<td>1750626</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1032,7 +984,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Жилищное хозяйство</td>
-<td>267655</td>
+<td>209605</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1040,7 +992,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">467</td>
 <td colspan="2"></td>
 <td>Отдел строительства района (города областного значения)</td>
-<td>249555</td>
+<td>191505</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1056,23 +1008,15 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">004</td>
 <td>Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>234136</td>
+<td>176086</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">492</td>
 <td colspan="2"></td>
-<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции</td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
 <td>18100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>района (города областного значения)</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1088,7 +1032,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Коммунальное хозяйство</td>
-<td>1311685</td>
+<td>1400901</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1112,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">492</td>
 <td colspan="2"></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
-<td>1310195</td>
+<td>1399411</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1120,7 +1064,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td>Обеспечение бесперебойного теплоснабжения малых городов</td>
-<td>560978</td>
+<td>743763</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1134,17 +1078,9 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">014</td>
-<td>Развитие благоустройства городов и населенных пунктов</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="2">029</td>
 <td>Развитие системы водоснабжения и водоотведения</td>
-<td>448780</td>
+<td>355211</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1177,14 +1113,6 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">016</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>910</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">017</td>
-<td>Содержание мест захоронений и захоронение безродных</td>
-<td>0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1335,16 +1263,8 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">008</td>
-<td>Развитие государственного языка и других языков народа</td>
+<td>Развитие государственного языка и других языков народа Казахстана</td>
 <td>2903</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Казахстана</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1393,38 +1313,6 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">032</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>2910</td>
-</tr>
-<tr>
-<td colspan="2">09</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Топливно-энергетический комплекс и недропользование</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Топливо и энергетика</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">492</td>
-<td colspan="2"></td>
-<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">019</td>
-<td>Развитие теплоэнергетической системы</td>
-<td>0</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -1567,16 +1455,8 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">004</td>
-<td>Разработка схем градостроительного развития территории</td>
+<td>Разработка схем градостроительного развития территории района и генеральных планов населенных пунктов</td>
 <td>1155</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>района и генеральных планов населенных пунктов</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -1675,36 +1555,12 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td>261</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>Прочие</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">459</td>
-<td colspan="2"></td>
-<td>Отдел экономики и финансов района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">012</td>
-<td>Резерв местного исполнительного органа района (города областного значения)</td>
-<td>0</td>
-</tr>
-<tr>
 <td colspan="2">15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>15923</td>
+<td>16086</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1712,7 +1568,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Трансферты</td>
-<td>15923</td>
+<td>16086</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1720,7 +1576,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>15923</td>
+<td>16086</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1736,7 +1592,7 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2"></td>
 <td colspan="2">024</td>
 <td>Целевые текущие трансферты из нижестоящего бюджета на компенсацию потерь вышестоящего бюджета в связи с изменением законодательства</td>
-<td>15856</td>
+<td>16019</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1746,16 +1602,16 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td>III. Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
-</table>
-
-<table>
+<tr>
+<td colspan="10"></td>
+</tr>
 <tr>
 <td colspan="9">Категория</td>
 <td rowspan="4">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td colspan="3"></td>
-<td colspan="5">Класс</td>
+<td colspan="6">Класс</td>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1769,11 +1625,11 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="3"></td>
@@ -1812,12 +1668,12 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-<td>6</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -1858,11 +1714,11 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td colspan="2">Наименование</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<th colspan="3">1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th>5</th>
 </tr>
 <tr>
 <td colspan="3">6</td>
@@ -1893,8 +1749,8 @@ source: https://zan.gov.kz/client/#!/doc/118041/rus/09.11.2018
 <td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td colspan="9">1</td>
-<td>2</td>
+<th colspan="9">1</th>
+<th>2</th>
 </tr>
 <tr>
 <td colspan="9">V. Дефицит (профицит) бюджета</td>
