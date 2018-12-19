@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
+source: https://zan.gov.kz/client/#!/doc/117475/kaz/19.12.2018
 ---
 
 > *Бұқар жырау*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 
 ## 2018 жылға арналған аудандық бюджет
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Бұқар жырау аудандық мәслихатының 22.11.2018 № 4 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Қарағанды облысы Бұқар жырау аудандық мәслихатының 19.12.2018 № 4 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -34,18 +34,18 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>8 589 660</td>
+<td>8 589 350</td>
 </tr>
 <tr>
 <td>1</td>
@@ -269,21 +269,21 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>6 906 155</td>
+<td>6 905 845</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>6 906 155</td>
+<td>6 905 845</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>6 906 155</td>
+<td>6 905 845</td>
 </tr>
 </table>
 
@@ -315,12 +315,12 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
@@ -328,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td></td>
 <td>II. Шығындар</td>
-<td>8 770 124</td>
+<td>8 769 814</td>
 </tr>
 <tr>
 <td>01</td>
@@ -656,7 +656,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>4 734 146</td>
+<td>4 733 835</td>
 </tr>
 <tr>
 <td></td>
@@ -664,7 +664,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td></td>
 <td>Мектепке дейiнгi тәрбие және оқыту</td>
-<td>201 252</td>
+<td>200 941</td>
 </tr>
 <tr>
 <td></td>
@@ -672,7 +672,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>201 252</td>
+<td>200 941</td>
 </tr>
 <tr>
 <td></td>
@@ -680,7 +680,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td>009</td>
 <td>Мектепке дейінгі тәрбие мен оқыту ұйымдарының қызметін қамтамасыз ету</td>
-<td>176 701</td>
+<td>176 390</td>
 </tr>
 <tr>
 <td></td>
@@ -1800,7 +1800,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>809 638</td>
+<td>809 639</td>
 </tr>
 <tr>
 <td></td>
@@ -1808,7 +1808,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>809 638</td>
+<td>809 639</td>
 </tr>
 <tr>
 <td></td>
@@ -1816,7 +1816,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>809 638</td>
+<td>809 639</td>
 </tr>
 <tr>
 <td></td>
@@ -1824,7 +1824,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td></td>
 <td>006</td>
 <td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
-<td>19 165</td>
+<td>19 166</td>
 </tr>
 <tr>
 <td></td>
@@ -1903,7 +1903,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы(мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1921,11 +1921,11 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1960,7 +1960,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы(мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1978,11 +1978,11 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2017,7 +2017,7 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <table>
 <tr>
 <td colspan="5">Санаты</td>
-<td rowspan="4">Сомасы(мың теңге)</td>
+<td rowspan="4">Сомасы (мың теңге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2035,11 +2035,11 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td colspan="2">1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2060,7 +2060,8 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td colspan="4">Кіші функция</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td colspan="3">Бюджеттік бағдарламалардың әкiмшiсi</td>
 </tr>
 <tr>
@@ -2077,12 +2078,12 @@ source: https://zan.gov.kz/client/#!/doc/117475/kaz/22.11.2018
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
