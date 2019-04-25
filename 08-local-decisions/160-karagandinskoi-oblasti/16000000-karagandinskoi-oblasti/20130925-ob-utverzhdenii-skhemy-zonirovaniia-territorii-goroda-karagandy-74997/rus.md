@@ -15,6 +15,11 @@ approval_date: 2013-09-25
 version_date: 2013-09-25
 registry_number: '74997'
 source: https://zan.gov.kz/client/#!/doc/74997/rus/25.09.2013
+repealed_on: 2020-01-01
+repealed_by:
+  code: '131362'
+  title: Об утверждении схемы зонирования территории города Караганды для целей налогообложения
+  link: https://zan.gov.kz/client/#!/doc/131362/rus
 ---
 
 # Об утверждении Схемы зонирования территории города Караганды для целей налогообложения
