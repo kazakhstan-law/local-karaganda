@@ -4,7 +4,9 @@
 
 1. "Қарағанды облысындағы жылу маусымына дайындық және оны өткізу Қағидалары" осы шешімнің қосымшасына сәйкес бекітілсін.
 
-2. Шешімнің орындалуын бақылау облыстық мәслихаттың құрылыс, көлік және коммуналдық шаруашылық жөніндегі тұрақты комиссиясына (С.В. Полещук) жүктелсін.
+2. Осы шешімнің орындалуын бақылау облыстық мәслихаттың құрылыс, көлік және коммуналдық шаруашылық жөніндегі тұрақты комиссиясына жүктелсін.
+
+> *Ескерту. 2-тармақ жаңа редакцияда – Қарағанды облыстық мәслихатының 22.06.2023 № 54 (оның алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді) шешімімен.*
 
 3. Осы шешім алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді.
 
@@ -981,680 +983,89 @@
 > *оны өткізу Қағидаларына*  
 > *6-қосымша*
 
-> *нысан*
-
+> *нысан*  
 > *«Бекітемін» (қала/аудан әкімі)*  
 > *___________________*  
 > *(қолы)*  
 > *__________________*  
 > *(күні)*
 
-## _______________ж.ж. жылу маусымына тіршілікті қамтамасыз ету объектілерін (инженерлік желілер, электрлік қосалқы станциялар) дайындау және тапсыру бойынша Іс-шаралар.
+## _______________ж.ж. жылу маусымына тіршілікті қамтамасыз ету объектілерін (инженерлік желілер, электрлік қосалқы станциялар) дайындау және тапсыру бойынша іс-шаралар
 
-> *Ескерту. 6-қосымша жаңа редакцияда - Қарағанды облыстық мәслихатының 12.12.2017 № 266 (алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді) шешімімен.*
+> *Ескерту. 6-қосымша жаңа редакцияда - Қарағанды облыстық мәслихатының 12.12.2017 № 266 (алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді); 22.06.2023 № 54 (оның алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді) шешімдерімен.*
 
-## 20___ж. «_____» _________________ жағдай бойынша
+20___ж. «_____» _________________ жағдай бойынша
 
-## 20___ж. «_____» ____________ іс-шараның орындалу жоспары-______%
+20___ж. «_____» ____________ іс-шараның орындалу жоспары-______%
 
-## 20____ж. «_____» ____________іс-шараның орындалу фактісі-_____%
+20____ж. «_____» ____________іс-шараның орындалу фактісі-______%
 
 <table>
 <tr>
 <td rowspan="2">№</td>
-<td rowspan="2">Қала/аудан атауы</td>
-<td colspan="4">Жылу желілері, км</td>
-<td colspan="4">Су құбыры желілері, км</td>
+<td colspan="3" rowspan="2">Қала/аудан атауы</td>
+<td colspan="8">Жылу желілері, км</td>
+<td colspan="7">Су құбыры желілері, км</td>
 </tr>
 <tr>
-<td>Жоспар</td>
-<td>Кезең жоспары</td>
+<td colspan="3">Жоспар</td>
+<td colspan="2">Кезең жоспары</td>
 <td>Факт</td>
-<td>%</td>
+<td colspan="2">%</td>
 <td>Жоспар</td>
-<td>Кезең жоспары</td>
-<td>Факт</td>
+<td colspan="2">Кезең жоспары</td>
+<td colspan="3">Факт</td>
 <td>%</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Карағанды қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Балқаш қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Жезқазған қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Қаражал қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Приозерск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Саран қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Сатбаев қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Теміртау қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
+<td colspan="3">2</td>
+<td colspan="3">7</td>
+<td colspan="2">8</td>
 <td>9</td>
-<td>Шахтинск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Қалалар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>Абай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Ақтоғай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Бұқар-Жыр ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Жанаарқа ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Қарқаралы ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Нұра ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Осакаровка ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Ұлытау ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шет ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Аудандар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Облыс бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">10</td>
+<td>11</td>
+<td colspan="2">12</td>
+<td colspan="3">13</td>
+<td>14</td>
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Қала/аудан атауы</td>
-<td colspan="4">Кәріз желілері, км</td>
-<td colspan="4">ЭБЖ, км</td>
-<td colspan="4">КС, бірлік</td>
+<td colspan="5">Кәріз желілері, км</td>
+<td colspan="6">ЭБЖ, км</td>
+<td colspan="8">КС, бірлік</td>
 </tr>
 <tr>
-<td>Жоспар</td>
+<td colspan="2">Жоспар</td>
 <td>Кезең жоспары</td>
 <td>Факт</td>
 <td>%</td>
 <td>Жоспар</td>
-<td>Кезең жоспары</td>
+<td colspan="2">Кезең жоспары</td>
 <td>Факт</td>
-<td>%</td>
-<td>Жоспар</td>
-<td>Кезең жоспары</td>
+<td colspan="2">%</td>
+<td colspan="3">Жоспар</td>
+<td colspan="2">Кезең жоспары</td>
 <td>Факт</td>
-<td>%</td>
+<td colspan="2">%</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-<th>22</th>
-<th>23</th>
-<th>24</th>
-<th>25</th>
-<th>26</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Карағанды қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Балқаш қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Жезқазған қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Қаражал қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Приозерск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Саран қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Сатбаев қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Теміртау қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шахтинск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Қалалар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>Абай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Ақтоғай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Бұқар-Жыр ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Жанаарқа ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Қарқаралы ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Нұра ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Осакаровка ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Ұлытау ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шет ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Аудандар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Облыс бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td colspan="2">20</td>
+<td>21</td>
+<td colspan="2">22</td>
+<td colspan="3">23</td>
+<td colspan="2">24</td>
+<td>25</td>
+<td colspan="2">26</td>
 </tr>
 </table>
 
@@ -2120,681 +1531,70 @@ ______________ жж.жылу маусымында пайдалануға бер�
 > *оны өткізу Қағидаларына*  
 > *11-қосымша*
 
-> *нысан*
-
+> *нысан*  
 > *«Бекітемін» (қала/аудан әкімі)*  
 > *___________________*  
 > *(қолы)*  
 > *__________________*  
 > *(күні)*
 
-## _______________ ж.ж. жылу маусымына жергілікті жылу көздерін тапсыру және жергілікті жылу көздеріне отынды әкелу дайындық бойынша Іс-шаралар.
+## _______________ ж.ж. жылу маусымына жергілікті жылу көздерін тапсыру және жергілікті жылу көздеріне отынды әкелу дайындық бойынша іс-шаралар
 
-> *Ескерту. Қағида 11-қосымшамен толықтырылды – Қарағанды облыстық мәслихатының 12.12.2017 № 266 (алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді) шешімімен.*
+> *Ескерту. Қағида 11-қосымшамен толықтырылды – Қарағанды облыстық мәслихатының 12.12.2017 № 266 (алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді); жаңа редакцияда – Қарағанды облыстық мәслихатының 22.06.2023 № 54 (оның алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді) шешімдерімен.*
 
-## 20___ж. «_____» _________________ жағдай бойынша
+20___ж. «_____» _________________ жағдай бойынша
 
-## 20___ж. «______» ____________ іс-шараның орындалу жоспары-______%
+20___ж. «______» ____________ іс-шараның орындалу жоспары-______%
 
-## 20____ж. «______» ____________іс-шараның орындалу фактісі-_____%
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td colspan="3" rowspan="2">Қала/аудан атауы</td>
-<td colspan="8">Қазандықтар, бірлік</td>
-<td colspan="6">Қазандықтар, млн. теңге</td>
-<td colspan="6">Қазандықтарға көмір түсіру, мың тонна</td>
-</tr>
-<tr>
-<td colspan="2">Жоспар</td>
-<td colspan="2">Кезең жоспары</td>
-<td colspan="2">Факт</td>
-<td colspan="2">%</td>
-<td colspan="2">Жоспар</td>
-<td colspan="2">Факт</td>
-<td colspan="2">%</td>
-<td colspan="2">Жоспар</td>
-<td colspan="2">Факт</td>
-<td colspan="2">%</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">5</th>
-<th colspan="2">6</th>
-<th colspan="2">7</th>
-<th colspan="2">8</th>
-<th colspan="2">9</th>
-<th colspan="2">10</th>
-<th colspan="2">11</th>
-<th colspan="2">12</th>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="3">Карағанды қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="3">Балқаш қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="3">Жезқазған қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="3">Қаражал қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="3">Приозерск қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="3">Саран қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="3">Сатбаев қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3">Теміртау қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="3">Шахтинск қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Қалалар бойынша барлығы:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="3">Абай ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="3">Ақтоғай ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="3">Бұқар-Жыр ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="3">Жанаарқа ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="3">Қарқаралы ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="3">Нұра ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="3">Осакаровка ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3">Ұлытау ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="3">Шет ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Аудандар бойынша барлығы:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Облыс бойынша барлығы:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-</table>
+20____ж. «______» ____________іс-шараның орындалу фактісі-_____%
 
 <table>
 <tr>
-<td rowspan="2">№</td>
-<td colspan="3" rowspan="2">Қала/аудан атауы</td>
-<td colspan="8">АЖЖ, бірлік</td>
-<td colspan="6">АЖЖ, млн. теңге</td>
-<td colspan="6">АЖЖ-не көмір түсіру, мың тонна</td>
+<td colspan="2" rowspan="2">№</td>
+<td rowspan="2">Қала/аудан атауы</td>
+<td colspan="4">Қазандықтар, бірлік</td>
+<td colspan="3">Қазандықтар, млн. теңге</td>
+<td colspan="3">Қазандықтарға көмір түсіру, мың тонна</td>
 </tr>
 <tr>
-<td colspan="2">Жоспар</td>
-<td colspan="2">Кезең жоспары</td>
-<td colspan="2">Факт</td>
-<td colspan="2">%</td>
-<td colspan="2">Жоспар</td>
-<td colspan="2">Факт</td>
-<td colspan="2">%</td>
-<td colspan="2">Жоспар</td>
-<td colspan="2">Факт</td>
-<td colspan="2">%</td>
+<td>Жоспар</td>
+<td>Кезең жоспары</td>
+<td>Факт</td>
+<td>%</td>
+<td>Жоспар</td>
+<td>Факт</td>
+<td>%</td>
+<td>Жоспар</td>
+<td>Факт</td>
+<td>%</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">13</th>
-<th colspan="2">14</th>
-<th colspan="2">15</th>
-<th colspan="2">16</th>
-<th colspan="2">17</th>
-<th colspan="2">18</th>
-<th colspan="2">19</th>
-<th colspan="2">20</th>
-<th colspan="2">21</th>
-<th colspan="2">22</th>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="3">Карағанды қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
+<td colspan="2">1</td>
 <td>2</td>
-<td colspan="3">Балқаш қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td>3</td>
-<td colspan="3">Жезқазған қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td>4</td>
-<td colspan="3">Қаражал қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td>5</td>
-<td colspan="3">Приозерск қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td>6</td>
-<td colspan="3">Саран қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td>7</td>
-<td colspan="3">Сатбаев қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td>8</td>
-<td colspan="3">Теміртау қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td>9</td>
-<td colspan="3">Шахтинск қ.</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3">Қалалар бойынша барлығы:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="3">Абай ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="3">Ақтоғай ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="3">Бұқар-Жыр ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="3">Жанаарқа ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="3">Қарқаралы ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="3">Нұра ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>7</td>
-<td colspan="3">Осакаровка ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>8</td>
-<td colspan="3">Ұлытау ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>9</td>
-<td colspan="3">Шет ауданы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3">Аудандар бойынша барлығы:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="3">Облыс бойынша барлығы:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -2803,679 +1603,104 @@ ______________ жж.жылу маусымында пайдалануға бер�
 > *оны өткізу Қағидаларына*  
 > *12-қосымша*
 
-> *нысан*
-
+> *нысан*  
 > *«Бекітемін» (қала/аудан әкімі)*  
 > *___________________*  
 > *(қолы)*  
 > *__________________*  
 > *(күні)*
 
-## _______________ ж.ж. жылу маусымына тұрғын үй объектілерін мен әлеуметтік мәдени тұрмыс нысандарын дайындық және тапсыру бойынша Іс-аралар
+## _______________ ж.ж. жылу маусымына тұрғын үй объектілерін мен әлеуметтік мәдени тұрмыс нысандарын дайындық және тапсыру бойынша іс-шаралар
 
-> *Ескерту. Қағида 12-қосымшамен толықтырылды – Қарағанды облыстық мәслихатының 12.12.2017 № 266 (алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді) шешімімен.*
+> *Ескерту. Қағида 12-қосымшамен толықтырылды – Қарағанды облыстық мәслихатының 12.12.2017 № 266 (алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді); жаңа редакцияда – Қарағанды облыстық мәслихатының 22.06.2023 № 54 (оның алғашқы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енеді) шешімдерімен.*
 
-## 20___ж. «_____» _________________ жағдай бойынша
+20___ж. «_____» _________________ жағдай бойынша
 
-## 20___ж. «______» ____________ іс-шараның орындалу жоспары-______%
+20___ж. «______» ____________ іс-шараның орындалу жоспары-______%
 
-## 20____ж. «______» ____________іс-шараның орындалу фактісі-_____%
+20____ж. «______» ____________іс-шараның орындалу фактісі-_____%
 
 <table>
 <tr>
 <td rowspan="2">№</td>
-<td rowspan="2">Қала/аудан атауы</td>
-<td colspan="4">Тұрғын үйлер:</td>
-<td colspan="4">Білім беру объектілері:</td>
-<td colspan="4">Денсаулық сақтау объектілері:</td>
+<td colspan="3" rowspan="2">Қала/аудан атауы</td>
+<td colspan="9">Тұрғын үйлер:</td>
+<td colspan="7">Білім беру объектілері:</td>
+<td colspan="8">Денсаулық сақтау объектілері:</td>
 </tr>
 <tr>
-<td>Жоспар</td>
-<td>Кезең жоспары</td>
-<td>Факт</td>
+<td colspan="2">Жоспар</td>
+<td colspan="3">Кезең жоспары</td>
+<td colspan="3">Факт</td>
 <td>%</td>
-<td>Жоспар</td>
-<td>Кезең жоспары</td>
-<td>Факт</td>
+<td colspan="2">Жоспар</td>
+<td colspan="2">Кезең жоспары</td>
+<td colspan="2">Факт</td>
 <td>%</td>
-<td>Жоспар</td>
-<td>Кезең жоспары</td>
-<td>Факт</td>
+<td colspan="3">Жоспар</td>
+<td colspan="2">Кезең жоспары</td>
+<td colspan="2">Факт</td>
 <td>%</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Карағанды қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Балқаш қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Жезқазған қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Қаражал қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Приозерск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
 <td>6</td>
-<td>Саран қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Сатбаев қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Теміртау қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шахтинск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">7</td>
+<td colspan="2">8</td>
+<td colspan="2">9</td>
+<td>10</td>
+<td colspan="3">11</td>
+<td colspan="2">12</td>
+<td colspan="2">13</td>
+<td>14</td>
 </tr>
 <tr>
 <td></td>
-<td>Қалалар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>Абай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Ақтоғай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Бұқар-Жыр ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Жанаарқа ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Қарқаралы ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Нұра ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Осакаровка ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Ұлытау ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шет ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Аудандар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Облыс бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 </tr>
 </table>
 
+кестенің жалғасы
+
 <table>
 <tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Қала/аудан атауы</td>
-<td colspan="4">Мәдениет нысандары:</td>
-<td colspan="4">Спорт объектілері:</td>
+<td colspan="11">Мәдениет нысандары:</td>
+<td colspan="11">Спорт объектілері:</td>
 </tr>
 <tr>
-<td>Жоспар</td>
-<td>Кезең жоспары</td>
-<td>Факт</td>
-<td>%</td>
-<td>Жоспар</td>
-<td>Кезең жоспары</td>
-<td>Факт</td>
-<td>%</td>
+<td colspan="2">Жоспар</td>
+<td colspan="3">Кезең жоспары</td>
+<td colspan="3">Факт</td>
+<td colspan="3">%</td>
+<td colspan="3">Жоспар</td>
+<td colspan="2">Кезең жоспары</td>
+<td colspan="2">Факт</td>
+<td colspan="4">%</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
-<th>22</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Карағанды қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Балқаш қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Жезқазған қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Қаражал қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Приозерск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Саран қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Сатбаев қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Теміртау қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шахтинск қ.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Қалалар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1</td>
-<td>Абай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Ақтоғай ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Бұқар-Жыр ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Жанаарқа ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Қарқаралы ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Нұра ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Осакаровка ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Ұлытау ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Шет ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Аудандар бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Облыс бойынша барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">15</td>
+<td colspan="3">16</td>
+<td colspan="3">17</td>
+<td colspan="3">18</td>
+<td colspan="3">19</td>
+<td colspan="2">20</td>
+<td colspan="2">21</td>
+<td colspan="4">22</td>
 </tr>
 </table>
