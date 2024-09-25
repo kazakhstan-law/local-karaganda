@@ -45,17 +45,24 @@ versions:
   cause:
     code: '199516'
     key: G24K000204M
+- date: 2024-09-25
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '201056'
+    key: G24K000209M
 version_date:
-  kaz: 2024-08-06
-  rus: 2024-08-06
+  kaz: 2024-09-25
+  rus: 2024-09-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/190224/kaz/06.08.2024
-  rus: https://zan.gov.kz/client/#!/doc/190224/rus/06.08.2024
+  kaz: https://zan.gov.kz/client/#!/doc/190224/kaz/25.09.2024
+  rus: https://zan.gov.kz/client/#!/doc/190224/rus/25.09.2024
 caused_by:
-  code: '199516'
-  key: G24K000204M
-  requisite: Решение Карагандинского областного маслихата от 6 августа 2024 года № 204
+  code: '201056'
+  key: G24K000209M
+  requisite: Решение Карагандинского областного маслихата от 25 сентября 2024 года № 209
   title:
     rus: О внесении изменений в решение Карагандинского областного маслихата от 14 декабря 2023 года № 119 «Об областном бюджете на 2024-2026 годы»
     kaz: Қарағанды облыстық мәслихатының 2023 жылғы 14 желтоқсандағы № 119 «2024-2026 жылдарға арналған облыстық бюджет туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/199516/rus
+  link: https://zan.gov.kz/client/#!/doc/201056/rus
