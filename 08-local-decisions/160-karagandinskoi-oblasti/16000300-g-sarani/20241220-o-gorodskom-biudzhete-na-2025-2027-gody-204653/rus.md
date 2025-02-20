@@ -1,5 +1,5 @@
 ---
-version_id: '204653_735120'
+version_id: '204653_746498'
 act_code: '204653'
 language: rus
 title: О городском бюджете на 2025 - 2027 годы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '160003000002'
 approval_date: 2024-12-20
-version_date: 2024-12-20
+version_date: 2025-02-20
 registry_number: '204653'
-source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
+caused_by:
+  code: '207289'
+  title: О внесении изменений в решение Саранского городского маслихата от 20 декабря 2024 года № 171 «О городском бюджете на 2025-2027 годы»
+  link: https://zan.gov.kz/client/#!/doc/207289/rus
+source: https://zan.gov.kz/client/#!/doc/204653/rus/20.02.2025
 ---
 
 # О городском бюджете на 2025 - 2027 годы
@@ -33,13 +37,13 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 
       поступлениям трансфертов – 3 587 410 тысяч тенге;
 
-   2) затраты – 13 498 906 тысяч тенге;
+   2) затраты – 13 681 335 тысяч тенге;
 
-   3) чистое бюджетное кредитование – - 33 647 тысяч тенге:
+   3) чистое бюджетное кредитование – - 40 690 тысяч тенге:
 
       бюджетные кредиты – 0 тенге;
 
-      погашение бюджетных кредитов – 33 647 тысяч тенге;
+      погашение бюджетных кредитов – 40 690 тысяч тенге;
 
    4) сальдо по операциям с финансовыми активами – 0 тенге:
 
@@ -47,15 +51,17 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 
       поступления от продажи финансовых активов государства – 0 тенге;
 
-   5) дефицит (профицит) бюджета – 33 647 тысяч тенге;
+   5) дефицит (профицит) бюджета – - 141 739 тысяч тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – - 33 647 тысяч тенге:
+   6) финансирование дефицита (использование профицита) бюджета – 141 739 тысяч тенге:
 
       поступление займов – 0 тенге;
 
       погашение займов – 33 647 тысяч тенге;
 
-      используемые остатки бюджетных средств – 0 тенге.
+      используемые остатки бюджетных средств – 175 386 тысяч тенге.
+
+> *Сноска. Пункт 1 в редакции решения Саранского городского маслихата Карагандинской области от 20.02.2025 № 187 (вводится в действие с 01.01.2025).*
 
 2. Учесть в составе поступлений городского бюджета на 2025 год целевые трансферты из вышестоящих бюджетов, согласно приложению 4.
 
@@ -75,16 +81,19 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 
 **О. Баймаганбетов**
 
-> *Приложение 1 к решению*  
+> *Приложение 1*  
+> *к решению*  
 > *Саранского городского маслихата*  
 > *от 20 декабря 2024 года № 171*
 
 ## Городской бюджет на 2025 год
 
+> *Сноска. Приложение 1 в редакции решения Саранского городского маслихата Карагандинской области от 20.02.2025 № 187 (вводится в действие с 01.01.2025).*
+
 <table>
 <tr>
 <td colspan="20">Категория</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td></td>
@@ -94,6 +103,12 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td></td>
 <td colspan="6"></td>
 <td colspan="13">Подкласс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="10"></td>
 </tr>
 <tr>
 <td></td>
@@ -274,14 +289,14 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="6">06</td>
 <td colspan="3"></td>
 <td colspan="10">Прочие неналоговые поступления</td>
-<td>51425</td>
+<td>51 425</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="6"></td>
 <td colspan="3">1</td>
 <td colspan="10">Прочие неналоговые поступления</td>
-<td>51425</td>
+<td>51 425</td>
 </tr>
 <tr>
 <td>3</td>
@@ -351,11 +366,11 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <table>
 <tr>
 <td colspan="20">Функциональная группа</td>
-<td colspan="6" rowspan="5">Сумма (тысяч тенге)</td>
+<td rowspan="5">Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="18">Функциональная подгруппа</td>
+<td colspan="14">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -366,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="2"></td>
 <td colspan="6"></td>
 <td colspan="5"></td>
-<td colspan="6">Программа</td>
+<td colspan="7">Программа</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -389,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">II. Затраты</td>
-<td>13 498 906</td>
+<td>13 681 335</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -397,7 +412,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Государственные услуги общего характера</td>
-<td>1 238 788</td>
+<td>1 245 831</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -421,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">001</td>
 <td colspan="5">Услуги по обеспечению деятельности маслихата района (города областного значения)</td>
-<td>67 885</td>
+<td>63 885</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -429,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">003</td>
 <td colspan="5">Капитальные расходы государственного органа</td>
-<td>16 890</td>
+<td>20 890</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -445,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">001</td>
 <td colspan="5">Услуги по обеспечению деятельности акима района (города областного значения)</td>
-<td>344 151</td>
+<td>345 321</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -453,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">003</td>
 <td colspan="5">Капитальные расходы государственного органа</td>
-<td>65684</td>
+<td>64 514</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -517,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Прочие государственные услуги общего характера</td>
-<td>580 566</td>
+<td>587 609</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -557,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5">459</td>
 <td colspan="2"></td>
 <td colspan="5">Отдел экономики и финансов района (города областного значения)</td>
-<td>80 757</td>
+<td>87 800</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -565,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">001</td>
 <td colspan="5">Услуги по реализации государственной политики в области формирования и развития экономической политики, государственного планирования, исполнения бюджета и управления коммунальной собственностью района (города областного значения)</td>
-<td>69 927</td>
+<td>71 870</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -573,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">015</td>
 <td colspan="5">Капитальные расходы государственного органа</td>
-<td>10 390</td>
+<td>15 490</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -821,7 +836,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Жилищно-коммунальное хозяйство</td>
-<td>6 022 735</td>
+<td>6 246 049</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -829,7 +844,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Жилищное хозяйство</td>
-<td>898 912</td>
+<td>1 329 461</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -861,7 +876,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5">467</td>
 <td colspan="2"></td>
 <td colspan="5">Отдел строительства района (города областного значения)</td>
-<td>652 071</td>
+<td>1 082 620</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -885,7 +900,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">098</td>
 <td colspan="5">Приобретение жилья коммунального жилищного фонда</td>
-<td>144 300</td>
+<td>574 849</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -909,7 +924,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Коммунальное хозяйство</td>
-<td>3 112 210</td>
+<td>3 004 975</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -917,7 +932,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5">458</td>
 <td colspan="2"></td>
 <td colspan="5">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>1 498 330</td>
+<td>1 391 095</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -925,7 +940,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">011</td>
 <td colspan="5">Обеспечение бесперебойного теплоснабжения малых городов</td>
-<td>1 286 763</td>
+<td>1 179 528</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -965,7 +980,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Благоустройство населенных пунктов</td>
-<td>2 011 613</td>
+<td>1 911 613</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -973,7 +988,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5">458</td>
 <td colspan="2"></td>
 <td colspan="5">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>2 011 613</td>
+<td>1 911 613</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1005,7 +1020,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">018</td>
 <td colspan="5">Благоустройство и озеленение населенных пунктов</td>
-<td>1 543 581</td>
+<td>1 443 581</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
@@ -1333,7 +1348,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Транспорт и коммуникации</td>
-<td>1 849 580</td>
+<td>1 575 780</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1341,7 +1356,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Автомобильный транспорт</td>
-<td>1 547 440</td>
+<td>1 273 640</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1349,7 +1364,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5">458</td>
 <td colspan="2"></td>
 <td colspan="5">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>1 547 440</td>
+<td>1 273 640</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1365,7 +1380,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">023</td>
 <td colspan="5">Обеспечение функционирования автомобильных дорог</td>
-<td>650 000</td>
+<td>570 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1373,7 +1388,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2">045</td>
 <td colspan="5">Капитальный и средний ремонт автомобильных дорог районного значения и улиц населенных пунктов</td>
-<td>798 740</td>
+<td>604 940</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1509,7 +1524,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты</td>
-<td>1 049 821</td>
+<td>1 275 693</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1517,7 +1532,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">Трансферты</td>
-<td>1 049 821</td>
+<td>1 275 693</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1525,7 +1540,15 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="5">459</td>
 <td colspan="2"></td>
 <td colspan="5">Отдел экономики и финансов района (города областного значения)</td>
-<td>1 049 821</td>
+<td>1 275 693</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="5"></td>
+<td colspan="2">006</td>
+<td colspan="5">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>141 356</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1547,9 +1570,17 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="2"></td>
 <td colspan="6"></td>
 <td colspan="5"></td>
+<td colspan="2">054</td>
+<td colspan="5">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td>84 516</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="5">III. Чистое бюджетное кредитование</td>
-<td>-33 647</td>
+<td>-40 690</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1593,28 +1624,28 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <td colspan="6"></td>
 <td colspan="4"></td>
 <td colspan="4">Погашение бюджетных кредитов</td>
-<td>33 647</td>
+<td>40 690</td>
 </tr>
 <tr>
 <td colspan="3">5</td>
 <td colspan="6"></td>
 <td colspan="4"></td>
 <td colspan="4">Погашение бюджетных кредитов</td>
-<td>33 647</td>
+<td>40 690</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="6">01</td>
 <td colspan="4"></td>
 <td colspan="4">Погашение бюджетных кредитов</td>
-<td>33 647</td>
+<td>40 690</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="6"></td>
 <td colspan="4">1</td>
 <td colspan="4">Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>33 647</td>
+<td>40 690</td>
 </tr>
 </table>
 
@@ -1683,7 +1714,7 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 <tr>
 <td colspan="5"></td>
 <td colspan="8"></td>
-<td colspan="6">Подкласс</td>
+<td colspan="7">Подкласс</td>
 </tr>
 <tr>
 <td colspan="5"></td>
@@ -1718,11 +1749,11 @@ source: https://zan.gov.kz/client/#!/doc/204653/rus/20.12.2024
 </tr>
 <tr>
 <td colspan="20">V. Дефицит (профицит) бюджета</td>
-<td>33 647</td>
+<td>- 141 739</td>
 </tr>
 <tr>
 <td colspan="20">VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>-33 647</td>
+<td>141 739</td>
 </tr>
 </table>
 
