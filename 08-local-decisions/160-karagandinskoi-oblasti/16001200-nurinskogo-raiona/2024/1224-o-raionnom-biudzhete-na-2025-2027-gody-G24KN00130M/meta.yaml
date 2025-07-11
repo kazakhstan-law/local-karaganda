@@ -31,17 +31,24 @@ versions:
   cause:
     code: '209619'
     key: G25KN00156M
+- date: 2025-07-11
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '212275'
+    key: G25KN00169M
 version_date:
-  kaz: 2025-04-29
-  rus: 2025-04-29
+  kaz: 2025-07-11
+  rus: 2025-07-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/204681/kaz/29.04.2025
-  rus: https://zan.gov.kz/client/#!/doc/204681/rus/29.04.2025
+  kaz: https://zan.gov.kz/client/#!/doc/204681/kaz/11.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/204681/rus/11.07.2025
 caused_by:
-  code: '209619'
-  key: G25KN00156M
-  requisite: Решение Нуринского районного маслихата Карагандинской области от 29 апреля 2025 года № 156
+  code: '212275'
+  key: G25KN00169M
+  requisite: Решение Нуринского районного маслихата Карагандинской области от 11 июля 2025 года № 169
   title:
     rus: О внесении изменений в решение Нуринского районного маслихата от 24 декабря 2024 года № 130 «О районном бюджете на 2025-2027 годы»
     kaz: Нұра аудандық мәслихатының 2024 жылғы 24 желтоқсандағы № 130 «2025–2027 жылдарға арналған аудандық бюджет туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/209619/rus
+  link: https://zan.gov.kz/client/#!/doc/212275/rus
