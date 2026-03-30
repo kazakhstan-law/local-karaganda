@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/166267/kaz/07.04.2022
   rus: https://zan.gov.kz/client/#!/doc/166267/rus/07.04.2022
+repealed_on: 2026-04-06
+repealed_by:
+  code: '223361'
+  key: G26KA00001B
+  requisite: Решение акима города Караганды от 30 марта 2026 года № 01
+  title:
+    rus: Об признании утратившими силу некоторых решений акима
+    kaz: Әкімнің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/223361/rus
