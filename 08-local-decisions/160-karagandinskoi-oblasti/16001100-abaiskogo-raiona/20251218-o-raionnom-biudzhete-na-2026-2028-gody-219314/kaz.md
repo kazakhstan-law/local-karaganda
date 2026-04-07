@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/219314/kaz/20.02.2026
+source: https://zan.gov.kz/client/#!/doc/219314/kaz/07.04.2026
 ---
 
 # 2026-2028 жылдарға арналған аудандық бюджет туралы
