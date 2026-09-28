@@ -59,17 +59,24 @@ versions:
   cause:
     code: '229923'
     key: G26KM58450M
+- date: 2026-09-28
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '230399'
+    key: G26KM59455M
 version_date:
-  kaz: 2026-09-10
-  rus: 2026-09-10
+  kaz: 2026-09-28
+  rus: 2026-09-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/218930/kaz/10.09.2026
-  rus: https://zan.gov.kz/client/#!/doc/218930/rus/10.09.2026
+  kaz: https://zan.gov.kz/client/#!/doc/218930/kaz/28.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/218930/rus/28.09.2026
 caused_by:
-  code: '229923'
-  key: G26KM58450M
-  requisite: Решение Каркаралинского районного маслихата Карагандинской области от 10 сентября 2026 года № VIII-58/450
+  code: '230399'
+  key: G26KM59455M
+  requisite: Решение Каркаралинского районного маслихата Карагандинской области от 28 сентября 2026 года № VIII-59/455
   title:
     rus: О внесении изменений в решение Каркаралинского районного маслихата от 18 декабря 2025 года № VII-44/338 «О районном бюджете на 2026-2028 годы»
     kaz: Қарқаралы аудандық мәслихатының 2025 жылғы 18 желтоқсандағы № VIII-44/338 «2026-2028 жылдарға арналған аудандық бюджет туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/229923/rus
+  link: https://zan.gov.kz/client/#!/doc/230399/rus
